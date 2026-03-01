@@ -1,0 +1,473 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>İndirim Kraliçesi — Günün Fırsatları</title>
+<meta name="description" content="Sahte indirimleri ifşa ediyoruz. Sadece gerçek kozmetik fırsatları.">
+<meta name="theme-color" content="#1B1B2F">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>👑</text></svg>">
+<style>
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+
+  body {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+    background: #0a0a0a;
+    color: #fff;
+    min-height: 100vh;
+    max-width: 430px;
+    margin: 0 auto;
+  }
+
+  /* Header */
+  .header {
+    text-align: center;
+    padding: 28px 20px 20px;
+    background: linear-gradient(135deg, #1B1B2F 0%, #162447 100%);
+    border-bottom: 3px solid #E91E8C;
+  }
+  .logo-placeholder {
+    width: 72px;
+    height: 72px;
+    border-radius: 50%;
+    border: 3px solid #E91E8C;
+    margin: 0 auto 10px;
+    background: linear-gradient(135deg, #1B4F72, #0d2137);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 32px;
+  }
+  .header h1 {
+    font-size: 20px;
+    font-weight: 700;
+    color: #fff;
+    margin-bottom: 4px;
+  }
+  .header h1 span { color: #E91E8C; }
+  .header p {
+    font-size: 13px;
+    color: #aab;
+    line-height: 1.4;
+  }
+
+  /* Updated badge */
+  .updated {
+    display: inline-block;
+    margin-top: 10px;
+    padding: 4px 12px;
+    background: rgba(233, 30, 140, 0.15);
+    border: 1px solid rgba(233, 30, 140, 0.3);
+    border-radius: 20px;
+    font-size: 11px;
+    color: #E91E8C;
+  }
+
+  /* Section title */
+  .section-title {
+    padding: 18px 20px 10px;
+    font-size: 15px;
+    font-weight: 700;
+    color: #E91E8C;
+    display: flex;
+    align-items: center;
+    gap: 6px;
+  }
+  .section-title .emoji { font-size: 16px; }
+
+  /* Product card */
+  .product-card {
+    margin: 6px 14px;
+    background: #141420;
+    border-radius: 14px;
+    border: 1px solid #222235;
+    overflow: hidden;
+    transition: transform 0.15s;
+  }
+  .product-card:active { transform: scale(0.98); }
+
+  .card-inner {
+    display: flex;
+    gap: 12px;
+    padding: 14px;
+  }
+
+  .product-img {
+    width: 80px;
+    height: 80px;
+    border-radius: 10px;
+    background: #1e1e30;
+    flex-shrink: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 36px;
+    overflow: hidden;
+  }
+  .product-img img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+
+  .product-info {
+    flex: 1;
+    min-width: 0;
+  }
+  .product-brand {
+    font-size: 11px;
+    color: #888;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+    margin-bottom: 2px;
+  }
+  .product-name {
+    font-size: 14px;
+    font-weight: 600;
+    color: #eee;
+    margin-bottom: 6px;
+    line-height: 1.3;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+  }
+  .product-prices {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    margin-bottom: 4px;
+  }
+  .price-old {
+    font-size: 13px;
+    color: #666;
+    text-decoration: line-through;
+  }
+  .price-new {
+    font-size: 18px;
+    font-weight: 800;
+    color: #4ADE80;
+  }
+  .discount-badge {
+    display: inline-block;
+    padding: 2px 7px;
+    background: rgba(233, 30, 140, 0.2);
+    border-radius: 6px;
+    font-size: 12px;
+    font-weight: 700;
+    color: #E91E8C;
+  }
+  .product-code {
+    font-size: 11px;
+    color: #666;
+    margin-top: 4px;
+  }
+
+  .card-button {
+    display: block;
+    width: 100%;
+    padding: 11px;
+    background: linear-gradient(135deg, #E91E8C, #c4167a);
+    color: #fff;
+    text-align: center;
+    font-size: 13px;
+    font-weight: 700;
+    text-decoration: none;
+    border: none;
+    cursor: pointer;
+    letter-spacing: 0.3px;
+  }
+  .card-button:hover { background: linear-gradient(135deg, #f02a9a, #d41885); }
+
+  /* Fake alert card */
+  .fake-card {
+    margin: 6px 14px;
+    background: linear-gradient(135deg, #1a0a0a, #200e15);
+    border-radius: 14px;
+    border: 1px solid #3a1525;
+    padding: 16px;
+  }
+  .fake-badge {
+    display: inline-block;
+    padding: 3px 10px;
+    background: rgba(239, 68, 68, 0.2);
+    border: 1px solid rgba(239, 68, 68, 0.3);
+    border-radius: 6px;
+    font-size: 11px;
+    font-weight: 700;
+    color: #ef4444;
+    margin-bottom: 8px;
+  }
+  .fake-card .product-name {
+    font-size: 13px;
+    margin-bottom: 4px;
+  }
+  .fake-card .fake-detail {
+    font-size: 12px;
+    color: #999;
+    line-height: 1.5;
+  }
+  .fake-card .fake-detail strong {
+    color: #ef4444;
+  }
+
+  /* Social links */
+  .social-section {
+    padding: 20px 14px;
+    margin-top: 8px;
+  }
+  .social-link {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    padding: 14px 16px;
+    margin-bottom: 8px;
+    background: #141420;
+    border-radius: 12px;
+    border: 1px solid #222235;
+    text-decoration: none;
+    color: #fff;
+    transition: transform 0.15s;
+  }
+  .social-link:active { transform: scale(0.98); }
+  .social-icon {
+    width: 36px;
+    height: 36px;
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 18px;
+    flex-shrink: 0;
+  }
+  .social-icon.tiktok { background: #1e1e30; }
+  .social-icon.instagram { background: linear-gradient(135deg, #833AB4, #E1306C, #F77737); }
+  .social-icon.whatsapp { background: #25D366; }
+  .social-link-text {
+    font-size: 14px;
+    font-weight: 600;
+  }
+  .social-link-sub {
+    font-size: 11px;
+    color: #888;
+    margin-top: 1px;
+  }
+  .social-arrow {
+    margin-left: auto;
+    color: #555;
+    font-size: 16px;
+  }
+
+  /* Footer */
+  .footer {
+    text-align: center;
+    padding: 16px 20px 30px;
+    font-size: 11px;
+    color: #444;
+    line-height: 1.5;
+  }
+
+  /* Divider */
+  .divider {
+    height: 1px;
+    background: linear-gradient(90deg, transparent, #222235, transparent);
+    margin: 4px 20px;
+  }
+
+  /* Empty state */
+  .empty-state {
+    text-align: center;
+    padding: 30px 20px;
+    color: #666;
+    font-size: 14px;
+  }
+
+  /* Loading */
+  .loading {
+    text-align: center;
+    padding: 40px 20px;
+    color: #888;
+    font-size: 13px;
+  }
+</style>
+</head>
+<body>
+
+<!-- Header -->
+<div class="header">
+  <div class="logo-placeholder">👑</div>
+  <h1><span>İndirim</span> Kraliçesi</h1>
+  <p>Sahte indirimleri ifşa ediyoruz<br>Sadece gerçek fırsatlar</p>
+  <div class="updated" id="updated-badge">Yükleniyor...</div>
+</div>
+
+<!-- Günün Fırsatları -->
+<div class="section-title"><span class="emoji">🔥</span> Günün Fırsatları</div>
+<div id="deals-container">
+  <div class="loading">Fırsatlar yükleniyor...</div>
+</div>
+
+<div class="divider"></div>
+
+<!-- Sahte İndirim Uyarısı -->
+<div class="section-title" id="fake-title" style="display:none"><span class="emoji">⚠️</span> Sahte İndirim Uyarısı</div>
+<div id="fake-container"></div>
+
+<div class="divider"></div>
+
+<!-- Social Links -->
+<div class="social-section">
+  <div class="section-title" style="padding: 0 0 12px 0;"><span class="emoji">📱</span> Bizi Takip Et</div>
+
+  <a href="https://www.tiktok.com/@indirimkralicesi" target="_blank" rel="noopener" class="social-link">
+    <div class="social-icon tiktok">🎵</div>
+    <div>
+      <div class="social-link-text">TikTok</div>
+      <div class="social-link-sub">@indirimkralicesi</div>
+    </div>
+    <span class="social-arrow">›</span>
+  </a>
+
+  <a href="https://www.instagram.com/indirimguzelim" target="_blank" rel="noopener" class="social-link">
+    <div class="social-icon instagram">📷</div>
+    <div>
+      <div class="social-link-text">Instagram</div>
+      <div class="social-link-sub">@indirimguzelim</div>
+    </div>
+    <span class="social-arrow">›</span>
+  </a>
+
+  <a href="#" class="social-link">
+    <div class="social-icon whatsapp">💬</div>
+    <div>
+      <div class="social-link-text">WhatsApp Kanalı</div>
+      <div class="social-link-sub">Anlık fırsat bildirimleri</div>
+    </div>
+    <span class="social-arrow">›</span>
+  </a>
+</div>
+
+<!-- Footer -->
+<div class="footer" id="footer">
+  Fiyatlar anlık olarak değişebilir<br>
+  © İndirim Kraliçesi
+</div>
+
+<script>
+(function() {
+  var CATEGORY_EMOJI = {
+    'ruj': '💄', 'lipstick': '💄', 'dudak': '💄',
+    'maskara': '👁️', 'rimel': '👁️', 'göz': '👁️', 'eyeliner': '👁️',
+    'krem': '🧴', 'nemlendirici': '🧴', 'serum': '✨', 'bakım': '🧴',
+    'parfüm': '🌸', 'parfum': '🌸', 'koku': '🌸',
+    'fondöten': '🎨', 'fondoten': '🎨', 'pudra': '🎨', 'allık': '🎨',
+    'şampuan': '🧴', 'sampuan': '🧴', 'saç': '💇'
+  };
+
+  function guessEmoji(name) {
+    var lower = name.toLowerCase();
+    var keys = Object.keys(CATEGORY_EMOJI);
+    for (var i = 0; i < keys.length; i++) {
+      if (lower.indexOf(keys[i]) !== -1) return CATEGORY_EMOJI[keys[i]];
+    }
+    return '🛍️';
+  }
+
+  function formatPrice(n) {
+    return Number(n).toLocaleString('tr-TR', {minimumFractionDigits: 0, maximumFractionDigits: 0}) + ' TL';
+  }
+
+  function formatDate(iso) {
+    try {
+      var d = new Date(iso);
+      var gun = d.getDate();
+      var aylar = ['Ocak','Şubat','Mart','Nisan','Mayıs','Haziran',
+                   'Temmuz','Ağustos','Eylül','Ekim','Kasım','Aralık'];
+      var saat = String(d.getHours()).padStart(2,'0');
+      var dakika = String(d.getMinutes()).padStart(2,'0');
+      return gun + ' ' + aylar[d.getMonth()] + ' ' + d.getFullYear() + ', ' + saat + ':' + dakika;
+    } catch(e) { return ''; }
+  }
+
+  function renderDeal(deal) {
+    var emoji = guessEmoji(deal.name);
+    var imgHtml = deal.imageUrl
+      ? '<img src="' + deal.imageUrl + '" alt="' + deal.name + '" loading="lazy" onerror="this.parentElement.innerHTML=\'' + emoji + '\'">'
+      : emoji;
+
+    return '<div class="product-card">' +
+      '<div class="card-inner">' +
+        '<div class="product-img">' + imgHtml + '</div>' +
+        '<div class="product-info">' +
+          '<div class="product-brand">' + deal.brand + '</div>' +
+          '<div class="product-name">' + deal.name + '</div>' +
+          '<div class="product-prices">' +
+            '<span class="price-old">' + formatPrice(deal.originalPrice) + '</span>' +
+            '<span class="price-new">' + formatPrice(deal.salePrice) + '</span>' +
+            '<span class="discount-badge">%' + deal.discountPercent + '</span>' +
+          '</div>' +
+          (deal.productCode ? '<div class="product-code">Kod: ' + deal.productCode + '</div>' : '') +
+        '</div>' +
+      '</div>' +
+      '<a href="' + deal.trendyolUrl + '" target="_blank" rel="noopener" class="card-button">Trendyol\'da Gör →</a>' +
+    '</div>';
+  }
+
+  function renderFakeDeal(fake) {
+    return '<div class="fake-card">' +
+      '<div class="fake-badge">FİYAT GEÇMİŞİ UYARISI</div>' +
+      '<div class="product-name">' + (fake.brand ? fake.brand + ' — ' : '') + fake.name + '</div>' +
+      '<div class="fake-detail">' +
+        'Trendyol\'da <strong>%' + fake.claimedDiscount + ' indirim</strong> yazıyor<br>' +
+        'Ama fiyat geçmişi:<br>' +
+        'Normal fiyat: ' + formatPrice(fake.normalPrice) +
+        ' → ' + formatPrice(fake.inflatedPrice) + '\'ye çıkarıldı' +
+        ' → Bugün "indirimle" ' + formatPrice(fake.currentPrice) + '<br>' +
+        '<strong>Gerçek indirim: %' + fake.realDiscount + '</strong>' +
+      '</div>' +
+    '</div>';
+  }
+
+  fetch('data.json')
+    .then(function(r) { return r.json(); })
+    .then(function(data) {
+      // Updated badge
+      if (data.lastUpdated) {
+        document.getElementById('updated-badge').textContent =
+          'Son güncelleme: ' + formatDate(data.lastUpdated);
+      }
+
+      // Deals
+      var dealsEl = document.getElementById('deals-container');
+      if (data.deals && data.deals.length > 0) {
+        dealsEl.innerHTML = data.deals.map(renderDeal).join('');
+      } else {
+        dealsEl.innerHTML = '<div class="empty-state">Güncel fırsat bulunamadı 😔<br>Yakında yeni fırsatlar eklenecek!</div>';
+      }
+
+      // Fake deals
+      var fakeEl = document.getElementById('fake-container');
+      var fakeTitleEl = document.getElementById('fake-title');
+      if (data.fakeDeals && data.fakeDeals.length > 0) {
+        fakeTitleEl.style.display = 'flex';
+        fakeEl.innerHTML = data.fakeDeals.map(renderFakeDeal).join('');
+      }
+
+      // Footer
+      if (data.lastUpdated) {
+        document.getElementById('footer').innerHTML =
+          'Fiyatlar anlık olarak değişebilir<br>' +
+          'Son güncelleme: ' + formatDate(data.lastUpdated) + '<br>' +
+          '© İndirim Kraliçesi';
+      }
+    })
+    .catch(function() {
+      document.getElementById('deals-container').innerHTML =
+        '<div class="empty-state">Veriler yüklenemedi 😔<br>Lütfen daha sonra tekrar deneyin.</div>';
+      document.getElementById('updated-badge').textContent = '';
+    });
+})();
+</script>
+
+</body>
+</html>
