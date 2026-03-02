@@ -1,16 +1,94 @@
 {
-  "lastUpdated": "2026-03-01T22:33:46",
+  "lastUpdated": "2026-03-02T11:11:25",
   "deals": [
     {
-      "brand": "Yves Rocher",
-      "name": "Aydınlık Görünüm Veren Kusursuz Likit Kapatıcı-7 Ml-pembe 050",
-      "originalPrice": 999.9,
-      "salePrice": 489.95,
-      "discountPercent": 51,
-      "productCode": "646718293",
-      "trendyolUrl": "https://www.trendyol.com/yves-rocher/aydinlik-gorunum-veren-kusursuz-likit-kapatici-7-ml-pembe-050-p-646718293?boutiqueId=61&merchantId=107109",
-      "imageUrl": "https://cdn.dsmcdn.com/mnresize/1200/-/ty1737/prod/QC_ENRICHMENT/20250826/17/185171ff-31a7-3bd7-9538-edbba77e35fa/1_org_zoom.jpg"
+      "brand": "KIKO",
+      "name": "Saten Mat Ruj - Velvet Passion Matte Lipstick 327 Warm Nude 8025272629843",
+      "originalPrice": 899.0,
+      "salePrice": 535.08,
+      "discountPercent": 40,
+      "productCode": "4360117",
+      "trendyolUrl": "https://www.trendyol.com/kiko/saten-mat-ruj-velvet-passion-matte-lipstick-327-warm-nude-8025272629843-p-4360117?boutiqueId=61&merchantId=387700",
+      "imageUrl": "https://cdn.dsmcdn.com/mnresize/1200/-/ty1641/prod/QC/20250225/13/f1243dea-d8c9-30b6-8a39-de4acc8f1284/1_org_zoom.jpg"
+    },
+    {
+      "brand": "L'Oreal Paris",
+      "name": "Excellence Creme Saç Boyası 7.43 Sultan Bakırı",
+      "originalPrice": 708.5,
+      "salePrice": 425.1,
+      "discountPercent": 40,
+      "productCode": "1262243",
+      "trendyolUrl": "https://www.trendyol.com/l-oreal-paris/excellence-creme-sac-boyasi-7-43-sultan-bakiri-p-1262243?boutiqueId=61&merchantId=107819",
+      "imageUrl": "https://cdn.dsmcdn.com/mnresize/1200/-/ty1533/product/media/images/prod/QC/20240910/11/d6f90e71-58d6-3364-a0ca-4bf9c079bd59/1_org_zoom.jpg"
+    },
+    {
+      "brand": "L'Oreal Paris",
+      "name": "3'lü False Lash Telescopic Fiber Maskara Seti",
+      "originalPrice": 1475.88,
+      "salePrice": 1275.88,
+      "discountPercent": 30,
+      "productCode": "858669722",
+      "trendyolUrl": "https://www.trendyol.com/l-oreal-paris/3-lu-false-lash-telescopic-fiber-maskara-seti-p-858669722?boutiqueId=61&merchantId=107819",
+      "imageUrl": "https://cdn.dsmcdn.com/mnresize/1200/-/ty1554/product/media/images/ty1554/prod/QC/20240918/09/5dcb739b-a425-32ff-8b0a-03695a2f1453/1_org_zoom.jpg"
+    },
+    {
+      "brand": "KIKO",
+      "name": "MATLAŞTIRICI MAKYAJ BAZI - MATTE FACE BASE 30 ML 8025272620161",
+      "originalPrice": null,
+      "salePrice": 692.39,
+      "discountPercent": 38,
+      "productCode": "4359676",
+      "trendyolUrl": "https://www.trendyol.com/kiko/matlastirici-makyaj-bazi-matte-face-base-30-ml-8025272620161-p-4359676?boutiqueId=61&merchantId=387700",
+      "imageUrl": "https://cdn.dsmcdn.com/mnresize/1200/-/ty87/product/media/images/20210403/02/f387d836/17208366/1/1_org_zoom.jpg"
+    },
+    {
+      "brand": "NYX Professional",
+      "name": "LIP I.V. Vitamin İçeren Parlatıcı + Tint - 08 Drippin' In Rose",
+      "originalPrice": 999.99,
+      "salePrice": 599.99,
+      "discountPercent": 40,
+      "productCode": "892687112",
+      "trendyolUrl": "https://www.trendyol.com/nyx-professional-makeup/lip-i-v-vitamin-iceren-parlatici-tint-08-drippin-in-rose-p-892687112?boutiqueId=61&merchantId=107819",
+      "imageUrl": "https://cdn.dsmcdn.com/mnresize/1200/-/ty1629/product/media/images/prod/PIM/20250128/13/d788170c-508e-4107-9e97-efb772bf9fd4/1_org_zoom.jpg"
+    },
+    {
+      "brand": "NYX Professional",
+      "name": "Yüz Şekillendirme ve Kontür İçin Filtre Etkili Fondöten – 14 Medium Tan",
+      "originalPrice": 1099.99,
+      "salePrice": 659.99,
+      "discountPercent": 40,
+      "productCode": "747756934",
+      "trendyolUrl": "https://www.trendyol.com/nyx-professional-makeup/yuz-sekillendirme-ve-kontur-icin-filtre-etkili-fondoten-14-medium-tan-p-747756934?boutiqueId=61&merchantId=107819",
+      "imageUrl": "https://cdn.dsmcdn.com/mnresize/1200/-/ty1598/product/media/images/prod/PIM/20241104/09/6a184398-ff3e-4066-8c92-9bbb1e418437/1_org_zoom.jpg"
     }
   ],
-  "fakeDeals": []
+  "fakeDeals": [
+    {
+      "brand": "Flormar",
+      "name": "Kalıcı Mat Dudak Tint'i (Kırmızı) - Water Lip Stain - 002 Love Craft - 8682536042178",
+      "claimedDiscount": 50,
+      "normalPrice": 399.9,
+      "inflatedPrice": 799.9,
+      "currentPrice": 399.9,
+      "realDiscount": 0
+    },
+    {
+      "brand": "Garnier",
+      "name": "2'li Garnier Çarpıcı Renkler, 6.35 Çarpıcı Altın Kahve, Kalıcı Krem Saç Boyası, Demikit",
+      "claimedDiscount": 42,
+      "normalPrice": 410.29,
+      "inflatedPrice": 698.21,
+      "currentPrice": 403.09,
+      "realDiscount": 1
+    },
+    {
+      "brand": "Garnier",
+      "name": "Çarpıcı Renkler, 7.0 Bal Kumral, Kalıcı Krem Saç Boyası, Demikit + Vinyl Ink Ruj, 15 Peachy",
+      "claimedDiscount": 42,
+      "normalPrice": 1117.09,
+      "inflatedPrice": 1901.01,
+      "currentPrice": 1097.49,
+      "realDiscount": 1
+    }
+  ]
 }
