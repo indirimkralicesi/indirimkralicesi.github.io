@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-02T11:36:08",
+  "lastUpdated": "2026-03-02T11:55:10",
   "deals": [
     {
       "brand": "L'Oreal Paris",
@@ -20,35 +20,55 @@
       "productCode": "302283850",
       "trendyolUrl": "https://www.trendyol.com/l-oreal-paris/excellence-creme-nude-renkler-sac-boyasi-6u-nude-koyu-kumral-p-302283850?boutiqueId=61&merchantId=107819",
       "imageUrl": "https://cdn.dsmcdn.com/mnresize/1200/-/ty1731/prod/QC_ENRICHMENT/20250822/14/1d683024-15f4-3fbd-b6a5-ca0377465cd3/1_org_zoom.jpg"
+    },
+    {
+      "brand": "NYX Professional",
+      "name": "Powder Louder Pudralı Kaş Kalemi - 02 Taupe",
+      "originalPrice": 729.99,
+      "salePrice": 437.99,
+      "discountPercent": 40,
+      "productCode": "852795992",
+      "trendyolUrl": "https://www.trendyol.com/nyx-professional-makeup/powder-louder-pudrali-kas-kalemi-02-taupe-p-852795992?boutiqueId=61&merchantId=107819",
+      "imageUrl": "https://cdn.dsmcdn.com/mnresize/1200/-/ty1534/product/media/images/prod/QC/20240910/11/bb0059e2-b910-347a-b5cc-cde1a3ae41ab/1_org_zoom.jpg"
+    },
+    {
+      "brand": "NYX Professional",
+      "name": "Beetlejuice Özel Koleksiyon Dudak Parlatıcısı - 02 Green + Purple",
+      "originalPrice": 699.99,
+      "salePrice": 419.99,
+      "discountPercent": 40,
+      "productCode": "869496041",
+      "trendyolUrl": "https://www.trendyol.com/nyx-professional-makeup/beetlejuice-ozel-koleksiyon-dudak-parlaticisi-02-green-purple-p-869496041?boutiqueId=61&merchantId=107819",
+      "imageUrl": "https://cdn.dsmcdn.com/mnresize/1200/-/ty1592/prod/QC/20241024/10/df70b5c6-9fdb-3b43-8044-84383c3ce74d/1_org_zoom.jpg"
     }
   ],
   "fakeDeals": [
     {
-      "brand": "Flormar",
-      "name": "Kalıcı Mat Dudak Tint'i (Kırmızı) - Water Lip Stain - 002 Love Craft - 8682536042178",
-      "claimedDiscount": 50,
-      "normalPrice": 399.9,
-      "inflatedPrice": 799.9,
-      "currentPrice": 399.9,
+      "brand": "Garnier",
+      "name": "Çarpıcı Renkler, 3.0 Çarpıcı Koyu Kahve, Kalıcı Krem Saç Boyası, Demikit",
+      "claimedDiscount": 40,
+      "normalPrice": 215.94,
+      "inflatedPrice": 359.9,
+      "currentPrice": 215.94,
       "realDiscount": 0
     },
     {
-      "brand": "Garnier",
-      "name": "2'li Garnier Çarpıcı Renkler, 6.35 Çarpıcı Altın Kahve, Kalıcı Krem Saç Boyası, Demikit",
-      "claimedDiscount": 42,
-      "normalPrice": 410.29,
-      "inflatedPrice": 698.21,
-      "currentPrice": 403.09,
-      "realDiscount": 1
+      "brand": "L'Oreal Paris",
+      "name": "Revitalift Filler Glassy Skin Cam Cilt Etkili Krem + 901 Fair Glow Glotion Işıltı Seti",
+      "claimedDiscount": 31,
+      "normalPrice": 1268.91,
+      "inflatedPrice": 1808.87,
+      "currentPrice": 1241.91,
+      "realDiscount": 2
     },
     {
-      "brand": "Garnier",
-      "name": "Çarpıcı Renkler, 7.0 Bal Kumral, Kalıcı Krem Saç Boyası, Demikit + Vinyl Ink Ruj, 15 Peachy",
-      "claimedDiscount": 42,
-      "normalPrice": 1117.09,
-      "inflatedPrice": 1901.01,
-      "currentPrice": 1097.49,
-      "realDiscount": 1
+      "brand": "L'Oreal Paris",
+      "name": "2'li Revitalift Clinical 50+ SPF Güneş Koruyucu Yüz Kremi Seti & L'Oreal Paris 200ml Micellar Hediye",
+      "claimedDiscount": 31,
+      "normalPrice": 1278.31,
+      "inflatedPrice": 1822.27,
+      "currentPrice": 1251.11,
+      "realDiscount": 2
     }
   ]
 }
