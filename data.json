@@ -1,18 +1,106 @@
 {
-  "lastUpdated": "2026-03-02T17:05:06",
+  "lastUpdated": "2026-03-02T19:13:55",
   "deals": [
     {
-      "brand": "NYX Professional",
-      "name": "This Is Milky Gloss Dudak Parlatıcısı - Malt Shake",
-      "originalPrice": 759.99,
-      "salePrice": 455.99,
-      "discountPercent": 40,
-      "productCode": "658268022",
-      "trendyolUrl": "https://www.trendyol.com/nyx-professional-makeup/this-is-milky-gloss-dudak-parlaticisi-malt-shake-p-658268022?boutiqueId=61&merchantId=107819",
-      "imageUrl": "https://cdn.dsmcdn.com/mnresize/1200/-/ty1534/product/media/images/prod/QC/20240910/11/52038404-7622-3bca-932a-f7b44076473d/1_org_zoom.jpg"
+      "brand": "Neutrogena",
+      "name": "Neutrogena Hydro Boost Water Gel Nemlendirici Normal Ciltler 50 ml",
+      "originalPrice": 792.9,
+      "salePrice": 237.9,
+      "discountPercent": 69,
+      "productCode": "",
+      "productUrl": "https://www.watsons.com.tr/neutrogena-hydro-boost-water-gel-nemlendirici-normal-ciltler-50-ml/p/BP_152051",
+      "site": "watsons",
+      "imageUrl": "https://media.watsons.com.tr/medias/sys_master/prd-images/he1/hdf/11646579507230/prd-front-152051_195x195/prd-front-152051-195x195.jpg"
+    },
+    {
+      "brand": "Flormar",
+      "name": "Flormar Volume Up Yüksek Pigmentli & Hacim Etkili Kat Kat Uygulanabilir Maskara",
+      "originalPrice": 1249.9,
+      "salePrice": 374.9,
+      "discountPercent": 70,
+      "productCode": "",
+      "productUrl": "https://www.watsons.com.tr/flormar-volume-up-yuksek-pigmentli-hacim-etkili-kat-kat-uygulanabilir-maskara/p/BP_1459857",
+      "site": "watsons",
+      "imageUrl": "https://media.watsons.com.tr/medias/sys_master/prd-images/h43/h74/13588507197470/prd-front-1459857_195x195/prd-front-1459857-195x195.jpg"
+    },
+    {
+      "brand": "Flormar",
+      "name": "Flormar Longer Than Ever Uzun Görünüm Veren Maskara No: 001",
+      "originalPrice": 1249.9,
+      "salePrice": 374.9,
+      "discountPercent": 70,
+      "productCode": "",
+      "productUrl": "https://www.watsons.com.tr/flormar-longer-than-ever-uzun-gorunum-veren-maskara-no-001/p/BP_1380638",
+      "site": "watsons",
+      "imageUrl": "https://media.watsons.com.tr/medias/sys_master/prd-images/h51/hf1/13588435468318/prd-front-1380638_195x195/prd-front-1380638-195x195.jpg"
+    },
+    {
+      "brand": "Dove",
+      "name": "Dove Saç Serumu Bond Intense Repair 80 ml",
+      "originalPrice": 639.9,
+      "salePrice": 189.9,
+      "discountPercent": 70,
+      "productCode": "",
+      "productUrl": "https://www.watsons.com.tr/dove-sac-serumu-bond-intense-repair-80-ml/p/BP_1422526",
+      "site": "watsons",
+      "imageUrl": "https://media.watsons.com.tr/medias/sys_master/prd-images/h34/hec/12839361085470/prd-front-1422526_195x195/prd-front-1422526-195x195.jpg"
+    },
+    {
+      "brand": "Elseve",
+      "name": "Elseve Şampuan Hydra Nem Dolduran 300 ml",
+      "originalPrice": 369.9,
+      "salePrice": 109.9,
+      "discountPercent": 70,
+      "productCode": "",
+      "productUrl": "https://www.watsons.com.tr/elseve-sampuan-hydra-nem-dolduran-300-ml/p/BP_1432354",
+      "site": "watsons",
+      "imageUrl": "https://media.watsons.com.tr/medias/sys_master/prd-images/h28/ha4/12719465136158/prd-front-1432354_195x195/prd-front-1432354-195x195.jpg"
+    },
+    {
+      "brand": "Urban Care",
+      "name": "Urban Care No.6 Bond Plex Yıpranma Karşıtı Saç Bakım Yağı 100 ml",
+      "originalPrice": 749.9,
+      "salePrice": 224.9,
+      "discountPercent": 70,
+      "productCode": "",
+      "productUrl": "https://www.watsons.com.tr/urban-care-no6-bond-plex-yipranma-karsiti-sac-bakim-yagi-100-ml/p/BP_1351413",
+      "site": "watsons",
+      "imageUrl": "https://media.watsons.com.tr/medias/sys_master/prd-images/h4a/h60/12006202146846/prd-front-1351413_195x195/prd-front-1351413-195x195.jpg"
+    },
+    {
+      "brand": "Gliss",
+      "name": "Gliss Şampuan Deep Repair 400 ml",
+      "originalPrice": 224.9,
+      "salePrice": 67.95,
+      "discountPercent": 69,
+      "productCode": "",
+      "productUrl": "https://www.watsons.com.tr/gliss-sampuan-deep-repair-400-ml/p/BP_1400385",
+      "site": "watsons",
+      "imageUrl": "https://media.watsons.com.tr/medias/sys_master/prd-images/hc8/hf7/10626583658526/prd-front-1400385_195x195/prd-front-1400385-195x195.jpg"
+    },
+    {
+      "brand": "Pantene",
+      "name": "Pantene Argan Yağı Serum 100 ml",
+      "originalPrice": 544.9,
+      "salePrice": 164.9,
+      "discountPercent": 69,
+      "productCode": "",
+      "productUrl": "https://www.watsons.com.tr/pantene-argan-yagi-serum-100-ml/p/BP_140014",
+      "site": "watsons",
+      "imageUrl": "https://media.watsons.com.tr/medias/sys_master/prd-images/hd6/h38/12501379973150/prd-front-140014_195x195/prd-front-140014-195x195.jpg"
     }
   ],
   "fakeDeals": [
+    {
+      "brand": "Flormar",
+      "name": "Kalıcı Mat Dudak Tint'i (Kırmızı) - Water Lip Stain - 002 Love Craft - 8682536042178",
+      "claimedDiscount": 50,
+      "normalPrice": 399.9,
+      "inflatedPrice": 799.9,
+      "currentPrice": 399.9,
+      "realDiscount": 0,
+      "site": "trendyol"
+    },
     {
       "brand": "Garnier",
       "name": "2'li Garnier Çarpıcı Renkler, 6.35 Çarpıcı Altın Kahve, Kalıcı Krem Saç Boyası, Demikit",
@@ -20,7 +108,8 @@
       "normalPrice": 410.29,
       "inflatedPrice": 698.21,
       "currentPrice": 403.09,
-      "realDiscount": 1
+      "realDiscount": 1,
+      "site": "trendyol"
     },
     {
       "brand": "Garnier",
@@ -29,16 +118,8 @@
       "normalPrice": 1117.09,
       "inflatedPrice": 1901.01,
       "currentPrice": 1097.49,
-      "realDiscount": 1
-    },
-    {
-      "brand": "Garnier",
-      "name": "Çarpıcı Renkler, 3.0 Çarpıcı Koyu Kahve, Kalıcı Krem Saç Boyası, Demikit",
-      "claimedDiscount": 40,
-      "normalPrice": 215.94,
-      "inflatedPrice": 359.9,
-      "currentPrice": 215.94,
-      "realDiscount": 0
+      "realDiscount": 1,
+      "site": "trendyol"
     }
   ]
 }
