@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-02T11:55:10",
+  "lastUpdated": "2026-03-02T14:05:00",
   "deals": [
     {
       "brand": "L'Oreal Paris",
@@ -45,30 +45,30 @@
   "fakeDeals": [
     {
       "brand": "Garnier",
+      "name": "2'li Garnier Çarpıcı Renkler, 6.35 Çarpıcı Altın Kahve, Kalıcı Krem Saç Boyası, Demikit",
+      "claimedDiscount": 42,
+      "normalPrice": 410.29,
+      "inflatedPrice": 698.21,
+      "currentPrice": 403.09,
+      "realDiscount": 1
+    },
+    {
+      "brand": "Garnier",
+      "name": "Çarpıcı Renkler, 7.0 Bal Kumral, Kalıcı Krem Saç Boyası, Demikit + Vinyl Ink Ruj, 15 Peachy",
+      "claimedDiscount": 42,
+      "normalPrice": 1117.09,
+      "inflatedPrice": 1901.01,
+      "currentPrice": 1097.49,
+      "realDiscount": 1
+    },
+    {
+      "brand": "Garnier",
       "name": "Çarpıcı Renkler, 3.0 Çarpıcı Koyu Kahve, Kalıcı Krem Saç Boyası, Demikit",
       "claimedDiscount": 40,
       "normalPrice": 215.94,
       "inflatedPrice": 359.9,
       "currentPrice": 215.94,
       "realDiscount": 0
-    },
-    {
-      "brand": "L'Oreal Paris",
-      "name": "Revitalift Filler Glassy Skin Cam Cilt Etkili Krem + 901 Fair Glow Glotion Işıltı Seti",
-      "claimedDiscount": 31,
-      "normalPrice": 1268.91,
-      "inflatedPrice": 1808.87,
-      "currentPrice": 1241.91,
-      "realDiscount": 2
-    },
-    {
-      "brand": "L'Oreal Paris",
-      "name": "2'li Revitalift Clinical 50+ SPF Güneş Koruyucu Yüz Kremi Seti & L'Oreal Paris 200ml Micellar Hediye",
-      "claimedDiscount": 31,
-      "normalPrice": 1278.31,
-      "inflatedPrice": 1822.27,
-      "currentPrice": 1251.11,
-      "realDiscount": 2
     }
   ]
 }
