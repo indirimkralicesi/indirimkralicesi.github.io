@@ -1,124 +1,80 @@
 {
-  "lastUpdated": "2026-03-02T19:13:55",
+  "lastUpdated": "2026-03-02T19:42:26",
   "deals": [
     {
-      "brand": "Neutrogena",
-      "name": "Neutrogena Hydro Boost Water Gel Nemlendirici Normal Ciltler 50 ml",
-      "originalPrice": 792.9,
-      "salePrice": 237.9,
-      "discountPercent": 69,
+      "brand": "Garnier",
+      "name": "Garnier Ambre Solaire Invisible Serum Super UV Günlük Güneş Koruyucu Serum",
+      "originalPrice": null,
+      "salePrice": 279.0,
+      "discountPercent": 68,
       "productCode": "",
-      "productUrl": "https://www.watsons.com.tr/neutrogena-hydro-boost-water-gel-nemlendirici-normal-ciltler-50-ml/p/BP_152051",
+      "productUrl": "https://www.watsons.com.tr/garnier-ambre-solaire-invisible-serum-super-uv-gunluk-gunes-koruyucu-serum/p/BP_1395184",
       "site": "watsons",
-      "imageUrl": "https://media.watsons.com.tr/medias/sys_master/prd-images/he1/hdf/11646579507230/prd-front-152051_195x195/prd-front-152051-195x195.jpg"
+      "imageUrl": "https://media.watsons.com.tr/medias/sys_master/prd-images/h5e/h90/10647293362206/prd-front-1395184_195x195/prd-front-1395184-195x195.jpg"
+    },
+    {
+      "brand": "Garnier",
+      "name": "Garnier Micellar Kusursuz Makyaj Temizleme Suyu 400 ml",
+      "originalPrice": null,
+      "salePrice": 149.9,
+      "discountPercent": 65,
+      "productCode": "",
+      "productUrl": "https://www.watsons.com.tr/garnier-micellar-kusursuz-makyaj-temizleme-suyu-400-ml/p/BP_141281",
+      "site": "watsons",
+      "imageUrl": "https://media.watsons.com.tr/medias/sys_master/prd-images/hc3/h5c/13683928104990/prd-front-141281_195x195/prd-front-141281-195x195.jpg"
     },
     {
       "brand": "Flormar",
-      "name": "Flormar Volume Up Yüksek Pigmentli & Hacim Etkili Kat Kat Uygulanabilir Maskara",
-      "originalPrice": 1249.9,
-      "salePrice": 374.9,
+      "name": "Flormar Sheer Up Ruj No: 018 Enchanted Kiss",
+      "originalPrice": null,
+      "salePrice": 259.9,
       "discountPercent": 70,
       "productCode": "",
-      "productUrl": "https://www.watsons.com.tr/flormar-volume-up-yuksek-pigmentli-hacim-etkili-kat-kat-uygulanabilir-maskara/p/BP_1459857",
+      "productUrl": "https://www.watsons.com.tr/flormar-sheer-up-ruj-no-018-enchanted-kiss/p/BP_1433782",
       "site": "watsons",
-      "imageUrl": "https://media.watsons.com.tr/medias/sys_master/prd-images/h43/h74/13588507197470/prd-front-1459857_195x195/prd-front-1459857-195x195.jpg"
+      "imageUrl": "https://media.watsons.com.tr/medias/sys_master/prd-images/h3c/h34/13588462960670/prd-front-1433782_195x195/prd-front-1433782-195x195.jpg"
     },
     {
       "brand": "Flormar",
-      "name": "Flormar Longer Than Ever Uzun Görünüm Veren Maskara No: 001",
-      "originalPrice": 1249.9,
-      "salePrice": 374.9,
+      "name": "Flormar Sheer Up Ruj No: 009 Baby Girl",
+      "originalPrice": null,
+      "salePrice": 259.9,
       "discountPercent": 70,
       "productCode": "",
-      "productUrl": "https://www.watsons.com.tr/flormar-longer-than-ever-uzun-gorunum-veren-maskara-no-001/p/BP_1380638",
+      "productUrl": "https://www.watsons.com.tr/flormar-sheer-up-ruj-no-009-baby-girl/p/BP_1433761",
       "site": "watsons",
-      "imageUrl": "https://media.watsons.com.tr/medias/sys_master/prd-images/h51/hf1/13588435468318/prd-front-1380638_195x195/prd-front-1380638-195x195.jpg"
-    },
-    {
-      "brand": "Dove",
-      "name": "Dove Saç Serumu Bond Intense Repair 80 ml",
-      "originalPrice": 639.9,
-      "salePrice": 189.9,
-      "discountPercent": 70,
-      "productCode": "",
-      "productUrl": "https://www.watsons.com.tr/dove-sac-serumu-bond-intense-repair-80-ml/p/BP_1422526",
-      "site": "watsons",
-      "imageUrl": "https://media.watsons.com.tr/medias/sys_master/prd-images/h34/hec/12839361085470/prd-front-1422526_195x195/prd-front-1422526-195x195.jpg"
-    },
-    {
-      "brand": "Elseve",
-      "name": "Elseve Şampuan Hydra Nem Dolduran 300 ml",
-      "originalPrice": 369.9,
-      "salePrice": 109.9,
-      "discountPercent": 70,
-      "productCode": "",
-      "productUrl": "https://www.watsons.com.tr/elseve-sampuan-hydra-nem-dolduran-300-ml/p/BP_1432354",
-      "site": "watsons",
-      "imageUrl": "https://media.watsons.com.tr/medias/sys_master/prd-images/h28/ha4/12719465136158/prd-front-1432354_195x195/prd-front-1432354-195x195.jpg"
-    },
-    {
-      "brand": "Urban Care",
-      "name": "Urban Care No.6 Bond Plex Yıpranma Karşıtı Saç Bakım Yağı 100 ml",
-      "originalPrice": 749.9,
-      "salePrice": 224.9,
-      "discountPercent": 70,
-      "productCode": "",
-      "productUrl": "https://www.watsons.com.tr/urban-care-no6-bond-plex-yipranma-karsiti-sac-bakim-yagi-100-ml/p/BP_1351413",
-      "site": "watsons",
-      "imageUrl": "https://media.watsons.com.tr/medias/sys_master/prd-images/h4a/h60/12006202146846/prd-front-1351413_195x195/prd-front-1351413-195x195.jpg"
-    },
-    {
-      "brand": "Gliss",
-      "name": "Gliss Şampuan Deep Repair 400 ml",
-      "originalPrice": 224.9,
-      "salePrice": 67.95,
-      "discountPercent": 69,
-      "productCode": "",
-      "productUrl": "https://www.watsons.com.tr/gliss-sampuan-deep-repair-400-ml/p/BP_1400385",
-      "site": "watsons",
-      "imageUrl": "https://media.watsons.com.tr/medias/sys_master/prd-images/hc8/hf7/10626583658526/prd-front-1400385_195x195/prd-front-1400385-195x195.jpg"
-    },
-    {
-      "brand": "Pantene",
-      "name": "Pantene Argan Yağı Serum 100 ml",
-      "originalPrice": 544.9,
-      "salePrice": 164.9,
-      "discountPercent": 69,
-      "productCode": "",
-      "productUrl": "https://www.watsons.com.tr/pantene-argan-yagi-serum-100-ml/p/BP_140014",
-      "site": "watsons",
-      "imageUrl": "https://media.watsons.com.tr/medias/sys_master/prd-images/hd6/h38/12501379973150/prd-front-140014_195x195/prd-front-140014-195x195.jpg"
+      "imageUrl": "https://media.watsons.com.tr/medias/sys_master/prd-images/ha3/hfc/13588480851998/prd-front-1433761_195x195/prd-front-1433761-195x195.jpg"
     }
   ],
   "fakeDeals": [
     {
-      "brand": "Flormar",
-      "name": "Kalıcı Mat Dudak Tint'i (Kırmızı) - Water Lip Stain - 002 Love Craft - 8682536042178",
-      "claimedDiscount": 50,
-      "normalPrice": 399.9,
-      "inflatedPrice": 799.9,
-      "currentPrice": 399.9,
+      "brand": "L'Oreal Paris",
+      "name": "Revitalift Filler Glassy Skin Cam Cilt Etkili Krem + 901 Fair Glow Glotion Işıltı Seti",
+      "claimedDiscount": 31,
+      "normalPrice": 1268.91,
+      "inflatedPrice": 1808.87,
+      "currentPrice": 1241.91,
+      "realDiscount": 2,
+      "site": "trendyol"
+    },
+    {
+      "brand": "L'Oreal Paris",
+      "name": "2'li Revitalift Clinical 50+ SPF Güneş Koruyucu Yüz Kremi Seti & L'Oreal Paris 200ml Micellar Hediye",
+      "claimedDiscount": 31,
+      "normalPrice": 1278.31,
+      "inflatedPrice": 1822.27,
+      "currentPrice": 1251.11,
+      "realDiscount": 2,
+      "site": "trendyol"
+    },
+    {
+      "brand": "L'Oreal Paris",
+      "name": "Panorama Chromatic Maskara Brun Leather",
+      "claimedDiscount": 29,
+      "normalPrice": 891.42,
+      "inflatedPrice": 1259.93,
+      "currentPrice": 891.42,
       "realDiscount": 0,
-      "site": "trendyol"
-    },
-    {
-      "brand": "Garnier",
-      "name": "2'li Garnier Çarpıcı Renkler, 6.35 Çarpıcı Altın Kahve, Kalıcı Krem Saç Boyası, Demikit",
-      "claimedDiscount": 42,
-      "normalPrice": 410.29,
-      "inflatedPrice": 698.21,
-      "currentPrice": 403.09,
-      "realDiscount": 1,
-      "site": "trendyol"
-    },
-    {
-      "brand": "Garnier",
-      "name": "Çarpıcı Renkler, 7.0 Bal Kumral, Kalıcı Krem Saç Boyası, Demikit + Vinyl Ink Ruj, 15 Peachy",
-      "claimedDiscount": 42,
-      "normalPrice": 1117.09,
-      "inflatedPrice": 1901.01,
-      "currentPrice": 1097.49,
-      "realDiscount": 1,
       "site": "trendyol"
     }
   ]
