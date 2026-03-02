@@ -1,45 +1,15 @@
 {
-  "lastUpdated": "2026-03-02T14:05:00",
+  "lastUpdated": "2026-03-02T17:05:06",
   "deals": [
     {
-      "brand": "L'Oreal Paris",
-      "name": "Excellence Creme Saç Boyası 7.3 Kumral Dore",
-      "originalPrice": 708.5,
-      "salePrice": 425.1,
-      "discountPercent": 40,
-      "productCode": "1262241",
-      "trendyolUrl": "https://www.trendyol.com/l-oreal-paris/excellence-creme-sac-boyasi-7-3-kumral-dore-p-1262241?boutiqueId=61&merchantId=107819",
-      "imageUrl": "https://cdn.dsmcdn.com/mnresize/1200/-/ty1594/product/media/images/prod/PIM/20241025/14/d422d36c-c9a6-47e8-9b5b-3071055d7c65/1_org_zoom.jpg"
-    },
-    {
-      "brand": "L'Oreal Paris",
-      "name": "Excellence Creme Nude Renkler Saç Boyası – 6u Nude Koyu Kumral",
-      "originalPrice": 772.5,
-      "salePrice": 463.5,
-      "discountPercent": 40,
-      "productCode": "302283850",
-      "trendyolUrl": "https://www.trendyol.com/l-oreal-paris/excellence-creme-nude-renkler-sac-boyasi-6u-nude-koyu-kumral-p-302283850?boutiqueId=61&merchantId=107819",
-      "imageUrl": "https://cdn.dsmcdn.com/mnresize/1200/-/ty1731/prod/QC_ENRICHMENT/20250822/14/1d683024-15f4-3fbd-b6a5-ca0377465cd3/1_org_zoom.jpg"
-    },
-    {
       "brand": "NYX Professional",
-      "name": "Powder Louder Pudralı Kaş Kalemi - 02 Taupe",
-      "originalPrice": 729.99,
-      "salePrice": 437.99,
+      "name": "This Is Milky Gloss Dudak Parlatıcısı - Malt Shake",
+      "originalPrice": 759.99,
+      "salePrice": 455.99,
       "discountPercent": 40,
-      "productCode": "852795992",
-      "trendyolUrl": "https://www.trendyol.com/nyx-professional-makeup/powder-louder-pudrali-kas-kalemi-02-taupe-p-852795992?boutiqueId=61&merchantId=107819",
-      "imageUrl": "https://cdn.dsmcdn.com/mnresize/1200/-/ty1534/product/media/images/prod/QC/20240910/11/bb0059e2-b910-347a-b5cc-cde1a3ae41ab/1_org_zoom.jpg"
-    },
-    {
-      "brand": "NYX Professional",
-      "name": "Beetlejuice Özel Koleksiyon Dudak Parlatıcısı - 02 Green + Purple",
-      "originalPrice": 699.99,
-      "salePrice": 419.99,
-      "discountPercent": 40,
-      "productCode": "869496041",
-      "trendyolUrl": "https://www.trendyol.com/nyx-professional-makeup/beetlejuice-ozel-koleksiyon-dudak-parlaticisi-02-green-purple-p-869496041?boutiqueId=61&merchantId=107819",
-      "imageUrl": "https://cdn.dsmcdn.com/mnresize/1200/-/ty1592/prod/QC/20241024/10/df70b5c6-9fdb-3b43-8044-84383c3ce74d/1_org_zoom.jpg"
+      "productCode": "658268022",
+      "trendyolUrl": "https://www.trendyol.com/nyx-professional-makeup/this-is-milky-gloss-dudak-parlaticisi-malt-shake-p-658268022?boutiqueId=61&merchantId=107819",
+      "imageUrl": "https://cdn.dsmcdn.com/mnresize/1200/-/ty1534/product/media/images/prod/QC/20240910/11/52038404-7622-3bca-932a-f7b44076473d/1_org_zoom.jpg"
     }
   ],
   "fakeDeals": [
