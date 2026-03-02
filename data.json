@@ -1,49 +1,71 @@
 {
-  "lastUpdated": "2026-03-02T19:42:26",
+  "lastUpdated": "2026-03-02T20:25:24",
   "deals": [
     {
-      "brand": "Garnier",
-      "name": "Garnier Ambre Solaire Invisible Serum Super UV Günlük Güneş Koruyucu Serum",
-      "originalPrice": null,
-      "salePrice": 279.0,
-      "discountPercent": 68,
-      "productCode": "",
-      "productUrl": "https://www.watsons.com.tr/garnier-ambre-solaire-invisible-serum-super-uv-gunluk-gunes-koruyucu-serum/p/BP_1395184",
-      "site": "watsons",
-      "imageUrl": "https://media.watsons.com.tr/medias/sys_master/prd-images/h5e/h90/10647293362206/prd-front-1395184_195x195/prd-front-1395184-195x195.jpg"
-    },
-    {
-      "brand": "Garnier",
-      "name": "Garnier Micellar Kusursuz Makyaj Temizleme Suyu 400 ml",
-      "originalPrice": null,
-      "salePrice": 149.9,
-      "discountPercent": 65,
-      "productCode": "",
-      "productUrl": "https://www.watsons.com.tr/garnier-micellar-kusursuz-makyaj-temizleme-suyu-400-ml/p/BP_141281",
-      "site": "watsons",
-      "imageUrl": "https://media.watsons.com.tr/medias/sys_master/prd-images/hc3/h5c/13683928104990/prd-front-141281_195x195/prd-front-141281-195x195.jpg"
-    },
-    {
-      "brand": "Flormar",
-      "name": "Flormar Sheer Up Ruj No: 018 Enchanted Kiss",
-      "originalPrice": null,
-      "salePrice": 259.9,
+      "brand": "L'Oreal Paris",
+      "name": "L'Oreal Paris Telescopic Maskara Gold Black",
+      "originalPrice": 1449.9,
+      "salePrice": 434.9,
       "discountPercent": 70,
       "productCode": "",
-      "productUrl": "https://www.watsons.com.tr/flormar-sheer-up-ruj-no-018-enchanted-kiss/p/BP_1433782",
+      "productUrl": "https://www.watsons.com.tr/loreal-paris-telescopic-maskara-gold-black/p/BP_1274042",
       "site": "watsons",
-      "imageUrl": "https://media.watsons.com.tr/medias/sys_master/prd-images/h3c/h34/13588462960670/prd-front-1433782_195x195/prd-front-1433782-195x195.jpg"
+      "imageUrl": "https://media.watsons.com.tr/medias/sys_master/prd-images/h51/h4c/8904519581726/prd-front-1274042_195x195/prd-front-1274042-195x195.jpeg"
     },
     {
-      "brand": "Flormar",
-      "name": "Flormar Sheer Up Ruj No: 009 Baby Girl",
-      "originalPrice": null,
-      "salePrice": 259.9,
+      "brand": "L'Oreal Paris",
+      "name": "L'Oreal Paris Revitalift Filler Göz Serumu 20 ml",
+      "originalPrice": 1249.9,
+      "salePrice": 374.9,
       "discountPercent": 70,
       "productCode": "",
-      "productUrl": "https://www.watsons.com.tr/flormar-sheer-up-ruj-no-009-baby-girl/p/BP_1433761",
+      "productUrl": "https://www.watsons.com.tr/loreal-paris-revitalift-filler-goz-serumu-20-ml/p/BP_1341214",
       "site": "watsons",
-      "imageUrl": "https://media.watsons.com.tr/medias/sys_master/prd-images/ha3/hfc/13588480851998/prd-front-1433761_195x195/prd-front-1433761-195x195.jpg"
+      "imageUrl": "https://media.watsons.com.tr/medias/sys_master/prd-images/he4/hc5/9238580199454/prd-front-1341214_195x195/prd-front-1341214-195x195.png"
+    },
+    {
+      "brand": "Maybelline New York",
+      "name": "Maybelline New York Super Lock Brow Glue Kaş Sabitleyici Maskara",
+      "originalPrice": 1299.9,
+      "salePrice": 389.9,
+      "discountPercent": 70,
+      "productCode": "",
+      "productUrl": "https://www.watsons.com.tr/maybelline-new-york-super-lock-brow-glue-kas-sabitleyici-maskara/p/BP_1397718",
+      "site": "watsons",
+      "imageUrl": "https://media.watsons.com.tr/medias/sys_master/prd-images/hbb/h93/10525759602718/prd-front-1397718_195x195/prd-front-1397718-195x195.jpg"
+    },
+    {
+      "brand": "Maybelline New York",
+      "name": "Maybelline New York Super Stay Lumi Matte Fondöten No: 119",
+      "originalPrice": 1649.9,
+      "salePrice": 494.9,
+      "discountPercent": 70,
+      "productCode": "",
+      "productUrl": "https://www.watsons.com.tr/maybelline-new-york-super-stay-lumi-matte-fondoten-no-119/p/BP_1425088",
+      "site": "watsons",
+      "imageUrl": "https://media.watsons.com.tr/medias/sys_master/prd-images/hba/h77/11908022960158/prd-front-1425088_195x195/prd-front-1425088-195x195.jpg"
+    },
+    {
+      "brand": "NYX Professional Makeup",
+      "name": "Nyx Professional Makeup Bare With Me Kapatıcı Serum 02 Light",
+      "originalPrice": 1259.9,
+      "salePrice": 755.9,
+      "discountPercent": 40,
+      "productCode": "",
+      "productUrl": "https://www.watsons.com.tr/nyx-professional-makeup-bare-with-me-kapatici-serum-02-light/p/BP_1319563",
+      "site": "watsons",
+      "imageUrl": "https://media.watsons.com.tr/medias/sys_master/prd-images/h65/h44/9963724374046/prd-front-1319563_195x195/prd-front-1319563-195x195.jpg"
+    },
+    {
+      "brand": "NYX Professional Makeup",
+      "name": "Nyx Professional Makeup Bare With Me Kapatıcı Serum 01 Fair",
+      "originalPrice": 1259.9,
+      "salePrice": 754.9,
+      "discountPercent": 40,
+      "productCode": "",
+      "productUrl": "https://www.watsons.com.tr/nyx-professional-makeup-bare-with-me-kapatici-serum-01-fair/p/BP_1319556",
+      "site": "watsons",
+      "imageUrl": "https://media.watsons.com.tr/medias/sys_master/prd-images/h3e/ha7/9963725160478/prd-front-1319556_195x195/prd-front-1319556-195x195.jpg"
     }
   ],
   "fakeDeals": [
