@@ -1,103 +1,72 @@
 {
-  "lastUpdated": "2026-03-02T20:25:24",
+  "lastUpdated": "2026-03-02T21:50:50",
   "deals": [
     {
-      "brand": "L'Oreal Paris",
-      "name": "L'Oreal Paris Telescopic Maskara Gold Black",
-      "originalPrice": 1449.9,
-      "salePrice": 434.9,
-      "discountPercent": 70,
-      "productCode": "",
-      "productUrl": "https://www.watsons.com.tr/loreal-paris-telescopic-maskara-gold-black/p/BP_1274042",
-      "site": "watsons",
-      "imageUrl": "https://media.watsons.com.tr/medias/sys_master/prd-images/h51/h4c/8904519581726/prd-front-1274042_195x195/prd-front-1274042-195x195.jpeg"
+      "brand": "Garnier",
+      "name": "Vitamin C+ Süper Parlak Aydınlatıcı Serum (Niasinamid, Salisilik, Melasyl) + Mini Sky High Mascara",
+      "originalPrice": 839.93,
+      "salePrice": 479.96,
+      "discountPercent": 42,
+      "productCode": "366386984",
+      "productUrl": "https://www.trendyol.com/garnier/vitamin-c-super-parlak-aydinlatici-serum-niasinamid-salisilik-melasyl-mini-sky-high-mascara-p-366386984?boutiqueId=61&merchantId=107819",
+      "site": "trendyol",
+      "imageUrl": "https://cdn.dsmcdn.com/mnresize/1200/-/ty1000059/product/media/images/prod/PIM/20260119/08/bf457972-79f0-4fd5-b134-f57521769959/1_org_zoom.jpg"
     },
     {
-      "brand": "L'Oreal Paris",
-      "name": "L'Oreal Paris Revitalift Filler Göz Serumu 20 ml",
-      "originalPrice": 1249.9,
-      "salePrice": 374.9,
-      "discountPercent": 70,
-      "productCode": "",
-      "productUrl": "https://www.watsons.com.tr/loreal-paris-revitalift-filler-goz-serumu-20-ml/p/BP_1341214",
-      "site": "watsons",
-      "imageUrl": "https://media.watsons.com.tr/medias/sys_master/prd-images/he4/hc5/9238580199454/prd-front-1341214_195x195/prd-front-1341214-195x195.png"
+      "brand": "Garnier",
+      "name": "Color Shampoo Retouch Şampuan Kolaylığında Dip Boyası, Bal Kumral 7.0, Vegan, Amonyaksız",
+      "originalPrice": 284.5,
+      "salePrice": 170.7,
+      "discountPercent": 40,
+      "productCode": "1038276545",
+      "productUrl": "https://www.trendyol.com/garnier/color-shampoo-retouch-sampuan-kolayliginda-dip-boyasi-bal-kumral-7-0-vegan-amonyaksiz-p-1038276545?boutiqueId=61&merchantId=107819",
+      "site": "trendyol",
+      "imageUrl": "https://cdn.dsmcdn.com/mnresize/1200/-/ty1000057/product/media/images/prod/PIM/20260108/08/cab8b93d-6dfd-4d87-8dcd-2d98e063e02a/1_org_zoom.jpg"
     },
     {
       "brand": "Maybelline New York",
-      "name": "Maybelline New York Super Lock Brow Glue Kaş Sabitleyici Maskara",
-      "originalPrice": 1299.9,
-      "salePrice": 389.9,
-      "discountPercent": 70,
-      "productCode": "",
-      "productUrl": "https://www.watsons.com.tr/maybelline-new-york-super-lock-brow-glue-kas-sabitleyici-maskara/p/BP_1397718",
-      "site": "watsons",
-      "imageUrl": "https://media.watsons.com.tr/medias/sys_master/prd-images/hbb/h93/10525759602718/prd-front-1397718_195x195/prd-front-1397718-195x195.jpg"
+      "name": "Instant Anti Age Eraser Kapatıcı - 00 Ivory & Mini Super Stay Matte Ink Likit Mat Ruj 65 Seductress",
+      "originalPrice": 989.93,
+      "salePrice": 582.17,
+      "discountPercent": 41,
+      "productCode": "364557634",
+      "productUrl": "https://www.trendyol.com/maybelline-new-york/instant-anti-age-eraser-kapatici-00-ivory-mini-super-stay-matte-ink-likit-mat-ruj-65-seductress-p-364557634?boutiqueId=61&merchantId=107819",
+      "site": "trendyol",
+      "imageUrl": "https://cdn.dsmcdn.com/mnresize/1200/-/ty1592/product/media/images/prod/PIM/20241021/09/e17d2ba1-7f42-4419-807a-252f26e76c37/1_org_zoom.jpg"
     },
     {
       "brand": "Maybelline New York",
-      "name": "Maybelline New York Super Stay Lumi Matte Fondöten No: 119",
-      "originalPrice": 1649.9,
-      "salePrice": 494.9,
-      "discountPercent": 70,
-      "productCode": "",
-      "productUrl": "https://www.watsons.com.tr/maybelline-new-york-super-stay-lumi-matte-fondoten-no-119/p/BP_1425088",
-      "site": "watsons",
-      "imageUrl": "https://media.watsons.com.tr/medias/sys_master/prd-images/hba/h77/11908022960158/prd-front-1425088_195x195/prd-front-1425088-195x195.jpg"
+      "name": "Lifter Liner Dudak Kalemi 010 Main Character + Serum Etkili Ruj 004 Wild Card Lip Combo Seti",
+      "originalPrice": 1253.87,
+      "salePrice": 731.23,
+      "discountPercent": 41,
+      "productCode": "1090835034",
+      "productUrl": "https://www.trendyol.com/maybelline-new-york/lifter-liner-dudak-kalemi-010-main-character-serum-etkili-ruj-004-wild-card-lip-combo-seti-p-1090835034?boutiqueId=61&merchantId=107819",
+      "site": "trendyol",
+      "imageUrl": "https://cdn.dsmcdn.com/mnresize/1200/-/ty1000324/product/media/images/prod/PIM/20260224/07/6c6a0551-2f2f-4d09-a6bb-60969a300565/1_org_zoom.jpg"
     },
     {
-      "brand": "NYX Professional Makeup",
-      "name": "Nyx Professional Makeup Bare With Me Kapatıcı Serum 02 Light",
-      "originalPrice": 1259.9,
-      "salePrice": 755.9,
+      "brand": "NYX Professional",
+      "name": "Bare With Me Kapatıcı Serum 02 Light Concealer",
+      "originalPrice": 1259.99,
+      "salePrice": 755.99,
       "discountPercent": 40,
-      "productCode": "",
-      "productUrl": "https://www.watsons.com.tr/nyx-professional-makeup-bare-with-me-kapatici-serum-02-light/p/BP_1319563",
-      "site": "watsons",
-      "imageUrl": "https://media.watsons.com.tr/medias/sys_master/prd-images/h65/h44/9963724374046/prd-front-1319563_195x195/prd-front-1319563-195x195.jpg"
+      "productCode": "249124486",
+      "productUrl": "https://www.trendyol.com/nyx-professional-makeup/bare-with-me-kapatici-serum-02-light-concealer-p-249124486?boutiqueId=61&merchantId=107819",
+      "site": "trendyol",
+      "imageUrl": "https://cdn.dsmcdn.com/mnresize/1200/-/ty1535/product/media/images/prod/QC/20240910/11/7af30299-e2fc-3916-ae43-686b3b7b0455/1_org_zoom.jpg"
     },
     {
-      "brand": "NYX Professional Makeup",
-      "name": "Nyx Professional Makeup Bare With Me Kapatıcı Serum 01 Fair",
-      "originalPrice": 1259.9,
-      "salePrice": 754.9,
+      "brand": "NYX Professional",
+      "name": "Buttermelt Highlighter Kremsi Pudra Aydınlatıcı - 05 Bright & Butta",
+      "originalPrice": 1099.99,
+      "salePrice": 659.99,
       "discountPercent": 40,
-      "productCode": "",
-      "productUrl": "https://www.watsons.com.tr/nyx-professional-makeup-bare-with-me-kapatici-serum-01-fair/p/BP_1319556",
-      "site": "watsons",
-      "imageUrl": "https://media.watsons.com.tr/medias/sys_master/prd-images/h3e/ha7/9963725160478/prd-front-1319556_195x195/prd-front-1319556-195x195.jpg"
+      "productCode": "936185837",
+      "productUrl": "https://www.trendyol.com/nyx-professional-makeup/buttermelt-highlighter-kremsi-pudra-aydinlatici-05-bright-butta-p-936185837?boutiqueId=61&merchantId=107819",
+      "site": "trendyol",
+      "imageUrl": "https://cdn.dsmcdn.com/mnresize/1200/-/ty1677/prod/QC/20250514/11/770e6027-b8f8-3260-84c6-5712fbe5b8ae/1_org_zoom.jpg"
     }
   ],
-  "fakeDeals": [
-    {
-      "brand": "L'Oreal Paris",
-      "name": "Revitalift Filler Glassy Skin Cam Cilt Etkili Krem + 901 Fair Glow Glotion Işıltı Seti",
-      "claimedDiscount": 31,
-      "normalPrice": 1268.91,
-      "inflatedPrice": 1808.87,
-      "currentPrice": 1241.91,
-      "realDiscount": 2,
-      "site": "trendyol"
-    },
-    {
-      "brand": "L'Oreal Paris",
-      "name": "2'li Revitalift Clinical 50+ SPF Güneş Koruyucu Yüz Kremi Seti & L'Oreal Paris 200ml Micellar Hediye",
-      "claimedDiscount": 31,
-      "normalPrice": 1278.31,
-      "inflatedPrice": 1822.27,
-      "currentPrice": 1251.11,
-      "realDiscount": 2,
-      "site": "trendyol"
-    },
-    {
-      "brand": "L'Oreal Paris",
-      "name": "Panorama Chromatic Maskara Brun Leather",
-      "claimedDiscount": 29,
-      "normalPrice": 891.42,
-      "inflatedPrice": 1259.93,
-      "currentPrice": 891.42,
-      "realDiscount": 0,
-      "site": "trendyol"
-    }
-  ]
+  "fakeDeals": []
 }
