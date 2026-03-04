@@ -1,5 +1,39 @@
 {
-  "lastUpdated": "2026-03-04T11:11:25",
-  "deals": [],
+  "lastUpdated": "2026-03-04T12:22:18",
+  "deals": [
+    {
+      "brand": "Medicube",
+      "name": "Medicube Kolajen Gece Maskesi 75 ml",
+      "originalPrice": 3699.0,
+      "salePrice": 1848.9,
+      "discountPercent": 50,
+      "productCode": "",
+      "productUrl": "https://www.watsons.com.tr/medicube-kolajen-gece-maskesi-75-ml/p/BP_1458807",
+      "site": "watsons",
+      "imageUrl": "https://media.watsons.com.tr/medias/sys_master/prd-images/h81/h71/12974836383774/prd-front-1458842_195x195/prd-front-1458842-195x195.jpg"
+    },
+    {
+      "brand": "Frudia",
+      "name": "Frudia Air Snowy Maske 10'lu",
+      "originalPrice": 899.9,
+      "salePrice": 449.9,
+      "discountPercent": 50,
+      "productCode": "",
+      "productUrl": "https://www.watsons.com.tr/frudia-air-snowy-maske-10lu/p/BP_1424864",
+      "site": "watsons",
+      "imageUrl": "https://media.watsons.com.tr/medias/sys_master/prd-images/ha1/h33/12270256586782/prd-front-167704_195x195/prd-front-167704-195x195.jpg"
+    },
+    {
+      "brand": "Golden Rose",
+      "name": "Golden Rose Sweet Kiss Lip Oil Gloss No: 06",
+      "originalPrice": 259.9,
+      "salePrice": 149.0,
+      "discountPercent": 42,
+      "productCode": "",
+      "productUrl": "https://www.watsons.com.tr/golden-rose-sweet-kiss-lip-oil-gloss-no-06/p/BP_1446312",
+      "site": "watsons",
+      "imageUrl": "https://media.watsons.com.tr/medias/sys_master/prd-images/h62/h3e/13489413709854/prd-front-1446312_195x195/prd-front-1446312-195x195.jpg"
+    }
+  ],
   "fakeDeals": []
 }
