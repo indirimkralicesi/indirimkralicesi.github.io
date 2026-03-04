@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-04T19:38:02",
+  "lastUpdated": "2026-03-04T21:06:36",
   "deals": [
     {
       "brand": "Revolution",
@@ -33,6 +33,17 @@
       "productUrl": "https://www.trendyol.com/nyx-professional-makeup/jelly-job-dolgun-ve-parlak-dudak-parlaticisi-06-it-s-jelly-wonder-snatch-pudra-01-sugar-serve-p-1111108652?boutiqueId=61&merchantId=107819",
       "site": "trendyol",
       "imageUrl": "https://cdn.dsmcdn.com/mnresize/1200/-/ty1830/prod/QC_PREP/20260227/10/929b9155-630c-3771-8418-74104c281379/1_org_zoom.jpg"
+    },
+    {
+      "brand": "NYX Professional",
+      "name": "Zero to Brow Uzun Süre Kalıcı Kaş Jeli - Taupe",
+      "originalPrice": 539.99,
+      "salePrice": 424.68,
+      "discountPercent": 21,
+      "productCode": "762923435",
+      "productUrl": "https://www.trendyol.com/nyx-professional-makeup/zero-to-brow-uzun-sure-kalici-kas-jeli-taupe-p-762923435?boutiqueId=61&merchantId=107819",
+      "site": "trendyol",
+      "imageUrl": "https://cdn.dsmcdn.com/mnresize/1200/-/ty1535/product/media/images/prod/QC/20240910/11/6570a0ef-9fa8-3b1d-b6f2-8e1833b9fad3/1_org_zoom.jpg"
     }
   ],
   "fakeDeals": []
