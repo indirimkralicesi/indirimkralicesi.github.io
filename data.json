@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-04T15:37:56",
+  "lastUpdated": "2026-03-04T19:38:02",
   "deals": [
     {
       "brand": "Revolution",
@@ -11,6 +11,28 @@
       "productUrl": "https://www.watsons.com.tr/revolution-air-blur-mat-likit-ruj-ballet/p/BP_1443456",
       "site": "watsons",
       "imageUrl": "https://media.watsons.com.tr/medias/sys_master/prd-images/ha2/h53/12514084552734/prd-front-1443456_195x195/prd-front-1443456-195x195.jpg"
+    },
+    {
+      "brand": "NYX Professional",
+      "name": "Lift & Snatch! Brow Tint Pen Black - Kaş Kalemi",
+      "originalPrice": 629.99,
+      "salePrice": 441.04,
+      "discountPercent": 29,
+      "productCode": "86738795",
+      "productUrl": "https://www.trendyol.com/nyx-professional-makeup/lift-snatch-brow-tint-pen-black-kas-kalemi-p-86738795?boutiqueId=61&merchantId=107819",
+      "site": "trendyol",
+      "imageUrl": "https://cdn.dsmcdn.com/mnresize/1200/-/ty1606/prod/QC/20241127/18/942232a6-b876-3def-bf00-5b77312f8f78/1_org_zoom.jpg"
+    },
+    {
+      "brand": "NYX Professional",
+      "name": "Jelly Job Dolgun ve Parlak Dudak Parlatıcısı 06 It's Jelly & Wonder Snatch Pudra 01 Sugar Serve",
+      "originalPrice": 1799.0,
+      "salePrice": 1399.0,
+      "discountPercent": 22,
+      "productCode": "1111108652",
+      "productUrl": "https://www.trendyol.com/nyx-professional-makeup/jelly-job-dolgun-ve-parlak-dudak-parlaticisi-06-it-s-jelly-wonder-snatch-pudra-01-sugar-serve-p-1111108652?boutiqueId=61&merchantId=107819",
+      "site": "trendyol",
+      "imageUrl": "https://cdn.dsmcdn.com/mnresize/1200/-/ty1830/prod/QC_PREP/20260227/10/929b9155-630c-3771-8418-74104c281379/1_org_zoom.jpg"
     }
   ],
   "fakeDeals": []
