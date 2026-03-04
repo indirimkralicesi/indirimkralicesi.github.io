@@ -409,7 +409,7 @@
           (deal.productCode ? '<div class="product-code">Kod: ' + deal.productCode + '</div>' : '') +
         '</div>' +
       '</div>' +
-      '<a href="' + deal.trendyolUrl + '" target="_blank" rel="noopener" class="card-button">Trendyol\'da Gör →</a>' +
+      '<a href="' + (deal.productUrl || deal.trendyolUrl) + '" target="_blank" rel="noopener" class="card-button">' + (deal.site === 'watsons' ? 'Watsons\'ta Gör →' : 'Trendyol\'da Gör →') + '</a>' +
     '</div>';
   }
 
@@ -418,7 +418,7 @@
       '<div class="fake-badge">FİYAT GEÇMİŞİ UYARISI</div>' +
       '<div class="product-name">' + (fake.brand ? fake.brand + ' — ' : '') + fake.name + '</div>' +
       '<div class="fake-detail">' +
-        'Trendyol\'da <strong>%' + fake.claimedDiscount + ' indirim</strong> yazıyor<br>' +
+        (fake.site === 'watsons' ? 'Watsons\'ta' : 'Trendyol\'da') + ' <strong>%' + fake.claimedDiscount + ' indirim</strong> yazıyor<br>' +
         'Ama fiyat geçmişi:<br>' +
         'Normal fiyat: ' + formatPrice(fake.normalPrice) +
         ' → ' + formatPrice(fake.inflatedPrice) + '\'ye çıkarıldı' +
