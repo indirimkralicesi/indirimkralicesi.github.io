@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-05T12:06:49",
+  "lastUpdated": "2026-03-05T18:06:50",
   "deals": [
     {
       "brand": "Urban Care",
@@ -154,7 +154,82 @@
       "productUrl": "https://www.watsons.com.tr/maybelline-new-york-super-stay-vinyl-ink-likit-parlak-ruj-115-peppy/p/BP_1345785",
       "site": "watsons",
       "imageUrl": "https://media.watsons.com.tr/medias/sys_master/prd-images/hdc/he4/9256665219102/prd-front-1345785_195x195/prd-front-1345785-195x195.jpg"
+    },
+    {
+      "brand": "Maybelline New York",
+      "name": "Lifter Glaze Shea Yağı ve Hyalüronik Asit içeren Renkli Dudak Balmı - 04 Cherry Swirl",
+      "originalPrice": 269.14,
+      "salePrice": 185.0,
+      "discountPercent": 51,
+      "productCode": "929582191",
+      "productUrl": "https://www.trendyol.com/maybelline-new-york/lifter-glaze-shea-yagi-ve-hyaluronik-asit-iceren-renkli-dudak-balmi-04-cherry-swirl-p-929582191?boutiqueId=61&merchantId=107819",
+      "site": "trendyol",
+      "imageUrl": "https://cdn.dsmcdn.com/mnresize/1200/-/ty1668/prod/QC/20250424/10/8763c8a6-3ae0-39b8-8d84-42845cf30c83/1_org_zoom.jpg"
+    },
+    {
+      "brand": "Maybelline New York",
+      "name": "Colossal Bubble Hacim Veren Maskara - Siyah",
+      "originalPrice": 574.0,
+      "salePrice": 310.0,
+      "discountPercent": 45,
+      "productCode": "924633643",
+      "productUrl": "https://www.trendyol.com/maybelline-new-york/colossal-bubble-hacim-veren-maskara-siyah-p-924633643?boutiqueId=61&merchantId=107819",
+      "site": "trendyol",
+      "imageUrl": "https://cdn.dsmcdn.com/mnresize/1200/-/ty1688/product/media/images/prod/PIM/20250601/18/8df06139-1e4e-4dad-98dc-bf3645948afe/1_org_zoom.jpg"
+    },
+    {
+      "brand": "NYX Professional",
+      "name": "Blade N Shade Kaş Kalemi - 12 Black",
+      "originalPrice": 364.49,
+      "salePrice": 320.0,
+      "discountPercent": 21,
+      "productCode": "892681057",
+      "productUrl": "https://www.trendyol.com/nyx-professional-makeup/blade-n-shade-kas-kalemi-12-black-p-892681057?boutiqueId=61&merchantId=107819",
+      "site": "trendyol",
+      "imageUrl": "https://cdn.dsmcdn.com/mnresize/1200/-/ty1642/product/media/images/prod/PIM/20250227/14/4c57cfaf-afed-4dd4-8034-c60bc5645c43/1_org_zoom.jpg"
+    },
+    {
+      "brand": "NYX Professional",
+      "name": "Jumbo Face Stick | Çok Amaçlı Stick Aydınlatıcı - Coconut Cake",
+      "originalPrice": 539.99,
+      "salePrice": 429.0,
+      "discountPercent": 20,
+      "productCode": "765277654",
+      "productUrl": "https://www.trendyol.com/nyx-professional-makeup/jumbo-face-stick-cok-amacli-stick-aydinlatici-coconut-cake-p-765277654?boutiqueId=61&merchantId=107819",
+      "site": "trendyol",
+      "imageUrl": "https://cdn.dsmcdn.com/mnresize/1200/-/ty1533/product/media/images/prod/QC/20240910/11/fa2ed815-e550-3897-9266-22d90131d630/1_org_zoom.jpg"
     }
   ],
-  "fakeDeals": []
+  "fakeDeals": [
+    {
+      "brand": "Revolution",
+      "name": "Revolution Sunray Glow Yüz Güneş Kremi 50 ml",
+      "claimedDiscount": 81,
+      "normalPrice": 199.0,
+      "inflatedPrice": 1099.9,
+      "currentPrice": 199.0,
+      "realDiscount": 0,
+      "site": "trendyol"
+    },
+    {
+      "brand": "Revolution",
+      "name": "Revolution Lustre Lights Aydınlatan Nemlendirici 50 ml",
+      "claimedDiscount": 79,
+      "normalPrice": 199.0,
+      "inflatedPrice": 949.9,
+      "currentPrice": 199.0,
+      "realDiscount": 0,
+      "site": "trendyol"
+    },
+    {
+      "brand": "Revolution",
+      "name": "Revolution Cloud Clear Arındıran Nemlendirici 50 ml",
+      "claimedDiscount": 79,
+      "normalPrice": 199.0,
+      "inflatedPrice": 949.9,
+      "currentPrice": 199.0,
+      "realDiscount": 0,
+      "site": "trendyol"
+    }
+  ]
 }
