@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-05T10:39:49",
+  "lastUpdated": "2026-03-05T11:37:25",
   "deals": [
     {
       "brand": "Urban Care",
@@ -88,6 +88,50 @@
       "productUrl": "https://www.watsons.com.tr/maybelline-new-york-super-lock-brow-glue-kas-sabitleyici-maskara-deep-brown/p/BP_1437212",
       "site": "watsons",
       "imageUrl": "https://media.watsons.com.tr/medias/sys_master/prd-images/h72/h89/12336850075678/prd-front-1437212_195x195/prd-front-1437212-195x195.jpg"
+    },
+    {
+      "brand": "L'Oreal Paris",
+      "name": "L'Oreal Paris Telescopic Carbon Siyah Maskara",
+      "originalPrice": 1569.9,
+      "salePrice": 469.9,
+      "discountPercent": 40,
+      "productCode": "",
+      "productUrl": "https://www.watsons.com.tr/loreal-paris-telescopic-carbon-siyah-maskara/p/BP_124802",
+      "site": "watsons",
+      "imageUrl": "https://media.watsons.com.tr/medias/sys_master/prd-images/hfe/h5c/8900204953630/prd-front-124802_195x195/prd-front-124802-195x195.png"
+    },
+    {
+      "brand": "L'Oreal Paris",
+      "name": "L'Oreal Paris Plump Ambition Hyaluron Dudak Yağı No: 641",
+      "originalPrice": 1199.9,
+      "salePrice": 359.9,
+      "discountPercent": 40,
+      "productCode": "",
+      "productUrl": "https://www.watsons.com.tr/loreal-paris-plump-ambition-hyaluron-dudak-yagi-no-641/p/BP_1425326",
+      "site": "watsons",
+      "imageUrl": "https://media.watsons.com.tr/medias/sys_master/prd-images/h39/h6a/11922177196062/prd-front-1425326_195x195/prd-front-1425326-195x195.jpg"
+    },
+    {
+      "brand": "Maybelline New York",
+      "name": "Maybelline New York Super Lock Brow Glue Kaş Sabitleyici Maskara Medium Brown",
+      "originalPrice": 1299.9,
+      "salePrice": 389.9,
+      "discountPercent": 40,
+      "productCode": "",
+      "productUrl": "https://www.watsons.com.tr/maybelline-new-york-super-lock-brow-glue-kas-sabitleyici-maskara-medium-brown/p/BP_1437219",
+      "site": "watsons",
+      "imageUrl": "https://media.watsons.com.tr/medias/sys_master/prd-images/h48/h03/12336738238494/prd-front-1437219_195x195/prd-front-1437219-195x195.jpg"
+    },
+    {
+      "brand": "Maybelline New York",
+      "name": "Maybelline New York Super Lock Brow Glue Kaş Sabitleyici Maskara Taupe",
+      "originalPrice": 1299.9,
+      "salePrice": 389.9,
+      "discountPercent": 40,
+      "productCode": "",
+      "productUrl": "https://www.watsons.com.tr/maybelline-new-york-super-lock-brow-glue-kas-sabitleyici-maskara-taupe/p/BP_1437226",
+      "site": "watsons",
+      "imageUrl": "https://media.watsons.com.tr/medias/sys_master/prd-images/h71/h7d/12336813473822/prd-front-1437226_195x195/prd-front-1437226-195x195.jpg"
     }
   ],
   "fakeDeals": []
