@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-05T11:37:25",
+  "lastUpdated": "2026-03-05T12:06:49",
   "deals": [
     {
       "brand": "Urban Care",
@@ -132,6 +132,28 @@
       "productUrl": "https://www.watsons.com.tr/maybelline-new-york-super-lock-brow-glue-kas-sabitleyici-maskara-taupe/p/BP_1437226",
       "site": "watsons",
       "imageUrl": "https://media.watsons.com.tr/medias/sys_master/prd-images/h71/h7d/12336813473822/prd-front-1437226_195x195/prd-front-1437226-195x195.jpg"
+    },
+    {
+      "brand": "Maybelline New York",
+      "name": "Maybelline New York Vinyl Ink Ruj Cheeky No: 35",
+      "originalPrice": 1599.9,
+      "salePrice": 479.9,
+      "discountPercent": 40,
+      "productCode": "",
+      "productUrl": "https://www.watsons.com.tr/maybelline-new-york-vinyl-ink-ruj-cheeky-no-35/p/BP_1323371",
+      "site": "watsons",
+      "imageUrl": "https://media.watsons.com.tr/medias/sys_master/prd-images/h84/h0e/8979900334110/prd-front-1323371_195x195/prd-front-1323371-195x195.jpg"
+    },
+    {
+      "brand": "Maybelline New York",
+      "name": "Maybelline New York Super Stay Vinyl Ink Likit Parlak Ruj 115 Peppy",
+      "originalPrice": 1599.9,
+      "salePrice": 479.9,
+      "discountPercent": 40,
+      "productCode": "",
+      "productUrl": "https://www.watsons.com.tr/maybelline-new-york-super-stay-vinyl-ink-likit-parlak-ruj-115-peppy/p/BP_1345785",
+      "site": "watsons",
+      "imageUrl": "https://media.watsons.com.tr/medias/sys_master/prd-images/hdc/he4/9256665219102/prd-front-1345785_195x195/prd-front-1345785-195x195.jpg"
     }
   ],
   "fakeDeals": []
