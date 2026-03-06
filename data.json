@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-06T17:37:23",
+  "lastUpdated": "2026-03-06T21:07:31",
   "deals": [
     {
       "brand": "L'Oreal Paris",
@@ -154,6 +154,28 @@
       "productUrl": "https://www.trendyol.com/flormar/jel-gorunum-veren-son-kat-tirnak-cilasi-gel-look-top-coat-000-8682536059275-p-746303091?boutiqueId=61&merchantId=1047535",
       "site": "trendyol",
       "imageUrl": "https://cdn.dsmcdn.com/mnresize/1200/-/ty1773/prod/QC_ENRICHMENT/20251016/10/6f260e69-9fcc-3f02-ac17-b24ee4790655/1_org_zoom.jpg"
+    },
+    {
+      "brand": "L'Oreal Paris",
+      "name": "L'Oreal Paris Infaillible 32H Fresh Wear C Vitaminli Fondöten 140 Golden Beige",
+      "originalPrice": 2149.9,
+      "salePrice": 859.9,
+      "discountPercent": 20,
+      "productCode": "",
+      "productUrl": "https://www.watsons.com.tr/loreal-paris-infaillible-32h-fresh-wear-c-vitaminli-fondoten-140-golden-beige/p/BP_161948",
+      "site": "watsons",
+      "imageUrl": "https://media.watsons.com.tr/medias/sys_master/prd-images/h78/haf/8979715850270/prd-front-161948_195x195/prd-front-161948-195x195.jpg"
+    },
+    {
+      "brand": "L'Oreal Paris",
+      "name": "L'Oreal Paris Paradise Maskara Siyah",
+      "originalPrice": 1799.9,
+      "salePrice": 719.9,
+      "discountPercent": 20,
+      "productCode": "",
+      "productUrl": "https://www.watsons.com.tr/loreal-paris-paradise-maskara-siyah/p/BP_155420",
+      "site": "watsons",
+      "imageUrl": "https://media.watsons.com.tr/medias/sys_master/prd-images/ha9/hd8/8903125041182/prd-front-155420_195x195/prd-front-155420-195x195.png"
     }
   ],
   "fakeDeals": [
