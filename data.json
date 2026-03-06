@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-06T14:07:12",
+  "lastUpdated": "2026-03-06T17:37:23",
   "deals": [
     {
       "brand": "L'Oreal Paris",
@@ -121,6 +121,39 @@
       "productUrl": "https://www.trendyol.com/flormar/dewy-lip-glaze-dudak-parlaticisi-no-027-p-749786918?boutiqueId=61&merchantId=468928",
       "site": "trendyol",
       "imageUrl": "https://cdn.dsmcdn.com/mnresize/1200/-/ty1774/prod/QC_ENRICHMENT/20251014/17/49325103-4585-31fe-9407-934a0a70302b/1_org_zoom.jpg"
+    },
+    {
+      "brand": "L'Oreal Paris",
+      "name": "L'Oreal Paris İnfaillible Haute Couleur Eyeliner Blue Sue",
+      "originalPrice": 849.9,
+      "salePrice": 339.9,
+      "discountPercent": 20,
+      "productCode": "",
+      "productUrl": "https://www.watsons.com.tr/loreal-paris-infaillible-haute-couleur-eyeliner-blue-sue/p/BP_1480570",
+      "site": "watsons",
+      "imageUrl": "https://media.watsons.com.tr/medias/sys_master/prd-images/h8e/h75/13784844435486/prd-front-1480570_195x195/prd-front-1480570-195x195.jpg"
+    },
+    {
+      "brand": "L'Oreal Paris",
+      "name": "L'Oreal Paris Hyaluron Tint 420 Le Rouge Paris",
+      "originalPrice": 1199.9,
+      "salePrice": 479.9,
+      "discountPercent": 20,
+      "productCode": "",
+      "productUrl": "https://www.watsons.com.tr/loreal-paris-hyaluron-tint-420-le-rouge-paris/p/BP_1480549",
+      "site": "watsons",
+      "imageUrl": "https://media.watsons.com.tr/medias/sys_master/prd-images/hfd/h48/13784839454750/prd-front-1480549_195x195/prd-front-1480549-195x195.jpg"
+    },
+    {
+      "brand": "Flormar",
+      "name": "Jel Görünüm Veren Son Kat Tırnak Cilası - Gel Look Top Coat - 000 - 8682536059275",
+      "originalPrice": 135.0,
+      "salePrice": 125.0,
+      "discountPercent": 37,
+      "productCode": "746303091",
+      "productUrl": "https://www.trendyol.com/flormar/jel-gorunum-veren-son-kat-tirnak-cilasi-gel-look-top-coat-000-8682536059275-p-746303091?boutiqueId=61&merchantId=1047535",
+      "site": "trendyol",
+      "imageUrl": "https://cdn.dsmcdn.com/mnresize/1200/-/ty1773/prod/QC_ENRICHMENT/20251016/10/6f260e69-9fcc-3f02-ac17-b24ee4790655/1_org_zoom.jpg"
     }
   ],
   "fakeDeals": [
