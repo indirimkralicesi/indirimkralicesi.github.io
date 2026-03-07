@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-07T08:37:29",
+  "lastUpdated": "2026-03-07T12:07:12",
   "deals": [
     {
       "brand": "Garnier",
@@ -88,6 +88,39 @@
       "productUrl": "https://www.watsons.com.tr/golden-rose-mineral-terracotta-pudra-no-01/p/BP_137960",
       "site": "watsons",
       "imageUrl": "https://media.watsons.com.tr/medias/sys_master/prd-images/h3a/h22/10207066193950/prd-front-137960_195x195/prd-front-137960-195x195.jpg"
+    },
+    {
+      "brand": "Garnier",
+      "name": "Garnier Çarpıcı Renkler 8.11 Küllü Inci Kumral Saç Boyası",
+      "originalPrice": 199.9,
+      "salePrice": 59.95,
+      "discountPercent": 62,
+      "productCode": "",
+      "productUrl": "https://www.watsons.com.tr/garnier-carpici-renkler-811-kullu-inci-kumral-sac-boyasi/p/BP_1440894",
+      "site": "watsons",
+      "imageUrl": "https://media.watsons.com.tr/medias/sys_master/prd-images/hfb/h52/12606390599710/prd-front-1440894_195x195/prd-front-1440894-195x195.jpg"
+    },
+    {
+      "brand": "Garnier",
+      "name": "Garnier Color Sensation HL1 Açık Kumral krem saç boyası",
+      "originalPrice": 199.9,
+      "salePrice": 59.95,
+      "discountPercent": 62,
+      "productCode": "",
+      "productUrl": "https://www.watsons.com.tr/garnier-color-sensation-hl1-acik-kumral-krem-sac-boyasi/p/BP_1440908",
+      "site": "watsons",
+      "imageUrl": "https://media.watsons.com.tr/medias/sys_master/prd-images/h1a/h49/12606390861854/prd-front-1440908_195x195/prd-front-1440908-195x195.jpg"
+    },
+    {
+      "brand": "L'Oreal Paris",
+      "name": "Paradise Big Deal Maskara - Siyah İkili Set",
+      "originalPrice": 1159.92,
+      "salePrice": 839.52,
+      "discountPercent": 38,
+      "productCode": "893341897",
+      "productUrl": "https://www.trendyol.com/l-oreal-paris/paradise-big-deal-maskara-siyah-ikili-set-p-893341897?boutiqueId=61&merchantId=107819",
+      "site": "trendyol",
+      "imageUrl": "https://cdn.dsmcdn.com/mnresize/1200/-/ty1628/prod/QC/20250117/16/97192d06-877b-3ed8-8d9c-471a5ebb37cf/1_org_zoom.jpg"
     }
   ],
   "fakeDeals": [
