@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-07T12:07:12",
+  "lastUpdated": "2026-03-07T15:37:05",
   "deals": [
     {
       "brand": "Garnier",
@@ -121,6 +121,28 @@
       "productUrl": "https://www.trendyol.com/l-oreal-paris/paradise-big-deal-maskara-siyah-ikili-set-p-893341897?boutiqueId=61&merchantId=107819",
       "site": "trendyol",
       "imageUrl": "https://cdn.dsmcdn.com/mnresize/1200/-/ty1628/prod/QC/20250117/16/97192d06-877b-3ed8-8d9c-471a5ebb37cf/1_org_zoom.jpg"
+    },
+    {
+      "brand": "Garnier",
+      "name": "Garnier Çarpıcı Renkler 7.3 Altın Kumral Saç Boyası",
+      "originalPrice": 199.9,
+      "salePrice": 59.95,
+      "discountPercent": 62,
+      "productCode": "",
+      "productUrl": "https://www.watsons.com.tr/garnier-carpici-renkler-73-altin-kumral-sac-boyasi/p/BP_1440950",
+      "site": "watsons",
+      "imageUrl": "https://media.watsons.com.tr/medias/sys_master/prd-images/h7a/h5a/12606390337566/prd-front-1440950_195x195/prd-front-1440950-195x195.jpg"
+    },
+    {
+      "brand": "Garnier",
+      "name": "Garnier Çarpıcı Renkler 7.40 Tarçın Bakır Saç Boyası",
+      "originalPrice": 199.9,
+      "salePrice": 59.95,
+      "discountPercent": 62,
+      "productCode": "",
+      "productUrl": "https://www.watsons.com.tr/garnier-carpici-renkler-740-tarcin-bakir-sac-boyasi/p/BP_1440901",
+      "site": "watsons",
+      "imageUrl": "https://media.watsons.com.tr/medias/sys_master/prd-images/hd9/hbd/12606394007582/prd-front-1440901_195x195/prd-front-1440901-195x195.jpg"
     }
   ],
   "fakeDeals": [
