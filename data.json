@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-07T15:37:05",
+  "lastUpdated": "2026-03-07T19:07:01",
   "deals": [
     {
       "brand": "Garnier",
@@ -143,6 +143,94 @@
       "productUrl": "https://www.watsons.com.tr/garnier-carpici-renkler-740-tarcin-bakir-sac-boyasi/p/BP_1440901",
       "site": "watsons",
       "imageUrl": "https://media.watsons.com.tr/medias/sys_master/prd-images/hd9/hbd/12606394007582/prd-front-1440901_195x195/prd-front-1440901-195x195.jpg"
+    },
+    {
+      "brand": "The Ordinary",
+      "name": "Multi-Peptide Lash and Brow Serum - Yoğun Görünüm Kaş Kirpik Serumu",
+      "originalPrice": 820.0,
+      "salePrice": 620.0,
+      "discountPercent": 24,
+      "productCode": "322729559",
+      "productUrl": "https://www.trendyol.com/the-ordinary/multi-peptide-lash-and-brow-serum-yogun-gorunum-kas-kirpik-serumu-p-322729559?boutiqueId=61&merchantId=1174892",
+      "site": "trendyol",
+      "imageUrl": "https://cdn.dsmcdn.com/mnresize/1200/-/ty1743/product/media/images/prod/PIM/20251015/14/6cb6b00e-4cad-4702-918d-5b2642b816dd/1_org_zoom.jpg"
+    },
+    {
+      "brand": "L'Oreal Paris",
+      "name": "Panorama Maskara 2'li Set - Siyah & Koyu Kahverengi",
+      "originalPrice": 1204.34,
+      "salePrice": 1004.34,
+      "discountPercent": 30,
+      "productCode": "921569521",
+      "productUrl": "https://www.trendyol.com/l-oreal-paris/panorama-maskara-2-li-set-siyah-koyu-kahverengi-p-921569521?boutiqueId=61&merchantId=107819",
+      "site": "trendyol",
+      "imageUrl": "https://cdn.dsmcdn.com/mnresize/1200/-/ty1650/prod/QC/20250321/15/fd932830-23ae-3a85-a518-bd27dd4f140d/1_org_zoom.jpg"
+    },
+    {
+      "brand": "L'Oreal Paris",
+      "name": "Panorama Maskara Siyah + Sürpriz Kutu Hediye",
+      "originalPrice": 809.58,
+      "salePrice": 609.58,
+      "discountPercent": 24,
+      "productCode": "1027759156",
+      "productUrl": "https://www.trendyol.com/l-oreal-paris/panorama-maskara-siyah-surpriz-kutu-hediye-p-1027759156?boutiqueId=61&merchantId=107819",
+      "site": "trendyol",
+      "imageUrl": "https://cdn.dsmcdn.com/mnresize/1200/-/ty1775/prod/QC_PREP/20251017/16/dff6c167-fb0a-3023-b99f-14888a10cab5/1_org_zoom.jpg"
+    },
+    {
+      "brand": "Garnier",
+      "name": "Mineral Magnezyum Ultra Kuru Roll-On Deodorant Seti x5, 72 Saat Etkili",
+      "originalPrice": 826.21,
+      "salePrice": 626.21,
+      "discountPercent": 24,
+      "productCode": "123789249",
+      "productUrl": "https://www.trendyol.com/garnier/mineral-magnezyum-ultra-kuru-roll-on-deodorant-seti-x5-72-saat-etkili-p-123789249?boutiqueId=61&merchantId=107819",
+      "site": "trendyol",
+      "imageUrl": "https://cdn.dsmcdn.com/mnresize/1200/-/ty1533/product/media/images/prod/QC/20240910/11/8f9ee4d3-6c8d-3214-9d2c-66701bfb1c86/1_org_zoom.jpg"
+    },
+    {
+      "brand": "KIKO",
+      "name": "Kontür-Sculpting Touch Creamy Stick Contour-201 Chocolate-Yüz Hatlarını Belirginleştiren Kremsi",
+      "originalPrice": 839.0,
+      "salePrice": 639.0,
+      "discountPercent": 23,
+      "productCode": "899596394",
+      "productUrl": "https://www.trendyol.com/kiko/kontur-sculpting-touch-creamy-stick-contour-201-chocolate-yuz-hatlarini-belirginlestiren-kremsi-p-899596394?boutiqueId=61&merchantId=387700",
+      "site": "trendyol",
+      "imageUrl": "https://cdn.dsmcdn.com/mnresize/1200/-/ty1586/prod/QC/20241015/11/5194bf92-26be-3ffc-86a8-505a60ed9b4e/1_org_zoom.jpg"
+    },
+    {
+      "brand": "Flormar",
+      "name": "Doğal Bitişli Kapatıcı (SOĞUK ALT TON) - Stay Perfect Concealer - 007 Light Beige - 8682536085564",
+      "originalPrice": 849.99,
+      "salePrice": 649.99,
+      "discountPercent": 23,
+      "productCode": "810239375",
+      "productUrl": "https://www.trendyol.com/flormar/dogal-bitisli-kapatici-soguk-alt-ton-stay-perfect-concealer-007-light-beige-8682536085564-p-810239375?boutiqueId=61&merchantId=200355",
+      "site": "trendyol",
+      "imageUrl": "https://cdn.dsmcdn.com/mnresize/1200/-/ty1779/prod/QC_ENRICHMENT/20251024/14/544a8a24-ba6a-3d98-9dd7-4a245acea70b/1_org_zoom.jpg"
+    },
+    {
+      "brand": "KIKO",
+      "name": "ALLIK - Plush Blush - 02 Crystal Coral",
+      "originalPrice": 874.0,
+      "salePrice": 674.0,
+      "discountPercent": 22,
+      "productCode": "950548132",
+      "productUrl": "https://www.trendyol.com/kiko/allik-plush-blush-02-crystal-coral-p-950548132?boutiqueId=61&merchantId=387700",
+      "site": "trendyol",
+      "imageUrl": "https://cdn.dsmcdn.com/mnresize/1200/-/ty1703/prod/QC_PREP/20250630/13/1fb73f76-93dd-3337-93a5-d8e525396645/1_org_zoom.jpg"
+    },
+    {
+      "brand": "Flormar",
+      "name": "Baked Blush-on Yüksek Pigmentli & Mat Bitişli Fırınlanmış Allık",
+      "originalPrice": 869.99,
+      "salePrice": 669.99,
+      "discountPercent": 22,
+      "productCode": "712849655",
+      "productUrl": "https://www.trendyol.com/flormar/baked-blush-on-yuksek-pigmentli-mat-bitisli-firinlanmis-allik-p-712849655?boutiqueId=61&merchantId=200355",
+      "site": "trendyol",
+      "imageUrl": "https://cdn.dsmcdn.com/mnresize/1200/-/ty1772/prod/QC_ENRICHMENT/20251013/17/004bfff8-a1c7-3c7c-b46b-5af768e711b0/1_org_zoom.jpg"
     }
   ],
   "fakeDeals": [
