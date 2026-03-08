@@ -1,225 +1,60 @@
 {
-  "lastUpdated": "2026-03-07T19:07:01",
+  "lastUpdated": "2026-03-08T08:37:31",
   "deals": [
     {
-      "brand": "Garnier",
-      "name": "Garnier Çarpıcı Renkler 7.11 Küllü Kumral Saç Boyası",
-      "originalPrice": 199.9,
-      "salePrice": 59.95,
-      "discountPercent": 62,
-      "productCode": "",
-      "productUrl": "https://www.watsons.com.tr/garnier-carpici-renkler-711-kullu-kumral-sac-boyasi/p/BP_1440943",
-      "site": "watsons",
-      "imageUrl": "https://media.watsons.com.tr/medias/sys_master/prd-images/h48/h64/12606390075422/prd-front-1440943_195x195/prd-front-1440943-195x195.jpg"
-    },
-    {
-      "brand": "Garnier",
-      "name": "Garnier Çarpıcı Renkler S9 Küllü Platin Sarısı  Saç Boyası",
-      "originalPrice": 199.9,
-      "salePrice": 59.95,
-      "discountPercent": 62,
-      "productCode": "",
-      "productUrl": "https://www.watsons.com.tr/garnier-carpici-renkler-s9-kullu-platin-sarisi-sac-boyasi/p/BP_1440929",
-      "site": "watsons",
-      "imageUrl": "https://media.watsons.com.tr/medias/sys_master/prd-images/hde/h0f/12606391386142/prd-front-1440929_195x195/prd-front-1440929-195x195.jpg"
-    },
-    {
-      "brand": "Frudia",
-      "name": "Frudia Green Grape Gözenek Kontrol Soyulabilir Burun Maskesi 60 g",
-      "originalPrice": 549.9,
-      "salePrice": 199.0,
-      "discountPercent": 63,
-      "productCode": "",
-      "productUrl": "https://www.watsons.com.tr/frudia-green-grape-gozenek-kontrol-soyulabilir-burun-maskesi-60-g/p/BP_1374898",
-      "site": "watsons",
-      "imageUrl": "https://media.watsons.com.tr/medias/sys_master/prd-images/hd4/ha8/12270286700574/prd-front-1374898_195x195/prd-front-1374898-195x195.jpg"
-    },
-    {
-      "brand": "Pantene",
-      "name": "Pantene Şampuan Temel Bakım 400 ml",
-      "originalPrice": 299.9,
-      "salePrice": 79.95,
-      "discountPercent": 46,
-      "productCode": "",
-      "productUrl": "https://www.watsons.com.tr/pantene-sampuan-temel-bakim-400-ml/p/BP_1429470",
-      "site": "watsons",
-      "imageUrl": "https://media.watsons.com.tr/medias/sys_master/prd-images/h61/hdd/12031213699102/prd-front-1429470_195x195/prd-front-1429470-195x195.jpg"
-    },
-    {
-      "brand": "Pantene",
-      "name": "Pantene Şampuan Kepek Karşıtı 400 ml",
-      "originalPrice": 299.9,
-      "salePrice": 79.95,
-      "discountPercent": 46,
-      "productCode": "",
-      "productUrl": "https://www.watsons.com.tr/pantene-sampuan-kepek-karsiti-400-ml/p/BP_1429498",
-      "site": "watsons",
-      "imageUrl": "https://media.watsons.com.tr/medias/sys_master/prd-images/haf/h39/12031096258590/prd-front-1429498_195x195/prd-front-1429498-195x195.jpg"
-    },
-    {
-      "brand": "Elidor",
-      "name": "Elidor Saç Bakım Kremi Saç Dökülmelerine Karşı 350 ml",
-      "originalPrice": 279.9,
-      "salePrice": 79.95,
-      "discountPercent": 42,
-      "productCode": "",
-      "productUrl": "https://www.watsons.com.tr/elidor-sac-bakim-kremi-sac-dokulmelerine-karsi-350-ml/p/BP_1323497",
-      "site": "watsons",
-      "imageUrl": "https://media.watsons.com.tr/medias/sys_master/prd-images/h01/hd2/12513971798046/prd-front-1323497_195x195/prd-front-1323497-195x195.jpg"
-    },
-    {
-      "brand": "Elidor",
-      "name": "Elidor Superblend Serum Saç Bakım Kremi Sağlıklı Uzayan Saçlar Biotin Argan Yağı & Keratin 350 ml",
-      "originalPrice": 279.9,
-      "salePrice": 79.95,
-      "discountPercent": 42,
-      "productCode": "",
-      "productUrl": "https://www.watsons.com.tr/elidor-superblend-serum-sac-bakim-kremi-saglikli-uzayan-saclar-biotin-argan-yagi-keratin-350-ml/p/BP_1323490",
-      "site": "watsons",
-      "imageUrl": "https://media.watsons.com.tr/medias/sys_master/prd-images/he7/h7f/12514016788510/prd-front-1323490_195x195/prd-front-1323490-195x195.jpg"
-    },
-    {
-      "brand": "Golden Rose",
-      "name": "Golden Rose Mineral Terracotta Pudra No: 01",
-      "originalPrice": 1059.9,
-      "salePrice": 423.9,
-      "discountPercent": 20,
-      "productCode": "",
-      "productUrl": "https://www.watsons.com.tr/golden-rose-mineral-terracotta-pudra-no-01/p/BP_137960",
-      "site": "watsons",
-      "imageUrl": "https://media.watsons.com.tr/medias/sys_master/prd-images/h3a/h22/10207066193950/prd-front-137960_195x195/prd-front-137960-195x195.jpg"
-    },
-    {
-      "brand": "Garnier",
-      "name": "Garnier Çarpıcı Renkler 8.11 Küllü Inci Kumral Saç Boyası",
-      "originalPrice": 199.9,
-      "salePrice": 59.95,
-      "discountPercent": 62,
-      "productCode": "",
-      "productUrl": "https://www.watsons.com.tr/garnier-carpici-renkler-811-kullu-inci-kumral-sac-boyasi/p/BP_1440894",
-      "site": "watsons",
-      "imageUrl": "https://media.watsons.com.tr/medias/sys_master/prd-images/hfb/h52/12606390599710/prd-front-1440894_195x195/prd-front-1440894-195x195.jpg"
-    },
-    {
-      "brand": "Garnier",
-      "name": "Garnier Color Sensation HL1 Açık Kumral krem saç boyası",
-      "originalPrice": 199.9,
-      "salePrice": 59.95,
-      "discountPercent": 62,
-      "productCode": "",
-      "productUrl": "https://www.watsons.com.tr/garnier-color-sensation-hl1-acik-kumral-krem-sac-boyasi/p/BP_1440908",
-      "site": "watsons",
-      "imageUrl": "https://media.watsons.com.tr/medias/sys_master/prd-images/h1a/h49/12606390861854/prd-front-1440908_195x195/prd-front-1440908-195x195.jpg"
+      "brand": "L'Oreal Paris",
+      "name": "Panorama Chromatic Maskara Blue Seudede",
+      "originalPrice": 863.05,
+      "salePrice": 663.05,
+      "discountPercent": 23,
+      "productCode": "1081709355",
+      "productUrl": "https://www.trendyol.com/l-oreal-paris/panorama-chromatic-maskara-blue-seudede-p-1081709355?boutiqueId=61&merchantId=107819",
+      "site": "trendyol",
+      "imageUrl": "https://cdn.dsmcdn.com/mnresize/1200/-/ty1000322/product/media/images/prod/PIM/20260202/13/2611c8a8-0c88-4d31-88f3-7251181ce389/1_org_zoom.jpg"
     },
     {
       "brand": "L'Oreal Paris",
-      "name": "Paradise Big Deal Maskara - Siyah İkili Set",
-      "originalPrice": 1159.92,
-      "salePrice": 839.52,
-      "discountPercent": 38,
-      "productCode": "893341897",
-      "productUrl": "https://www.trendyol.com/l-oreal-paris/paradise-big-deal-maskara-siyah-ikili-set-p-893341897?boutiqueId=61&merchantId=107819",
+      "name": "Infaillible Matte Resistance Likit Mat Ruj - 645 Crush Alert",
+      "originalPrice": 849.95,
+      "salePrice": 649.95,
+      "discountPercent": 23,
+      "productCode": "820189529",
+      "productUrl": "https://www.trendyol.com/l-oreal-paris/infaillible-matte-resistance-likit-mat-ruj-645-crush-alert-p-820189529?boutiqueId=61&merchantId=107819",
       "site": "trendyol",
-      "imageUrl": "https://cdn.dsmcdn.com/mnresize/1200/-/ty1628/prod/QC/20250117/16/97192d06-877b-3ed8-8d9c-471a5ebb37cf/1_org_zoom.jpg"
-    },
-    {
-      "brand": "Garnier",
-      "name": "Garnier Çarpıcı Renkler 7.3 Altın Kumral Saç Boyası",
-      "originalPrice": 199.9,
-      "salePrice": 59.95,
-      "discountPercent": 62,
-      "productCode": "",
-      "productUrl": "https://www.watsons.com.tr/garnier-carpici-renkler-73-altin-kumral-sac-boyasi/p/BP_1440950",
-      "site": "watsons",
-      "imageUrl": "https://media.watsons.com.tr/medias/sys_master/prd-images/h7a/h5a/12606390337566/prd-front-1440950_195x195/prd-front-1440950-195x195.jpg"
-    },
-    {
-      "brand": "Garnier",
-      "name": "Garnier Çarpıcı Renkler 7.40 Tarçın Bakır Saç Boyası",
-      "originalPrice": 199.9,
-      "salePrice": 59.95,
-      "discountPercent": 62,
-      "productCode": "",
-      "productUrl": "https://www.watsons.com.tr/garnier-carpici-renkler-740-tarcin-bakir-sac-boyasi/p/BP_1440901",
-      "site": "watsons",
-      "imageUrl": "https://media.watsons.com.tr/medias/sys_master/prd-images/hd9/hbd/12606394007582/prd-front-1440901_195x195/prd-front-1440901-195x195.jpg"
-    },
-    {
-      "brand": "The Ordinary",
-      "name": "Multi-Peptide Lash and Brow Serum - Yoğun Görünüm Kaş Kirpik Serumu",
-      "originalPrice": 820.0,
-      "salePrice": 620.0,
-      "discountPercent": 24,
-      "productCode": "322729559",
-      "productUrl": "https://www.trendyol.com/the-ordinary/multi-peptide-lash-and-brow-serum-yogun-gorunum-kas-kirpik-serumu-p-322729559?boutiqueId=61&merchantId=1174892",
-      "site": "trendyol",
-      "imageUrl": "https://cdn.dsmcdn.com/mnresize/1200/-/ty1743/product/media/images/prod/PIM/20251015/14/6cb6b00e-4cad-4702-918d-5b2642b816dd/1_org_zoom.jpg"
-    },
-    {
-      "brand": "L'Oreal Paris",
-      "name": "Panorama Maskara 2'li Set - Siyah & Koyu Kahverengi",
-      "originalPrice": 1204.34,
-      "salePrice": 1004.34,
-      "discountPercent": 30,
-      "productCode": "921569521",
-      "productUrl": "https://www.trendyol.com/l-oreal-paris/panorama-maskara-2-li-set-siyah-koyu-kahverengi-p-921569521?boutiqueId=61&merchantId=107819",
-      "site": "trendyol",
-      "imageUrl": "https://cdn.dsmcdn.com/mnresize/1200/-/ty1650/prod/QC/20250321/15/fd932830-23ae-3a85-a518-bd27dd4f140d/1_org_zoom.jpg"
-    },
-    {
-      "brand": "L'Oreal Paris",
-      "name": "Panorama Maskara Siyah + Sürpriz Kutu Hediye",
-      "originalPrice": 809.58,
-      "salePrice": 609.58,
-      "discountPercent": 24,
-      "productCode": "1027759156",
-      "productUrl": "https://www.trendyol.com/l-oreal-paris/panorama-maskara-siyah-surpriz-kutu-hediye-p-1027759156?boutiqueId=61&merchantId=107819",
-      "site": "trendyol",
-      "imageUrl": "https://cdn.dsmcdn.com/mnresize/1200/-/ty1775/prod/QC_PREP/20251017/16/dff6c167-fb0a-3023-b99f-14888a10cab5/1_org_zoom.jpg"
-    },
-    {
-      "brand": "Garnier",
-      "name": "Mineral Magnezyum Ultra Kuru Roll-On Deodorant Seti x5, 72 Saat Etkili",
-      "originalPrice": 826.21,
-      "salePrice": 626.21,
-      "discountPercent": 24,
-      "productCode": "123789249",
-      "productUrl": "https://www.trendyol.com/garnier/mineral-magnezyum-ultra-kuru-roll-on-deodorant-seti-x5-72-saat-etkili-p-123789249?boutiqueId=61&merchantId=107819",
-      "site": "trendyol",
-      "imageUrl": "https://cdn.dsmcdn.com/mnresize/1200/-/ty1533/product/media/images/prod/QC/20240910/11/8f9ee4d3-6c8d-3214-9d2c-66701bfb1c86/1_org_zoom.jpg"
+      "imageUrl": "https://cdn.dsmcdn.com/mnresize/1200/-/ty1590/product/media/images/prod/PIM/20241021/13/c0b8a9c1-0b97-4f67-b7c6-4c5a1c392d19/1_org_zoom.jpg"
     },
     {
       "brand": "KIKO",
-      "name": "Kontür-Sculpting Touch Creamy Stick Contour-201 Chocolate-Yüz Hatlarını Belirginleştiren Kremsi",
-      "originalPrice": 839.0,
-      "salePrice": 639.0,
-      "discountPercent": 23,
-      "productCode": "899596394",
-      "productUrl": "https://www.trendyol.com/kiko/kontur-sculpting-touch-creamy-stick-contour-201-chocolate-yuz-hatlarini-belirginlestiren-kremsi-p-899596394?boutiqueId=61&merchantId=387700",
-      "site": "trendyol",
-      "imageUrl": "https://cdn.dsmcdn.com/mnresize/1200/-/ty1586/prod/QC/20241015/11/5194bf92-26be-3ffc-86a8-505a60ed9b4e/1_org_zoom.jpg"
-    },
-    {
-      "brand": "Flormar",
-      "name": "Doğal Bitişli Kapatıcı (SOĞUK ALT TON) - Stay Perfect Concealer - 007 Light Beige - 8682536085564",
-      "originalPrice": 849.99,
-      "salePrice": 649.99,
-      "discountPercent": 23,
-      "productCode": "810239375",
-      "productUrl": "https://www.trendyol.com/flormar/dogal-bitisli-kapatici-soguk-alt-ton-stay-perfect-concealer-007-light-beige-8682536085564-p-810239375?boutiqueId=61&merchantId=200355",
-      "site": "trendyol",
-      "imageUrl": "https://cdn.dsmcdn.com/mnresize/1200/-/ty1779/prod/QC_ENRICHMENT/20251024/14/544a8a24-ba6a-3d98-9dd7-4a245acea70b/1_org_zoom.jpg"
-    },
-    {
-      "brand": "KIKO",
-      "name": "ALLIK - Plush Blush - 02 Crystal Coral",
+      "name": "ALLIK - Plush Blush - 03 Pink Ballerina",
       "originalPrice": 874.0,
       "salePrice": 674.0,
       "discountPercent": 22,
-      "productCode": "950548132",
-      "productUrl": "https://www.trendyol.com/kiko/allik-plush-blush-02-crystal-coral-p-950548132?boutiqueId=61&merchantId=387700",
+      "productCode": "950548073",
+      "productUrl": "https://www.trendyol.com/kiko/allik-plush-blush-03-pink-ballerina-p-950548073?boutiqueId=61&merchantId=387700",
       "site": "trendyol",
-      "imageUrl": "https://cdn.dsmcdn.com/mnresize/1200/-/ty1703/prod/QC_PREP/20250630/13/1fb73f76-93dd-3337-93a5-d8e525396645/1_org_zoom.jpg"
+      "imageUrl": "https://cdn.dsmcdn.com/mnresize/1200/-/ty1701/prod/QC_PREP/20250630/13/77a0f101-852c-3715-b796-12036588187a/1_org_zoom.jpg"
+    },
+    {
+      "brand": "KIKO",
+      "name": "ALLIK - Plush Blush - 01 Caffelatte",
+      "originalPrice": 874.0,
+      "salePrice": 674.0,
+      "discountPercent": 22,
+      "productCode": "950547935",
+      "productUrl": "https://www.trendyol.com/kiko/allik-plush-blush-01-caffelatte-p-950547935?boutiqueId=61&merchantId=387700",
+      "site": "trendyol",
+      "imageUrl": "https://cdn.dsmcdn.com/mnresize/1200/-/ty1701/prod/QC_PREP/20250630/13/607eeca5-65f5-3eb1-95c1-caeefe553302/1_org_zoom.jpg"
+    },
+    {
+      "brand": "Flormar",
+      "name": "K-Spirit Glass Primer Besleyici ve Pürüzsüzleştirici Etkili Işıltılı Makyaj Bazı - 8682536107631",
+      "originalPrice": 893.0,
+      "salePrice": 693.0,
+      "discountPercent": 22,
+      "productCode": "1090856443",
+      "productUrl": "https://www.trendyol.com/flormar/k-spirit-glass-primer-besleyici-ve-puruzsuzlestirici-etkili-isiltili-makyaj-bazi-8682536107631-p-1090856443?boutiqueId=61&merchantId=200355",
+      "site": "trendyol",
+      "imageUrl": "https://cdn.dsmcdn.com/mnresize/1200/-/ty1817/prod/QC_ENRICHMENT/20260124/11/f0388f6d-9f16-3d51-b306-048f719c44b4/1_org_zoom.jpg"
     },
     {
       "brand": "Flormar",
@@ -227,10 +62,10 @@
       "originalPrice": 869.99,
       "salePrice": 669.99,
       "discountPercent": 22,
-      "productCode": "712849655",
-      "productUrl": "https://www.trendyol.com/flormar/baked-blush-on-yuksek-pigmentli-mat-bitisli-firinlanmis-allik-p-712849655?boutiqueId=61&merchantId=200355",
+      "productCode": "712849633",
+      "productUrl": "https://www.trendyol.com/flormar/baked-blush-on-yuksek-pigmentli-mat-bitisli-firinlanmis-allik-p-712849633?boutiqueId=61&merchantId=200355",
       "site": "trendyol",
-      "imageUrl": "https://cdn.dsmcdn.com/mnresize/1200/-/ty1772/prod/QC_ENRICHMENT/20251013/17/004bfff8-a1c7-3c7c-b46b-5af768e711b0/1_org_zoom.jpg"
+      "imageUrl": "https://cdn.dsmcdn.com/mnresize/1200/-/ty1772/prod/QC_ENRICHMENT/20251013/17/f4a5fb77-7d13-33f5-b309-e5de35ec1467/1_org_zoom.jpg"
     }
   ],
   "fakeDeals": [
