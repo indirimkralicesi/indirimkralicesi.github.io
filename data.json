@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-09T08:37:04",
+  "lastUpdated": "2026-03-09T12:08:01",
   "deals": [
     {
       "brand": "Frudia",
@@ -66,6 +66,72 @@
       "productUrl": "https://www.watsons.com.tr/loreal-paris-elseve-glycolic-gloss-mukemmel-parlaklik-icin-puruzsuzlestirici-sac-kremi-150-ml/p/BP_1395737",
       "site": "watsons",
       "imageUrl": "https://media.watsons.com.tr/medias/sys_master/prd-images/h69/ha1/10344489287710/prd-front-1395737_195x195/prd-front-1395737-195x195.jpg"
+    },
+    {
+      "brand": "Elseve",
+      "name": "Elseve Hydra [Hyaluronic] 72 Saat Nem ile Dolgunlaştıran Maske 300 ml",
+      "originalPrice": 599.9,
+      "salePrice": 239.9,
+      "discountPercent": 41,
+      "productCode": "",
+      "productUrl": "https://www.watsons.com.tr/elseve-hydra-hyaluronic-72-saat-nem-ile-dolgunlastiran-maske-300-ml/p/BP_1328817",
+      "site": "watsons",
+      "imageUrl": "https://media.watsons.com.tr/medias/sys_master/prd-images/he0/h53/8979785580574/prd-front-1328817_195x195/prd-front-1328817-195x195.png"
+    },
+    {
+      "brand": "Elseve",
+      "name": "Elseve Turunculaşma Karşıtı Mor Şampuan 200 ml",
+      "originalPrice": 559.9,
+      "salePrice": 224.9,
+      "discountPercent": 40,
+      "productCode": "",
+      "productUrl": "https://www.watsons.com.tr/elseve-turunculasma-karsiti-mor-sampuan-200-ml/p/BP_167192",
+      "site": "watsons",
+      "imageUrl": "https://media.watsons.com.tr/medias/sys_master/prd-images/hb9/h60/8909379436574/prd-front-167192_195x195/prd-front-167192-195x195.png"
+    },
+    {
+      "brand": "L'Oreal Paris",
+      "name": "L'Oreal Paris Elseve Glycolic Gloss Parlaklığı Saça Mühürleyen Laminasyon 5 Dakikada Durulanan Bakım 200 ml",
+      "originalPrice": 779.9,
+      "salePrice": 314.9,
+      "discountPercent": 32,
+      "productCode": "",
+      "productUrl": "https://www.watsons.com.tr/loreal-paris-elseve-glycolic-gloss-parlakligi-saca-muhurleyen-laminasyon-5-dakikada-durulanan-bakim-200-ml/p/BP_1395751",
+      "site": "watsons",
+      "imageUrl": "https://media.watsons.com.tr/medias/sys_master/prd-images/h01/hf9/10344493744158/prd-front-1395751_195x195/prd-front-1395751-195x195.jpg"
+    },
+    {
+      "brand": "L'Oreal Paris",
+      "name": "L'Oreal Paris Elseve Hydra [Hyaluronic] Pure Salisilik Asit İçeren Yağlanma Karşıtı Peeling Etkili Saç Derisi Serumu 102 ml",
+      "originalPrice": 419.9,
+      "salePrice": 169.9,
+      "discountPercent": 32,
+      "productCode": "",
+      "productUrl": "https://www.watsons.com.tr/loreal-paris-elseve-hydra-hyaluronic-pure-salisilik-asit-iceren-yaglanma-karsiti-peeling-etkili-sac-derisi-serumu-102-ml/p/BP_1402751",
+      "site": "watsons",
+      "imageUrl": "https://media.watsons.com.tr/medias/sys_master/prd-images/hbd/h13/10707196510238/prd-front-1402751_195x195/prd-front-1402751-195x195.jpg"
+    },
+    {
+      "brand": "Yves Rocher",
+      "name": "Yüz Peelingi-Karma,Yağlı, Sivilce Eğilimli Cilt-Pure Menthe Arındırıcı Botanik Kompleks 75ml",
+      "originalPrice": 669.9,
+      "salePrice": 502.42,
+      "discountPercent": 25,
+      "productCode": "109670928",
+      "productUrl": "https://www.trendyol.com/yves-rocher/yuz-peelingi-karma-yagli-sivilce-egilimli-cilt-pure-menthe-arindirici-botanik-kompleks-75ml-p-109670928?boutiqueId=61&merchantId=107109",
+      "site": "trendyol",
+      "imageUrl": "https://cdn.dsmcdn.com/mnresize/1200/-/ty1743/product/media/images/prod/PIM/20250923/11/5c42ad6c-06de-4adc-b331-ab15baa1d44b/1_org_zoom.jpg"
+    },
+    {
+      "brand": "Yves Rocher",
+      "name": "Göz Kremi-Kafein&E Vitamini-Yaşlanma Karşıtı Bitki Kök Hücre Bakım Anti Age Global 15ml",
+      "originalPrice": 2295.0,
+      "salePrice": 1721.25,
+      "discountPercent": 25,
+      "productCode": "1111443247",
+      "productUrl": "https://www.trendyol.com/yves-rocher/goz-kremi-kafein-e-vitamini-yaslanma-karsiti-bitki-kok-hucre-bakim-anti-age-global-15ml-p-1111443247?boutiqueId=61&merchantId=107109",
+      "site": "trendyol",
+      "imageUrl": "https://cdn.dsmcdn.com/mnresize/1200/-/ty1830/prod/QC_PREP/20260228/00/c4533f2c-5980-37b1-ad98-9386d397db1d/1_org_zoom.jpg"
     }
   ],
   "fakeDeals": [
