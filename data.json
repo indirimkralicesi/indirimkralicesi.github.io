@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-09T12:08:01",
+  "lastUpdated": "2026-03-09T15:37:18",
   "deals": [
     {
       "brand": "Frudia",
@@ -132,6 +132,28 @@
       "productUrl": "https://www.trendyol.com/yves-rocher/goz-kremi-kafein-e-vitamini-yaslanma-karsiti-bitki-kok-hucre-bakim-anti-age-global-15ml-p-1111443247?boutiqueId=61&merchantId=107109",
       "site": "trendyol",
       "imageUrl": "https://cdn.dsmcdn.com/mnresize/1200/-/ty1830/prod/QC_PREP/20260228/00/c4533f2c-5980-37b1-ad98-9386d397db1d/1_org_zoom.jpg"
+    },
+    {
+      "brand": "L'Oreal Paris",
+      "name": "L'Oreal Paris Yaş Uzmanı Kırışıklık Karşıtı Yenileyici Krem 50+ 50 ml",
+      "originalPrice": 779.9,
+      "salePrice": 311.9,
+      "discountPercent": 20,
+      "productCode": "",
+      "productUrl": "https://www.watsons.com.tr/loreal-paris-yas-uzmani-kirisiklik-karsiti-yenileyici-krem-50-50-ml/p/BP_166873",
+      "site": "watsons",
+      "imageUrl": "https://media.watsons.com.tr/medias/sys_master/prd-images/h8a/h63/13723099136030/prd-front-166873_195x195/prd-front-166873-195x195.jpg"
+    },
+    {
+      "brand": "L'Oreal Paris",
+      "name": "L'Oreal Paris Revitalift C Vitamini Gözenek Görünümü Karşıtı Peeling Etkili Tonik 180 ml",
+      "originalPrice": 849.9,
+      "salePrice": 339.9,
+      "discountPercent": 20,
+      "productCode": "",
+      "productUrl": "https://www.watsons.com.tr/loreal-paris-revitalift-c-vitamini-gozenek-gorunumu-karsiti-peeling-etkili-tonik-180-ml/p/BP_1430919",
+      "site": "watsons",
+      "imageUrl": "https://media.watsons.com.tr/medias/sys_master/prd-images/hf3/h2c/12430896267294/prd-front-1430919_195x195/prd-front-1430919-195x195.jpg"
     }
   ],
   "fakeDeals": [
