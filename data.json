@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-10T16:37:19",
+  "lastUpdated": "2026-03-10T21:07:18",
   "deals": [
     {
       "brand": "Revolution",
@@ -88,6 +88,50 @@
       "productUrl": "https://www.trendyol.com/clinique/chubby-stick-cheek-krem-allik-renk-plumpled-up-peony-6g-dogal-gorunum-yagsiz-formul-p-1109032543?boutiqueId=61&merchantId=108362",
       "site": "trendyol",
       "imageUrl": "https://cdn.dsmcdn.com/mnresize/1200/-/ty1829/prod/QC_PREP/20260224/00/400beca7-a0b1-370c-884d-41a784af9dd8/1_org_zoom.jpg"
+    },
+    {
+      "brand": "Garnier",
+      "name": "Saf ve Temiz Bha Niasinamid Yüz Güneş Kremi Görünmez Mat Doku SPF50+ & Nemlendirici Krem Hediye",
+      "originalPrice": 414.95,
+      "salePrice": 201.81,
+      "discountPercent": 51,
+      "productCode": "813484101",
+      "productUrl": "https://www.trendyol.com/garnier/saf-ve-temiz-bha-niasinamid-yuz-gunes-kremi-gorunmez-mat-doku-spf50-nemlendirici-krem-hediye-p-813484101?boutiqueId=61&merchantId=107819",
+      "site": "trendyol",
+      "imageUrl": "https://cdn.dsmcdn.com/mnresize/1200/-/ty1612/prod/QC/20241211/11/73e68742-ac57-31fc-97e0-26cf16acfc6f/1_org_zoom.jpg"
+    },
+    {
+      "brand": "Revolution",
+      "name": "Revolution Reloaded Far Paleti Iconic Fever",
+      "originalPrice": 934.9,
+      "salePrice": 269.0,
+      "discountPercent": 71,
+      "productCode": "",
+      "productUrl": "https://www.watsons.com.tr/revolution-reloaded-far-paleti-iconic-fever/p/BP_160165",
+      "site": "watsons",
+      "imageUrl": "https://media.watsons.com.tr/medias/sys_master/prd-images/he5/h38/8905592340510/prd-front-160165_195x195/prd-front-160165-195x195.jpeg"
+    },
+    {
+      "brand": "Clinique",
+      "name": "Chubby Stick™ Nemlendirici Dudak Balmı - Renk: Fuller Fig 3g | Mango, Shea Yağı",
+      "originalPrice": 1539.0,
+      "salePrice": 1077.3,
+      "discountPercent": 30,
+      "productCode": "1109032373",
+      "productUrl": "https://www.trendyol.com/clinique/chubby-stick-nemlendirici-dudak-balmi-renk-fuller-fig-3g-mango-shea-yagi-p-1109032373?boutiqueId=61&merchantId=108362",
+      "site": "trendyol",
+      "imageUrl": "https://cdn.dsmcdn.com/mnresize/1200/-/ty1828/prod/QC_PREP/20260224/00/cbc143f1-83a7-3b4e-b9b3-b9b1cf428ea0/1_org_zoom.jpg"
+    },
+    {
+      "brand": "Clinique",
+      "name": "Chubby Stick™ Cheek Krem Allık - Renk: Plenty O' Papaya 6g | Doğal Görünüm, Yağsız Formül",
+      "originalPrice": 2125.0,
+      "salePrice": 1487.5,
+      "discountPercent": 30,
+      "productCode": "1109049402",
+      "productUrl": "https://www.trendyol.com/clinique/chubby-stick-cheek-krem-allik-renk-plenty-o-papaya-6g-dogal-gorunum-yagsiz-formul-p-1109049402?boutiqueId=61&merchantId=108362",
+      "site": "trendyol",
+      "imageUrl": "https://cdn.dsmcdn.com/mnresize/1200/-/ty1829/prod/QC_PREP/20260224/01/67ad6586-1668-397d-b814-bdc20bbb21d8/1_org_zoom.jpg"
     }
   ],
   "fakeDeals": [
