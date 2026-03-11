@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-11T12:06:52",
+  "lastUpdated": "2026-03-11T16:37:06",
   "deals": [
     {
       "brand": "Flormar",
@@ -77,6 +77,28 @@
       "productUrl": "https://www.trendyol.com/garnier/body-superfood-besleyici-vucut-kremi-p-765292004?boutiqueId=61&merchantId=107819",
       "site": "trendyol",
       "imageUrl": "https://cdn.dsmcdn.com/mnresize/1200/-/ty1534/product/media/images/prod/QC/20240910/11/856c225f-7720-3b7c-a0ac-1ec7187c2b29/1_org_zoom.jpg"
+    },
+    {
+      "brand": "L'Oreal Paris",
+      "name": "Age Perfect Kolajen İle Zenginleştirilmiş Besleyici Temizleyici Krem",
+      "originalPrice": 299.95,
+      "salePrice": 187.24,
+      "discountPercent": 37,
+      "productCode": "937510260",
+      "productUrl": "https://www.trendyol.com/l-oreal-paris/age-perfect-kolajen-ile-zenginlestirilmis-besleyici-temizleyici-krem-p-937510260?boutiqueId=61&merchantId=107819",
+      "site": "trendyol",
+      "imageUrl": "https://cdn.dsmcdn.com/mnresize/1200/-/ty1000031/product/media/images/prod/PIM/20251105/11/1350585b-46a9-4d09-8eef-34b3510d5db9/1_org_zoom.jpg"
+    },
+    {
+      "brand": "Clinique",
+      "name": "Cheek Pop Allık - Renk: Nude Pop 3.5g | Uzun Süre Kalıcı, Doğal ve İpeksi Formül",
+      "originalPrice": 2089.0,
+      "salePrice": 1462.3,
+      "discountPercent": 30,
+      "productCode": "468331730",
+      "productUrl": "https://www.trendyol.com/clinique/cheek-pop-allik-renk-nude-pop-3-5g-uzun-sure-kalici-dogal-ve-ipeksi-formul-p-468331730?boutiqueId=61&merchantId=108362",
+      "site": "trendyol",
+      "imageUrl": "https://cdn.dsmcdn.com/mnresize/1200/-/ty1643/product/media/images/prod/PIM/20250224/02/c8dfbdef-ed29-4fca-a0c7-954003da11a8/1_org_zoom.jpg"
     }
   ],
   "fakeDeals": [
