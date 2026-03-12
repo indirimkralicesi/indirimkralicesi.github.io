@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-12T16:38:57",
+  "lastUpdated": "2026-03-12T21:09:54",
   "deals": [
     {
       "brand": "Garnier",
@@ -121,6 +121,50 @@
       "productUrl": "https://www.watsons.com.tr/neutrogena-sivilce-karsiti-peeling-etkili-tonik-155-g/p/BP_1375430",
       "site": "watsons",
       "imageUrl": "https://media.watsons.com.tr/medias/sys_master/prd-images/h11/h4c/9701441634334/prd-front-1375430_195x195/prd-front-1375430-195x195.jpg"
+    },
+    {
+      "brand": "Garnier",
+      "name": "Garnier Hyalüronik Kriyojel Yüz Maskesi 50 g",
+      "originalPrice": 239.9,
+      "salePrice": 119.9,
+      "discountPercent": 50,
+      "productCode": "",
+      "productUrl": "https://www.watsons.com.tr/garnier-hyaluronik-kriyojel-yuz-maskesi-50-g/p/BP_1347381",
+      "site": "watsons",
+      "imageUrl": "https://media.watsons.com.tr/medias/sys_master/prd-images/h0b/hbd/9259124916254/prd-front-1347381_195x195/prd-front-1347381-195x195.jpg"
+    },
+    {
+      "brand": "Garnier",
+      "name": "Garnier Kağıt Maske C Vitamini Parlaklık Verici 1 Adet",
+      "originalPrice": 224.9,
+      "salePrice": 111.9,
+      "discountPercent": 50,
+      "productCode": "",
+      "productUrl": "https://www.watsons.com.tr/garnier-kagit-maske-c-vitamini-parlaklik-verici-1-adet/p/BP_1280167",
+      "site": "watsons",
+      "imageUrl": "https://media.watsons.com.tr/medias/sys_master/prd-images/h27/h22/11841411645470/prd-front-1280167_195x195/prd-front-1280167-195x195.jpg"
+    },
+    {
+      "brand": "Maybelline New York",
+      "name": "Lifter Glaze Shea Yağı ve Hyalüronik Asit içeren Renkli Dudak Balmı - 03 Rose Bite",
+      "originalPrice": 379.95,
+      "salePrice": 222.78,
+      "discountPercent": 41,
+      "productCode": "929582206",
+      "productUrl": "https://www.trendyol.com/maybelline-new-york/lifter-glaze-shea-yagi-ve-hyaluronik-asit-iceren-renkli-dudak-balmi-03-rose-bite-p-929582206?boutiqueId=61&merchantId=107819",
+      "site": "trendyol",
+      "imageUrl": "https://cdn.dsmcdn.com/mnresize/1200/-/ty1668/prod/QC/20250424/10/5c5648f3-5cbd-32fb-9d9b-82ccc5ece3fa/1_org_zoom.jpg"
+    },
+    {
+      "brand": "L'Oreal Paris",
+      "name": "Age Perfect Kolajen İle Zenginleştirilmiş Besleyici Temizleyici Krem",
+      "originalPrice": 299.95,
+      "salePrice": 187.24,
+      "discountPercent": 37,
+      "productCode": "937510260",
+      "productUrl": "https://www.trendyol.com/l-oreal-paris/age-perfect-kolajen-ile-zenginlestirilmis-besleyici-temizleyici-krem-p-937510260?boutiqueId=61&merchantId=107819",
+      "site": "trendyol",
+      "imageUrl": "https://cdn.dsmcdn.com/mnresize/1200/-/ty1000031/product/media/images/prod/PIM/20251105/11/1350585b-46a9-4d09-8eef-34b3510d5db9/1_org_zoom.jpg"
     }
   ],
   "fakeDeals": [
