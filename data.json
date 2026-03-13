@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-13T12:09:57",
+  "lastUpdated": "2026-03-13T16:37:56",
   "deals": [
     {
       "brand": "Golden Rose",
@@ -55,6 +55,17 @@
       "productUrl": "https://www.watsons.com.tr/frudia-mango-honey-dudak-bakim-maskesi-10g/p/BP_1390662",
       "site": "watsons",
       "imageUrl": "https://media.watsons.com.tr/medias/sys_master/prd-images/h3a/h7c/12270320877598/prd-front-1390662_195x195/prd-front-1390662-195x195.jpg"
+    },
+    {
+      "brand": "Flormar",
+      "name": "Flormar Longer Than Ever Uzun Görünüm Veren Maskara No: 001",
+      "originalPrice": 1249.9,
+      "salePrice": 374.9,
+      "discountPercent": 40,
+      "productCode": "",
+      "productUrl": "https://www.watsons.com.tr/flormar-longer-than-ever-uzun-gorunum-veren-maskara-no-001/p/BP_1380638",
+      "site": "watsons",
+      "imageUrl": "https://media.watsons.com.tr/medias/sys_master/prd-images/h51/hf1/13588435468318/prd-front-1380638_195x195/prd-front-1380638-195x195.jpg"
     }
   ],
   "fakeDeals": [
