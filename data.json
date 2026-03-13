@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-13T16:37:56",
+  "lastUpdated": "2026-03-13T21:09:33",
   "deals": [
     {
       "brand": "Golden Rose",
@@ -66,6 +66,61 @@
       "productUrl": "https://www.watsons.com.tr/flormar-longer-than-ever-uzun-gorunum-veren-maskara-no-001/p/BP_1380638",
       "site": "watsons",
       "imageUrl": "https://media.watsons.com.tr/medias/sys_master/prd-images/h51/hf1/13588435468318/prd-front-1380638_195x195/prd-front-1380638-195x195.jpg"
+    },
+    {
+      "brand": "Flormar",
+      "name": "Flormar Puffy Likit Allık No: 02 Peachy Glow",
+      "originalPrice": 699.9,
+      "salePrice": 209.9,
+      "discountPercent": 40,
+      "productCode": "",
+      "productUrl": "https://www.watsons.com.tr/flormar-puffy-likit-allik-no-02-peachy-glow/p/BP_1443750",
+      "site": "watsons",
+      "imageUrl": "https://media.watsons.com.tr/medias/sys_master/prd-images/h44/h99/13588484522014/prd-front-1443750_195x195/prd-front-1443750-195x195.jpg"
+    },
+    {
+      "brand": "Flormar",
+      "name": "Flormar Puffy Liquid Aydınlık Bitişli Sünger Aplikatörlü Likit Kontür - 002 Hot Chocolate",
+      "originalPrice": 699.9,
+      "salePrice": 209.9,
+      "discountPercent": 40,
+      "productCode": "",
+      "productUrl": "https://www.watsons.com.tr/flormar-puffy-liquid-aydinlik-bitisli-sunger-aplikatorlu-likit-kontur-002-hot-chocolate/p/BP_1449546",
+      "site": "watsons",
+      "imageUrl": "https://media.watsons.com.tr/medias/sys_master/prd-images/h05/h03/13588501430302/prd-front-1449546_195x195/prd-front-1449546-195x195.jpg"
+    },
+    {
+      "brand": "Golden Rose",
+      "name": "Golden Rose Velvet Mat Ruj No: 12",
+      "originalPrice": 594.9,
+      "salePrice": 179.9,
+      "discountPercent": 39,
+      "productCode": "",
+      "productUrl": "https://www.watsons.com.tr/golden-rose-velvet-mat-ruj-no-12/p/BP_141012",
+      "site": "watsons",
+      "imageUrl": "https://media.watsons.com.tr/medias/sys_master/prd-images/hd3/h2c/10207057805342/prd-front-141012_195x195/prd-front-141012-195x195.jpg"
+    },
+    {
+      "brand": "KIKO",
+      "name": "Göz Farı - High Pigment Eyeshadow - 56 Warm Gold -Yüksek Pigmentli",
+      "originalPrice": 440.0,
+      "salePrice": 308.0,
+      "discountPercent": 30,
+      "productCode": "804052211",
+      "productUrl": "https://www.trendyol.com/kiko/goz-fari-high-pigment-eyeshadow-56-warm-gold-yuksek-pigmentli-p-804052211?boutiqueId=61&merchantId=387700",
+      "site": "trendyol",
+      "imageUrl": "https://cdn.dsmcdn.com/mnresize/1200/-/ty1670/prod/QC/20250424/16/cae4055e-4083-3deb-bcd7-97765499f9a1/1_org_zoom.jpg"
+    },
+    {
+      "brand": "Maybelline New York",
+      "name": "Maybelline New York Lifter Dudak Kalemi Maybe Its 013",
+      "originalPrice": 849.9,
+      "salePrice": 339.9,
+      "discountPercent": 60,
+      "productCode": "",
+      "productUrl": "https://www.watsons.com.tr/maybelline-new-york-lifter-dudak-kalemi-maybe-its-013/p/BP_1480507",
+      "site": "watsons",
+      "imageUrl": "https://media.watsons.com.tr/medias/sys_master/prd-images/hea/hcd/13784833163294/prd-front-1480507_195x195/prd-front-1480507-195x195.jpg"
     }
   ],
   "fakeDeals": [
