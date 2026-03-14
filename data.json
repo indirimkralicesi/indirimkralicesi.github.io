@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-14T15:39:19",
+  "lastUpdated": "2026-03-14T19:07:42",
   "deals": [
     {
       "brand": "Golden Rose",
@@ -66,6 +66,17 @@
       "productUrl": "https://www.trendyol.com/garnier/c-vitamini-gunluk-gunes-koruyucu-fluid-yuz-kremi-gorunmez-doku-spf50-40ml-p-804821607?boutiqueId=61&merchantId=107819",
       "site": "trendyol",
       "imageUrl": "https://cdn.dsmcdn.com/mnresize/1200/-/ty1648/prod/QC/20250310/07/8c182739-cfdf-31f8-b046-90d7ebf2d808/1_org_zoom.jpg"
+    },
+    {
+      "brand": "Golden Rose",
+      "name": "Golden Rose Flash Lash Mavi Maskara Royal Blue No: 04",
+      "originalPrice": 619.9,
+      "salePrice": 184.9,
+      "discountPercent": 40,
+      "productCode": "",
+      "productUrl": "https://www.watsons.com.tr/golden-rose-flash-lash-mavi-maskara-royal-blue-no-04/p/BP_1394666",
+      "site": "watsons",
+      "imageUrl": "https://media.watsons.com.tr/medias/sys_master/prd-images/h18/h4d/10250140581918/prd-front-1394666_195x195/prd-front-1394666-195x195.jpg"
     }
   ],
   "fakeDeals": [
