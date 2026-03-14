@@ -1,126 +1,16 @@
 {
-  "lastUpdated": "2026-03-13T21:09:33",
+  "lastUpdated": "2026-03-14T12:07:31",
   "deals": [
     {
       "brand": "Golden Rose",
-      "name": "Golden Rose Emily Dudak Kalemi 208",
-      "originalPrice": 114.9,
-      "salePrice": 57.95,
-      "discountPercent": 49,
-      "productCode": "",
-      "productUrl": "https://www.watsons.com.tr/golden-rose-emily-dudak-kalemi-208/p/BP_1420160",
-      "site": "watsons",
-      "imageUrl": "https://media.watsons.com.tr/medias/sys_master/prd-images/hbd/h3d/11447280238622/prd-front-1420160_195x195/prd-front-1420160-195x195.jpg"
-    },
-    {
-      "brand": "Maybelline New York",
-      "name": "Maybelline New York Lifter Dudak Kalemi Crop Top 012",
-      "originalPrice": 849.9,
-      "salePrice": 339.9,
-      "discountPercent": 60,
-      "productCode": "",
-      "productUrl": "https://www.watsons.com.tr/maybelline-new-york-lifter-dudak-kalemi-crop-top-012/p/BP_1480514",
-      "site": "watsons",
-      "imageUrl": "https://media.watsons.com.tr/medias/sys_master/prd-images/h42/h61/13784834211870/prd-front-1480514_195x195/prd-front-1480514-195x195.jpg"
-    },
-    {
-      "brand": "Maybelline New York",
-      "name": "Maybelline New York Lifter Dudak Kalemi Upstate 011",
-      "originalPrice": 849.9,
-      "salePrice": 339.9,
-      "discountPercent": 60,
-      "productCode": "",
-      "productUrl": "https://www.watsons.com.tr/maybelline-new-york-lifter-dudak-kalemi-upstate-011/p/BP_1480500",
-      "site": "watsons",
-      "imageUrl": "https://media.watsons.com.tr/medias/sys_master/prd-images/he5/h61/13784831262750/prd-front-1480500_195x195/prd-front-1480500-195x195.jpg"
-    },
-    {
-      "brand": "Flormar",
-      "name": "Flormar Puffy Aydınlık Bitişli Sünger Aplikatörlü Likit Kontür No: 03 Deep",
-      "originalPrice": 699.9,
-      "salePrice": 209.9,
+      "name": "Golden Rose Miracle Lash Maskara",
+      "originalPrice": 439.9,
+      "salePrice": 129.9,
       "discountPercent": 40,
       "productCode": "",
-      "productUrl": "https://www.watsons.com.tr/flormar-puffy-aydinlik-bitisli-sunger-aplikatorlu-likit-kontur-no-03-deep/p/BP_1443743",
+      "productUrl": "https://www.watsons.com.tr/golden-rose-miracle-lash-maskara/p/BP_140993",
       "site": "watsons",
-      "imageUrl": "https://media.watsons.com.tr/medias/sys_master/prd-images/h56/h95/13588492517406/prd-front-1443743_195x195/prd-front-1443743-195x195.jpg"
-    },
-    {
-      "brand": "Frudia",
-      "name": "Frudia Mango Honey Dudak Bakım Maskesi 10g",
-      "originalPrice": 289.9,
-      "salePrice": 119.9,
-      "discountPercent": 58,
-      "productCode": "",
-      "productUrl": "https://www.watsons.com.tr/frudia-mango-honey-dudak-bakim-maskesi-10g/p/BP_1390662",
-      "site": "watsons",
-      "imageUrl": "https://media.watsons.com.tr/medias/sys_master/prd-images/h3a/h7c/12270320877598/prd-front-1390662_195x195/prd-front-1390662-195x195.jpg"
-    },
-    {
-      "brand": "Flormar",
-      "name": "Flormar Longer Than Ever Uzun Görünüm Veren Maskara No: 001",
-      "originalPrice": 1249.9,
-      "salePrice": 374.9,
-      "discountPercent": 40,
-      "productCode": "",
-      "productUrl": "https://www.watsons.com.tr/flormar-longer-than-ever-uzun-gorunum-veren-maskara-no-001/p/BP_1380638",
-      "site": "watsons",
-      "imageUrl": "https://media.watsons.com.tr/medias/sys_master/prd-images/h51/hf1/13588435468318/prd-front-1380638_195x195/prd-front-1380638-195x195.jpg"
-    },
-    {
-      "brand": "Flormar",
-      "name": "Flormar Puffy Likit Allık No: 02 Peachy Glow",
-      "originalPrice": 699.9,
-      "salePrice": 209.9,
-      "discountPercent": 40,
-      "productCode": "",
-      "productUrl": "https://www.watsons.com.tr/flormar-puffy-likit-allik-no-02-peachy-glow/p/BP_1443750",
-      "site": "watsons",
-      "imageUrl": "https://media.watsons.com.tr/medias/sys_master/prd-images/h44/h99/13588484522014/prd-front-1443750_195x195/prd-front-1443750-195x195.jpg"
-    },
-    {
-      "brand": "Flormar",
-      "name": "Flormar Puffy Liquid Aydınlık Bitişli Sünger Aplikatörlü Likit Kontür - 002 Hot Chocolate",
-      "originalPrice": 699.9,
-      "salePrice": 209.9,
-      "discountPercent": 40,
-      "productCode": "",
-      "productUrl": "https://www.watsons.com.tr/flormar-puffy-liquid-aydinlik-bitisli-sunger-aplikatorlu-likit-kontur-002-hot-chocolate/p/BP_1449546",
-      "site": "watsons",
-      "imageUrl": "https://media.watsons.com.tr/medias/sys_master/prd-images/h05/h03/13588501430302/prd-front-1449546_195x195/prd-front-1449546-195x195.jpg"
-    },
-    {
-      "brand": "Golden Rose",
-      "name": "Golden Rose Velvet Mat Ruj No: 12",
-      "originalPrice": 594.9,
-      "salePrice": 179.9,
-      "discountPercent": 39,
-      "productCode": "",
-      "productUrl": "https://www.watsons.com.tr/golden-rose-velvet-mat-ruj-no-12/p/BP_141012",
-      "site": "watsons",
-      "imageUrl": "https://media.watsons.com.tr/medias/sys_master/prd-images/hd3/h2c/10207057805342/prd-front-141012_195x195/prd-front-141012-195x195.jpg"
-    },
-    {
-      "brand": "KIKO",
-      "name": "Göz Farı - High Pigment Eyeshadow - 56 Warm Gold -Yüksek Pigmentli",
-      "originalPrice": 440.0,
-      "salePrice": 308.0,
-      "discountPercent": 30,
-      "productCode": "804052211",
-      "productUrl": "https://www.trendyol.com/kiko/goz-fari-high-pigment-eyeshadow-56-warm-gold-yuksek-pigmentli-p-804052211?boutiqueId=61&merchantId=387700",
-      "site": "trendyol",
-      "imageUrl": "https://cdn.dsmcdn.com/mnresize/1200/-/ty1670/prod/QC/20250424/16/cae4055e-4083-3deb-bcd7-97765499f9a1/1_org_zoom.jpg"
-    },
-    {
-      "brand": "Maybelline New York",
-      "name": "Maybelline New York Lifter Dudak Kalemi Maybe Its 013",
-      "originalPrice": 849.9,
-      "salePrice": 339.9,
-      "discountPercent": 60,
-      "productCode": "",
-      "productUrl": "https://www.watsons.com.tr/maybelline-new-york-lifter-dudak-kalemi-maybe-its-013/p/BP_1480507",
-      "site": "watsons",
-      "imageUrl": "https://media.watsons.com.tr/medias/sys_master/prd-images/hea/hcd/13784833163294/prd-front-1480507_195x195/prd-front-1480507-195x195.jpg"
+      "imageUrl": "https://media.watsons.com.tr/medias/sys_master/prd-images/h14/ha1/10207064621086/prd-front-140993_195x195/prd-front-140993-195x195.jpg"
     }
   ],
   "fakeDeals": [
@@ -145,12 +35,12 @@
       "site": "trendyol"
     },
     {
-      "brand": "The Purest Solutions",
-      "name": "The Purest Solutions Aydınlatıcı Serum 30 ml",
+      "brand": "Max Factor",
+      "name": "Max Factor 2000 Calorie Lip Glaze 050 Guava Flair",
       "claimedDiscount": 70,
-      "normalPrice": 224.9,
-      "inflatedPrice": 749.9,
-      "currentPrice": 224.9,
+      "normalPrice": 179.0,
+      "inflatedPrice": 599.9,
+      "currentPrice": 179.0,
       "realDiscount": 0,
       "site": "trendyol"
     }
