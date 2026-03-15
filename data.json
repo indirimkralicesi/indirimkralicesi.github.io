@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-15T10:37:02",
+  "lastUpdated": "2026-03-15T13:42:46",
   "deals": [
     {
       "brand": "Garnier",
@@ -11,6 +11,50 @@
       "productUrl": "https://www.trendyol.com/garnier/saf-ve-temiz-bha-niasinamid-yuz-gunes-kremi-gorunmez-mat-doku-spf50-nemlendirici-krem-hediye-p-813484101?boutiqueId=61&merchantId=107819",
       "site": "trendyol",
       "imageUrl": "https://cdn.dsmcdn.com/mnresize/1200/-/ty1612/prod/QC/20241211/11/73e68742-ac57-31fc-97e0-26cf16acfc6f/1_org_zoom.jpg"
+    },
+    {
+      "brand": "Golden Rose",
+      "name": "Golden Rose Glow Kiss Tinted Lip Balm No: 04",
+      "originalPrice": 519.9,
+      "salePrice": 154.9,
+      "discountPercent": 40,
+      "productCode": "",
+      "productUrl": "https://www.watsons.com.tr/golden-rose-glow-kiss-tinted-lip-balm-no-04/p/BP_1308328",
+      "site": "watsons",
+      "imageUrl": "https://media.watsons.com.tr/medias/sys_master/prd-images/h15/h8d/10207127863326/prd-front-1308328_195x195/prd-front-1308328-195x195.jpg"
+    },
+    {
+      "brand": "Golden Rose",
+      "name": "Golden Rose Eye Glaze Likit Far No: 08",
+      "originalPrice": 509.9,
+      "salePrice": 152.9,
+      "discountPercent": 40,
+      "productCode": "",
+      "productUrl": "https://www.watsons.com.tr/golden-rose-eye-glaze-likit-far-no-08/p/BP_1342376",
+      "site": "watsons",
+      "imageUrl": "https://media.watsons.com.tr/medias/sys_master/prd-images/h15/h6c/10207180095518/prd-front-1342376_195x195/prd-front-1342376-195x195.jpg"
+    },
+    {
+      "brand": "Garnier",
+      "name": "C Vitamini Parlaklık Verici Kağıt Yüz Maskesi (5% Vitamin C, Gliserin,Niasinamid),Vegan&Cruelty Free",
+      "originalPrice": null,
+      "salePrice": 105.9,
+      "discountPercent": 32,
+      "productCode": "93569237",
+      "productUrl": "https://www.trendyol.com/garnier/c-vitamini-parlaklik-verici-kagit-yuz-maskesi-5-vitamin-c-gliserin-niasinamid-vegan-cruelty-free-p-93569237?boutiqueId=61&merchantId=107819",
+      "site": "trendyol",
+      "imageUrl": "https://cdn.dsmcdn.com/mnresize/1200/-/ty1548/product/media/images/prod/PIM/20240916/08/eeb05a2c-0861-41be-8f7b-79ebb149fbff/1_org_zoom.jpg"
+    },
+    {
+      "brand": "Golden Rose",
+      "name": "Golden Rose Baked Blush On 04",
+      "originalPrice": 959.9,
+      "salePrice": 287.9,
+      "discountPercent": 40,
+      "productCode": "",
+      "productUrl": "https://www.watsons.com.tr/golden-rose-baked-blush-on-04/p/BP_126747",
+      "site": "watsons",
+      "imageUrl": "https://media.watsons.com.tr/medias/sys_master/prd-images/he3/h8e/10207067242526/prd-front-126747_195x195/prd-front-126747-195x195.jpg"
     }
   ],
   "fakeDeals": [
