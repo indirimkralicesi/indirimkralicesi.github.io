@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-16T18:07:53",
+  "lastUpdated": "2026-03-16T21:37:36",
   "deals": [
     {
       "brand": "Garnier",
@@ -77,6 +77,50 @@
       "productUrl": "https://www.trendyol.com/garnier/c-vitamini-gunluk-gunes-koruyucu-fluid-yuz-kremi-gorunmez-doku-spf50-40ml-p-804821607?boutiqueId=61&merchantId=107819",
       "site": "trendyol",
       "imageUrl": "https://cdn.dsmcdn.com/mnresize/1200/-/ty1648/prod/QC/20250310/07/8c182739-cfdf-31f8-b046-90d7ebf2d808/1_org_zoom.jpg"
+    },
+    {
+      "brand": "Maybelline New York",
+      "name": "Lifter Glaze Shea Yağı ve Hyalüronik Asit içeren Renkli Dudak Balmı - 03 Rose Bite",
+      "originalPrice": null,
+      "salePrice": 222.78,
+      "discountPercent": 41,
+      "productCode": "929582206",
+      "productUrl": "https://www.trendyol.com/maybelline-new-york/lifter-glaze-shea-yagi-ve-hyaluronik-asit-iceren-renkli-dudak-balmi-03-rose-bite-p-929582206?boutiqueId=61&merchantId=107819",
+      "site": "trendyol",
+      "imageUrl": "https://cdn.dsmcdn.com/mnresize/1200/-/ty1668/prod/QC/20250424/10/5c5648f3-5cbd-32fb-9d9b-82ccc5ece3fa/1_org_zoom.jpg"
+    },
+    {
+      "brand": "Garnier",
+      "name": "Garnier Salisilik Akne Karşıtı Peeling Tonik 120 ml",
+      "originalPrice": 519.9,
+      "salePrice": 207.9,
+      "discountPercent": 33,
+      "productCode": "",
+      "productUrl": "https://www.watsons.com.tr/garnier-salisilik-akne-karsiti-peeling-tonik-120-ml/p/BP_1431710",
+      "site": "watsons",
+      "imageUrl": "https://media.watsons.com.tr/medias/sys_master/prd-images/h02/h29/12183180673054/prd-front-1431710_195x195/prd-front-1431710-195x195.jpg"
+    },
+    {
+      "brand": "Garnier",
+      "name": "Garnier Micellar Peeling Kusursuz Makyaj Temizleme Suyu 400 ml",
+      "originalPrice": 499.9,
+      "salePrice": 199.9,
+      "discountPercent": 33,
+      "productCode": "",
+      "productUrl": "https://www.watsons.com.tr/garnier-micellar-peeling-kusursuz-makyaj-temizleme-suyu-400-ml/p/BP_1347374",
+      "site": "watsons",
+      "imageUrl": "https://media.watsons.com.tr/medias/sys_master/prd-images/hde/h7e/9372990341150/prd-front-1347374_195x195/prd-front-1347374-195x195.jpg"
+    },
+    {
+      "brand": "Garnier",
+      "name": "Garnier C Vitamini Parlaklık Veren Temizleyici 250 ml",
+      "originalPrice": 489.9,
+      "salePrice": 195.9,
+      "discountPercent": 33,
+      "productCode": "",
+      "productUrl": "https://www.watsons.com.tr/garnier-c-vitamini-parlaklik-veren-temizleyici-250-ml/p/BP_1387442",
+      "site": "watsons",
+      "imageUrl": "https://media.watsons.com.tr/medias/sys_master/prd-images/h60/h56/10095094628382/prd-front-1387442_195x195/prd-front-1387442-195x195.jpg"
     }
   ],
   "fakeDeals": [
