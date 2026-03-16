@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-16T11:09:15",
+  "lastUpdated": "2026-03-16T14:38:43",
   "deals": [
     {
       "brand": "Garnier",
@@ -11,6 +11,61 @@
       "productUrl": "https://www.watsons.com.tr/garnier-saf-temiz-yaglanma-ve-puruzlere-karsi-3u-1-arada-150-ml/p/BP_126297",
       "site": "watsons",
       "imageUrl": "https://media.watsons.com.tr/medias/sys_master/prd-images/h20/hac/13728054542366/prd-front-126297_195x195/prd-front-126297-195x195.jpg"
+    },
+    {
+      "brand": "Garnier",
+      "name": "Garnier Micellar Gül Suyu Kusursuz Makyaj Temizleme & Işıltı 400 ml",
+      "originalPrice": 559.9,
+      "salePrice": 223.9,
+      "discountPercent": 33,
+      "productCode": "",
+      "productUrl": "https://www.watsons.com.tr/garnier-micellar-gul-suyu-kusursuz-makyaj-temizleme-isilti-400-ml/p/BP_173462",
+      "site": "watsons",
+      "imageUrl": "https://media.watsons.com.tr/medias/sys_master/prd-images/h45/h77/9372982476830/prd-front-173462_195x195/prd-front-173462-195x195.jpg"
+    },
+    {
+      "brand": "Garnier",
+      "name": "Garnier Saf & Temiz Siyah Nokta Karşıtı Kömürlü 3'ü 1 arada",
+      "originalPrice": 559.9,
+      "salePrice": 223.9,
+      "discountPercent": 33,
+      "productCode": "",
+      "productUrl": "https://www.watsons.com.tr/garnier-saf-temiz-siyah-nokta-karsiti-komurlu-3u-1-arada/p/BP_158072",
+      "site": "watsons",
+      "imageUrl": "https://media.watsons.com.tr/medias/sys_master/prd-images/h63/h26/10287209316382/prd-front-158072_195x195/prd-front-158072-195x195.png"
+    },
+    {
+      "brand": "Garnier",
+      "name": "Garnier Besleyici Çift Fazlı Micellar Temizleme Suyu 400 ml",
+      "originalPrice": 599.9,
+      "salePrice": 239.9,
+      "discountPercent": 33,
+      "productCode": "",
+      "productUrl": "https://www.watsons.com.tr/garnier-besleyici-cift-fazli-micellar-temizleme-suyu-400-ml/p/BP_169920",
+      "site": "watsons",
+      "imageUrl": "https://media.watsons.com.tr/medias/sys_master/prd-images/h9c/he1/9372981428254/prd-front-169920_195x195/prd-front-169920-195x195.jpg"
+    },
+    {
+      "brand": "Garnier",
+      "name": "Garnier Micellar C Vitamini Kusursuz Makyaj Temizleme Suyu 400 ml",
+      "originalPrice": 559.9,
+      "salePrice": 223.9,
+      "discountPercent": 33,
+      "productCode": "",
+      "productUrl": "https://www.watsons.com.tr/garnier-micellar-c-vitamini-kusursuz-makyaj-temizleme-suyu-400-ml/p/BP_1325863",
+      "site": "watsons",
+      "imageUrl": "https://media.watsons.com.tr/medias/sys_master/prd-images/h94/hc2/9372985360414/prd-front-1325863_195x195/prd-front-1325863-195x195.jpg"
+    },
+    {
+      "brand": "Garnier",
+      "name": "Garnier Hyaluronik Aloe Micellar Kusursuz Makyaj Temizleme Suyu 400 ml",
+      "originalPrice": 559.9,
+      "salePrice": 223.9,
+      "discountPercent": 33,
+      "productCode": "",
+      "productUrl": "https://www.watsons.com.tr/garnier-hyaluronik-aloe-micellar-kusursuz-makyaj-temizleme-suyu-400-ml/p/BP_1284857",
+      "site": "watsons",
+      "imageUrl": "https://media.watsons.com.tr/medias/sys_master/prd-images/h21/hdb/10287214034974/prd-front-1284857_195x195/prd-front-1284857-195x195.png"
     }
   ],
   "fakeDeals": [
