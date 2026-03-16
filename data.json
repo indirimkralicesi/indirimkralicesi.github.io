@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-16T14:38:43",
+  "lastUpdated": "2026-03-16T18:07:53",
   "deals": [
     {
       "brand": "Garnier",
@@ -66,6 +66,17 @@
       "productUrl": "https://www.watsons.com.tr/garnier-hyaluronik-aloe-micellar-kusursuz-makyaj-temizleme-suyu-400-ml/p/BP_1284857",
       "site": "watsons",
       "imageUrl": "https://media.watsons.com.tr/medias/sys_master/prd-images/h21/hdb/10287214034974/prd-front-1284857_195x195/prd-front-1284857-195x195.png"
+    },
+    {
+      "brand": "Garnier",
+      "name": "C Vitamini Günlük Güneş Koruyucu Fluid Yüz Kremi Görünmez Doku Spf50 40ml",
+      "originalPrice": null,
+      "salePrice": 259.66,
+      "discountPercent": 37,
+      "productCode": "804821607",
+      "productUrl": "https://www.trendyol.com/garnier/c-vitamini-gunluk-gunes-koruyucu-fluid-yuz-kremi-gorunmez-doku-spf50-40ml-p-804821607?boutiqueId=61&merchantId=107819",
+      "site": "trendyol",
+      "imageUrl": "https://cdn.dsmcdn.com/mnresize/1200/-/ty1648/prod/QC/20250310/07/8c182739-cfdf-31f8-b046-90d7ebf2d808/1_org_zoom.jpg"
     }
   ],
   "fakeDeals": [
