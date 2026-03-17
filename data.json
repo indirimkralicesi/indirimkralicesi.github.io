@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-17T11:09:46",
+  "lastUpdated": "2026-03-17T14:39:36",
   "deals": [
     {
       "brand": "KIKO",
@@ -11,9 +11,74 @@
       "productUrl": "https://www.trendyol.com/kiko/ruj-unlimited-double-touch-129-burnt-tangerine-uzun-sure-kalici-parlak-mat-likit-lipstick-p-112713004?boutiqueId=61&merchantId=387700",
       "site": "trendyol",
       "imageUrl": "https://cdn.dsmcdn.com/mnresize/1200/-/ty1670/prod/QC/20250424/16/8c35fdd0-eca1-3b6c-8512-d22f74e14993/1_org_zoom.jpg"
+    },
+    {
+      "brand": "KIKO",
+      "name": "EYELİNER - SUPER COLOUR WATERPROOF EYELIN 8025272970334",
+      "originalPrice": 629.0,
+      "salePrice": 440.3,
+      "discountPercent": 30,
+      "productCode": "102730124",
+      "productUrl": "https://www.trendyol.com/kiko/eyeliner-super-colour-waterproof-eyelin-8025272970334-p-102730124?boutiqueId=61&merchantId=387700",
+      "site": "trendyol",
+      "imageUrl": "https://cdn.dsmcdn.com/mnresize/1200/-/ty110/product/media/images/20210503/9/84967227/169935262/1/1_org_zoom.jpg"
+    },
+    {
+      "brand": "KIKO",
+      "name": "Göz Farı - High Pigment Eyeshadow - 56 Warm Gold -Yüksek Pigmentli",
+      "originalPrice": 440.0,
+      "salePrice": 308.0,
+      "discountPercent": 30,
+      "productCode": "804052211",
+      "productUrl": "https://www.trendyol.com/kiko/goz-fari-high-pigment-eyeshadow-56-warm-gold-yuksek-pigmentli-p-804052211?boutiqueId=61&merchantId=387700",
+      "site": "trendyol",
+      "imageUrl": "https://cdn.dsmcdn.com/mnresize/1200/-/ty1670/prod/QC/20250424/16/cae4055e-4083-3deb-bcd7-97765499f9a1/1_org_zoom.jpg"
+    },
+    {
+      "brand": "L'Oreal Paris",
+      "name": "Revitalift Glassy Skin Cam Cilt Görünümü Etkili Şeffaflaşan Işıltı & Nem Veren Hidrojel Yüz Maskesi",
+      "originalPrice": null,
+      "salePrice": 499.9,
+      "discountPercent": 33,
+      "productCode": "1107818651",
+      "productUrl": "https://www.trendyol.com/l-oreal-paris/revitalift-glassy-skin-cam-cilt-gorunumu-etkili-seffaflasan-isilti-nem-veren-hidrojel-yuz-maskesi-p-1107818651?boutiqueId=61&merchantId=107819",
+      "site": "trendyol",
+      "imageUrl": "https://cdn.dsmcdn.com/mnresize/1200/-/ty1829/prod/QC_PREP/20260221/09/cd6e78ab-bfe4-37dd-91c8-44f9daa15d6a/1_org_zoom.jpg"
+    },
+    {
+      "brand": "NYX Professional",
+      "name": "Wonder Snatch Pudra Süngeri & Wonder Snatch Sabitleyici Toz Pudra - 02 Cheeky Cherry",
+      "originalPrice": 1286.98,
+      "salePrice": 1093.93,
+      "discountPercent": 33,
+      "productCode": "1111107909",
+      "productUrl": "https://www.trendyol.com/nyx-professional-makeup/wonder-snatch-pudra-sungeri-wonder-snatch-sabitleyici-toz-pudra-02-cheeky-cherry-p-1111107909?boutiqueId=61&merchantId=107819",
+      "site": "trendyol",
+      "imageUrl": "https://cdn.dsmcdn.com/mnresize/1200/-/ty1831/prod/QC_PREP/20260227/10/e9d6c9f9-bc16-30c1-be64-3dc96e5aad16/1_org_zoom.jpg"
+    },
+    {
+      "brand": "NYX Professional",
+      "name": "Wonder Snatch Pudra Süngeri & Wonder Snatch Sabitleyici Toz Pudra - 01 Sugar Serve",
+      "originalPrice": 1286.98,
+      "salePrice": 1093.93,
+      "discountPercent": 33,
+      "productCode": "1111107491",
+      "productUrl": "https://www.trendyol.com/nyx-professional-makeup/wonder-snatch-pudra-sungeri-wonder-snatch-sabitleyici-toz-pudra-01-sugar-serve-p-1111107491?boutiqueId=61&merchantId=107819",
+      "site": "trendyol",
+      "imageUrl": "https://cdn.dsmcdn.com/mnresize/1200/-/ty1831/prod/QC_PREP/20260227/10/2fde1717-cf2f-3169-95fe-f3ec85cb4180/1_org_zoom.jpg"
     }
   ],
   "fakeDeals": [
+    {
+      "brand": "Pastel",
+      "name": "Pastel Summer Ease Oje 442",
+      "claimedDiscount": 78,
+      "normalPrice": 19.95,
+      "inflatedPrice": 94.95,
+      "currentPrice": 19.95,
+      "realDiscount": 0,
+      "site": "trendyol"
+    },
     {
       "brand": "Revolution",
       "name": "Revolution Beauty Mystic Muse Shimmer Makyaj Seti",
@@ -25,22 +90,12 @@
       "site": "trendyol"
     },
     {
-      "brand": "Golden Rose",
-      "name": "Golden Rose Total Cover 2in1 Fondöten ve Kapatıcı No: 03",
-      "claimedDiscount": 70,
-      "normalPrice": 356.9,
-      "inflatedPrice": 1189.9,
-      "currentPrice": 356.9,
-      "realDiscount": 0,
-      "site": "trendyol"
-    },
-    {
-      "brand": "Golden Rose",
-      "name": "Golden Rose Cat Walk Maskara",
-      "claimedDiscount": 70,
-      "normalPrice": 129.9,
-      "inflatedPrice": 439.9,
-      "currentPrice": 129.9,
+      "brand": "Revolution",
+      "name": "Revolution Reloaded Far Paleti Spirited Love",
+      "claimedDiscount": 71,
+      "normalPrice": 269.0,
+      "inflatedPrice": 934.9,
+      "currentPrice": 269.0,
       "realDiscount": 0,
       "site": "trendyol"
     }
