@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-17T18:07:03",
+  "lastUpdated": "2026-03-17T21:39:46",
   "deals": [
     {
       "brand": "KIKO",
@@ -77,6 +77,61 @@
       "productUrl": "https://www.trendyol.com/kiko/allik-velvet-touch-creamy-stick-blush-07-natural-rose-p-1043009892?boutiqueId=61&merchantId=387700",
       "site": "trendyol",
       "imageUrl": "https://cdn.dsmcdn.com/mnresize/1200/-/ty1782/prod/QC_PREP/20251031/10/d765f6d0-a436-3b77-94d9-43c1606c64ce/1_org_zoom.jpg"
+    },
+    {
+      "brand": "KIKO",
+      "name": "Göz Farı - Glitter Shower Eyeshadow 11 Excellent Coffee",
+      "originalPrice": 559.0,
+      "salePrice": 391.3,
+      "discountPercent": 30,
+      "productCode": "410719118",
+      "productUrl": "https://www.trendyol.com/kiko/goz-fari-glitter-shower-eyeshadow-11-excellent-coffee-p-410719118?boutiqueId=61&merchantId=387700",
+      "site": "trendyol",
+      "imageUrl": "https://cdn.dsmcdn.com/mnresize/1200/-/ty1669/prod/QC/20250424/16/20a17527-2192-38f4-8c31-d6a642293d7f/1_org_zoom.jpg"
+    },
+    {
+      "brand": "KIKO",
+      "name": "MATLAŞTIRICI MAKYAJ BAZI - MATTE FACE BASE 30 ML 8025272620161",
+      "originalPrice": 790.0,
+      "salePrice": 553.0,
+      "discountPercent": 30,
+      "productCode": "4359676",
+      "productUrl": "https://www.trendyol.com/kiko/matlastirici-makyaj-bazi-matte-face-base-30-ml-8025272620161-p-4359676?boutiqueId=61&merchantId=387700",
+      "site": "trendyol",
+      "imageUrl": "https://cdn.dsmcdn.com/mnresize/1200/-/ty87/product/media/images/20210403/02/f387d836/17208366/1/1_org_zoom.jpg"
+    },
+    {
+      "brand": "NYX Professional",
+      "name": "Jelly Job Dolgun ve Parlak Dudak Parlatıcısı 06 Jelly Filled & Wonder Snatch Pudra 02 Cheeky Cherry",
+      "originalPrice": 1403.98,
+      "salePrice": 1193.38,
+      "discountPercent": 33,
+      "productCode": "1111108414",
+      "productUrl": "https://www.trendyol.com/nyx-professional-makeup/jelly-job-dolgun-ve-parlak-dudak-parlaticisi-06-jelly-filled-wonder-snatch-pudra-02-cheeky-cherry-p-1111108414?boutiqueId=61&merchantId=107819",
+      "site": "trendyol",
+      "imageUrl": "https://cdn.dsmcdn.com/mnresize/1200/-/ty1832/prod/QC_PREP/20260227/10/d9d7c080-e7dc-32f7-861f-eb05acd5d2ea/1_org_zoom.jpg"
+    },
+    {
+      "brand": "KIKO",
+      "name": "KAŞ KALEMİ - GREEN ME BROW PENCIL - 102 Milk Chocolate",
+      "originalPrice": 349.0,
+      "salePrice": 244.3,
+      "discountPercent": 30,
+      "productCode": "819360335",
+      "productUrl": "https://www.trendyol.com/kiko/kas-kalemi-green-me-brow-pencil-102-milk-chocolate-p-819360335?boutiqueId=61&merchantId=387700",
+      "site": "trendyol",
+      "imageUrl": "https://cdn.dsmcdn.com/mnresize/1200/-/ty1353/product/media/images/prod/QC/20240605/16/48144782-ce4c-3de4-a60a-4b3ad8443ebe/1_org_zoom.jpg"
+    },
+    {
+      "brand": "KIKO",
+      "name": "LİKİT FONDÖTEN - LIQUID SKIN SECOND SKİN FDT 05 - WB 15",
+      "originalPrice": 839.0,
+      "salePrice": 587.3,
+      "discountPercent": 30,
+      "productCode": "234535446",
+      "productUrl": "https://www.trendyol.com/kiko/likit-fondoten-liquid-skin-second-skin-fdt-05-wb-15-p-234535446?boutiqueId=61&merchantId=387700",
+      "site": "trendyol",
+      "imageUrl": "https://cdn.dsmcdn.com/mnresize/1200/-/ty1348/product/media/images/prod/QC/20240605/16/d573d9f5-5116-3a6c-99ae-7c5db898951a/1_org_zoom.jpg"
     }
   ],
   "fakeDeals": [
