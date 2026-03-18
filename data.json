@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-18T10:36:56",
+  "lastUpdated": "2026-03-18T14:10:36",
   "deals": [
     {
       "brand": "NYX Professional",
@@ -11,6 +11,61 @@
       "productUrl": "https://www.trendyol.com/nyx-professional-makeup/duck-plump-dolgun-gorunum-veren-dudak-kalemi-06-nude-flip-p-900623817?boutiqueId=61&merchantId=107819",
       "site": "trendyol",
       "imageUrl": "https://cdn.dsmcdn.com/mnresize/1200/-/ty1639/prod/QC/20250219/14/f92380c4-2256-3471-a36d-7b6c333fb47a/1_org_zoom.jpg"
+    },
+    {
+      "brand": "KIKO",
+      "name": "Ruj - Unlimited Stylo - 09 Rosy Brown",
+      "originalPrice": 629.3,
+      "salePrice": 440.51,
+      "discountPercent": 51,
+      "productCode": "1058786338",
+      "productUrl": "https://www.trendyol.com/kiko/ruj-unlimited-stylo-09-rosy-brown-p-1058786338?boutiqueId=61&merchantId=387700",
+      "site": "trendyol",
+      "imageUrl": "https://cdn.dsmcdn.com/mnresize/1200/-/ty1795/prod/QC_PREP/20251201/10/ae668521-0768-3395-8c36-e5f00ef8dea0/1_org_zoom.jpg"
+    },
+    {
+      "brand": "KIKO",
+      "name": "DUDAK KALEMİ - NEW EVERLASTING LIP LINER - 518 Dark Brown",
+      "originalPrice": 510.3,
+      "salePrice": 357.21,
+      "discountPercent": 51,
+      "productCode": "806495502",
+      "productUrl": "https://www.trendyol.com/kiko/dudak-kalemi-new-everlasting-lip-liner-518-dark-brown-p-806495502?boutiqueId=61&merchantId=387700",
+      "site": "trendyol",
+      "imageUrl": "https://cdn.dsmcdn.com/mnresize/1200/-/ty1669/prod/QC/20250424/16/1805a30d-29f2-3eb2-aeba-2792c34523e5/1_org_zoom.jpg"
+    },
+    {
+      "brand": "Gliss",
+      "name": "Gliss Scalp Balance Saç Derisi Spreyi 100 ml",
+      "originalPrice": 634.9,
+      "salePrice": 379.9,
+      "discountPercent": 40,
+      "productCode": "",
+      "productUrl": "https://www.watsons.com.tr/gliss-scalp-balance-sac-derisi-spreyi-100-ml/p/BP_1491014",
+      "site": "watsons",
+      "imageUrl": "https://media.watsons.com.tr/medias/sys_master/prd-images/had/hf8/14061931560990/prd-front-1491014_195x195/prd-front-1491014-195x195.jpg"
+    },
+    {
+      "brand": "KIKO",
+      "name": "Göz Kalemi - Colour Kajal 01 Black 71",
+      "originalPrice": 405.3,
+      "salePrice": 283.71,
+      "discountPercent": 51,
+      "productCode": "4358900",
+      "productUrl": "https://www.trendyol.com/kiko/goz-kalemi-colour-kajal-01-black-71-p-4358900?boutiqueId=61&merchantId=387700",
+      "site": "trendyol",
+      "imageUrl": "https://cdn.dsmcdn.com/mnresize/1200/-/ty1670/prod/QC/20250424/16/eeadd5d3-aed2-3735-8ae1-862591b382c0/1_org_zoom.jpg"
+    },
+    {
+      "brand": "KIKO",
+      "name": "Göz Farı Paleti - New Glamour Multi Finish Eyeshadow Palette - 02 Sunset Vibes -Yüksek Pigmentli",
+      "originalPrice": 1119.3,
+      "salePrice": 783.51,
+      "discountPercent": 51,
+      "productCode": "838175306",
+      "productUrl": "https://www.trendyol.com/kiko/goz-fari-paleti-new-glamour-multi-finish-eyeshadow-palette-02-sunset-vibes-yuksek-pigmentli-p-838175306?boutiqueId=61&merchantId=387700",
+      "site": "trendyol",
+      "imageUrl": "https://cdn.dsmcdn.com/mnresize/1200/-/ty1654/prod/QC/20250327/14/adbf50c7-695e-3a2a-b126-e6bebdd797fa/1_org_zoom.jpg"
     }
   ],
   "fakeDeals": [
