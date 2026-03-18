@@ -1,137 +1,16 @@
 {
-  "lastUpdated": "2026-03-17T21:39:46",
+  "lastUpdated": "2026-03-18T10:36:56",
   "deals": [
     {
-      "brand": "KIKO",
-      "name": "Ruj - Unlımıted Double Touch - 129 Burnt Tangerine - Uzun Süre Kalıcı Parlak / Mat Likit Lipstick",
-      "originalPrice": 699.0,
-      "salePrice": 489.3,
-      "discountPercent": 30,
-      "productCode": "112713004",
-      "productUrl": "https://www.trendyol.com/kiko/ruj-unlimited-double-touch-129-burnt-tangerine-uzun-sure-kalici-parlak-mat-likit-lipstick-p-112713004?boutiqueId=61&merchantId=387700",
-      "site": "trendyol",
-      "imageUrl": "https://cdn.dsmcdn.com/mnresize/1200/-/ty1670/prod/QC/20250424/16/8c35fdd0-eca1-3b6c-8512-d22f74e14993/1_org_zoom.jpg"
-    },
-    {
-      "brand": "KIKO",
-      "name": "EYELİNER - SUPER COLOUR WATERPROOF EYELIN 8025272970334",
-      "originalPrice": 629.0,
-      "salePrice": 440.3,
-      "discountPercent": 30,
-      "productCode": "102730124",
-      "productUrl": "https://www.trendyol.com/kiko/eyeliner-super-colour-waterproof-eyelin-8025272970334-p-102730124?boutiqueId=61&merchantId=387700",
-      "site": "trendyol",
-      "imageUrl": "https://cdn.dsmcdn.com/mnresize/1200/-/ty110/product/media/images/20210503/9/84967227/169935262/1/1_org_zoom.jpg"
-    },
-    {
-      "brand": "KIKO",
-      "name": "Göz Farı - High Pigment Eyeshadow - 56 Warm Gold -Yüksek Pigmentli",
-      "originalPrice": 440.0,
-      "salePrice": 308.0,
-      "discountPercent": 30,
-      "productCode": "804052211",
-      "productUrl": "https://www.trendyol.com/kiko/goz-fari-high-pigment-eyeshadow-56-warm-gold-yuksek-pigmentli-p-804052211?boutiqueId=61&merchantId=387700",
-      "site": "trendyol",
-      "imageUrl": "https://cdn.dsmcdn.com/mnresize/1200/-/ty1670/prod/QC/20250424/16/cae4055e-4083-3deb-bcd7-97765499f9a1/1_org_zoom.jpg"
-    },
-    {
-      "brand": "L'Oreal Paris",
-      "name": "Revitalift Glassy Skin Cam Cilt Görünümü Etkili Şeffaflaşan Işıltı & Nem Veren Hidrojel Yüz Maskesi",
-      "originalPrice": null,
-      "salePrice": 499.9,
-      "discountPercent": 33,
-      "productCode": "1107818651",
-      "productUrl": "https://www.trendyol.com/l-oreal-paris/revitalift-glassy-skin-cam-cilt-gorunumu-etkili-seffaflasan-isilti-nem-veren-hidrojel-yuz-maskesi-p-1107818651?boutiqueId=61&merchantId=107819",
-      "site": "trendyol",
-      "imageUrl": "https://cdn.dsmcdn.com/mnresize/1200/-/ty1829/prod/QC_PREP/20260221/09/cd6e78ab-bfe4-37dd-91c8-44f9daa15d6a/1_org_zoom.jpg"
-    },
-    {
       "brand": "NYX Professional",
-      "name": "Wonder Snatch Pudra Süngeri & Wonder Snatch Sabitleyici Toz Pudra - 02 Cheeky Cherry",
-      "originalPrice": 1286.98,
-      "salePrice": 1093.93,
-      "discountPercent": 33,
-      "productCode": "1111107909",
-      "productUrl": "https://www.trendyol.com/nyx-professional-makeup/wonder-snatch-pudra-sungeri-wonder-snatch-sabitleyici-toz-pudra-02-cheeky-cherry-p-1111107909?boutiqueId=61&merchantId=107819",
+      "name": "Duck Plump Dolgun Görünüm Veren Dudak Kalemi - 06 Nude Flip",
+      "originalPrice": 444.01,
+      "salePrice": 377.41,
+      "discountPercent": 37,
+      "productCode": "900623817",
+      "productUrl": "https://www.trendyol.com/nyx-professional-makeup/duck-plump-dolgun-gorunum-veren-dudak-kalemi-06-nude-flip-p-900623817?boutiqueId=61&merchantId=107819",
       "site": "trendyol",
-      "imageUrl": "https://cdn.dsmcdn.com/mnresize/1200/-/ty1831/prod/QC_PREP/20260227/10/e9d6c9f9-bc16-30c1-be64-3dc96e5aad16/1_org_zoom.jpg"
-    },
-    {
-      "brand": "NYX Professional",
-      "name": "Wonder Snatch Pudra Süngeri & Wonder Snatch Sabitleyici Toz Pudra - 01 Sugar Serve",
-      "originalPrice": 1286.98,
-      "salePrice": 1093.93,
-      "discountPercent": 33,
-      "productCode": "1111107491",
-      "productUrl": "https://www.trendyol.com/nyx-professional-makeup/wonder-snatch-pudra-sungeri-wonder-snatch-sabitleyici-toz-pudra-01-sugar-serve-p-1111107491?boutiqueId=61&merchantId=107819",
-      "site": "trendyol",
-      "imageUrl": "https://cdn.dsmcdn.com/mnresize/1200/-/ty1831/prod/QC_PREP/20260227/10/2fde1717-cf2f-3169-95fe-f3ec85cb4180/1_org_zoom.jpg"
-    },
-    {
-      "brand": "KIKO",
-      "name": "Allık - Velvet Touch Creamy Stick Blush - 07 Natural Rose",
-      "originalPrice": 769.0,
-      "salePrice": 538.3,
-      "discountPercent": 30,
-      "productCode": "1043009892",
-      "productUrl": "https://www.trendyol.com/kiko/allik-velvet-touch-creamy-stick-blush-07-natural-rose-p-1043009892?boutiqueId=61&merchantId=387700",
-      "site": "trendyol",
-      "imageUrl": "https://cdn.dsmcdn.com/mnresize/1200/-/ty1782/prod/QC_PREP/20251031/10/d765f6d0-a436-3b77-94d9-43c1606c64ce/1_org_zoom.jpg"
-    },
-    {
-      "brand": "KIKO",
-      "name": "Göz Farı - Glitter Shower Eyeshadow 11 Excellent Coffee",
-      "originalPrice": 559.0,
-      "salePrice": 391.3,
-      "discountPercent": 30,
-      "productCode": "410719118",
-      "productUrl": "https://www.trendyol.com/kiko/goz-fari-glitter-shower-eyeshadow-11-excellent-coffee-p-410719118?boutiqueId=61&merchantId=387700",
-      "site": "trendyol",
-      "imageUrl": "https://cdn.dsmcdn.com/mnresize/1200/-/ty1669/prod/QC/20250424/16/20a17527-2192-38f4-8c31-d6a642293d7f/1_org_zoom.jpg"
-    },
-    {
-      "brand": "KIKO",
-      "name": "MATLAŞTIRICI MAKYAJ BAZI - MATTE FACE BASE 30 ML 8025272620161",
-      "originalPrice": 790.0,
-      "salePrice": 553.0,
-      "discountPercent": 30,
-      "productCode": "4359676",
-      "productUrl": "https://www.trendyol.com/kiko/matlastirici-makyaj-bazi-matte-face-base-30-ml-8025272620161-p-4359676?boutiqueId=61&merchantId=387700",
-      "site": "trendyol",
-      "imageUrl": "https://cdn.dsmcdn.com/mnresize/1200/-/ty87/product/media/images/20210403/02/f387d836/17208366/1/1_org_zoom.jpg"
-    },
-    {
-      "brand": "NYX Professional",
-      "name": "Jelly Job Dolgun ve Parlak Dudak Parlatıcısı 06 Jelly Filled & Wonder Snatch Pudra 02 Cheeky Cherry",
-      "originalPrice": 1403.98,
-      "salePrice": 1193.38,
-      "discountPercent": 33,
-      "productCode": "1111108414",
-      "productUrl": "https://www.trendyol.com/nyx-professional-makeup/jelly-job-dolgun-ve-parlak-dudak-parlaticisi-06-jelly-filled-wonder-snatch-pudra-02-cheeky-cherry-p-1111108414?boutiqueId=61&merchantId=107819",
-      "site": "trendyol",
-      "imageUrl": "https://cdn.dsmcdn.com/mnresize/1200/-/ty1832/prod/QC_PREP/20260227/10/d9d7c080-e7dc-32f7-861f-eb05acd5d2ea/1_org_zoom.jpg"
-    },
-    {
-      "brand": "KIKO",
-      "name": "KAŞ KALEMİ - GREEN ME BROW PENCIL - 102 Milk Chocolate",
-      "originalPrice": 349.0,
-      "salePrice": 244.3,
-      "discountPercent": 30,
-      "productCode": "819360335",
-      "productUrl": "https://www.trendyol.com/kiko/kas-kalemi-green-me-brow-pencil-102-milk-chocolate-p-819360335?boutiqueId=61&merchantId=387700",
-      "site": "trendyol",
-      "imageUrl": "https://cdn.dsmcdn.com/mnresize/1200/-/ty1353/product/media/images/prod/QC/20240605/16/48144782-ce4c-3de4-a60a-4b3ad8443ebe/1_org_zoom.jpg"
-    },
-    {
-      "brand": "KIKO",
-      "name": "LİKİT FONDÖTEN - LIQUID SKIN SECOND SKİN FDT 05 - WB 15",
-      "originalPrice": 839.0,
-      "salePrice": 587.3,
-      "discountPercent": 30,
-      "productCode": "234535446",
-      "productUrl": "https://www.trendyol.com/kiko/likit-fondoten-liquid-skin-second-skin-fdt-05-wb-15-p-234535446?boutiqueId=61&merchantId=387700",
-      "site": "trendyol",
-      "imageUrl": "https://cdn.dsmcdn.com/mnresize/1200/-/ty1348/product/media/images/prod/QC/20240605/16/d573d9f5-5116-3a6c-99ae-7c5db898951a/1_org_zoom.jpg"
+      "imageUrl": "https://cdn.dsmcdn.com/mnresize/1200/-/ty1639/prod/QC/20250219/14/f92380c4-2256-3471-a36d-7b6c333fb47a/1_org_zoom.jpg"
     }
   ],
   "fakeDeals": [
