@@ -1,137 +1,16 @@
 {
-  "lastUpdated": "2026-03-18T21:10:48",
+  "lastUpdated": "2026-03-19T10:38:07",
   "deals": [
     {
       "brand": "NYX Professional",
-      "name": "Duck Plump Dolgun Görünüm Veren Dudak Kalemi - 06 Nude Flip",
-      "originalPrice": 444.01,
-      "salePrice": 377.41,
-      "discountPercent": 37,
-      "productCode": "900623817",
-      "productUrl": "https://www.trendyol.com/nyx-professional-makeup/duck-plump-dolgun-gorunum-veren-dudak-kalemi-06-nude-flip-p-900623817?boutiqueId=61&merchantId=107819",
+      "name": "Jumbo Face Stick | Çok Amaçlı Stick Aydınlatıcı - Coconut Cake",
+      "originalPrice": 424.71,
+      "salePrice": 361.0,
+      "discountPercent": 49,
+      "productCode": "765277654",
+      "productUrl": "https://www.trendyol.com/nyx-professional-makeup/jumbo-face-stick-cok-amacli-stick-aydinlatici-coconut-cake-p-765277654?boutiqueId=61&merchantId=107819",
       "site": "trendyol",
-      "imageUrl": "https://cdn.dsmcdn.com/mnresize/1200/-/ty1639/prod/QC/20250219/14/f92380c4-2256-3471-a36d-7b6c333fb47a/1_org_zoom.jpg"
-    },
-    {
-      "brand": "KIKO",
-      "name": "Ruj - Unlimited Stylo - 09 Rosy Brown",
-      "originalPrice": 629.3,
-      "salePrice": 440.51,
-      "discountPercent": 51,
-      "productCode": "1058786338",
-      "productUrl": "https://www.trendyol.com/kiko/ruj-unlimited-stylo-09-rosy-brown-p-1058786338?boutiqueId=61&merchantId=387700",
-      "site": "trendyol",
-      "imageUrl": "https://cdn.dsmcdn.com/mnresize/1200/-/ty1795/prod/QC_PREP/20251201/10/ae668521-0768-3395-8c36-e5f00ef8dea0/1_org_zoom.jpg"
-    },
-    {
-      "brand": "KIKO",
-      "name": "DUDAK KALEMİ - NEW EVERLASTING LIP LINER - 518 Dark Brown",
-      "originalPrice": 510.3,
-      "salePrice": 357.21,
-      "discountPercent": 51,
-      "productCode": "806495502",
-      "productUrl": "https://www.trendyol.com/kiko/dudak-kalemi-new-everlasting-lip-liner-518-dark-brown-p-806495502?boutiqueId=61&merchantId=387700",
-      "site": "trendyol",
-      "imageUrl": "https://cdn.dsmcdn.com/mnresize/1200/-/ty1669/prod/QC/20250424/16/1805a30d-29f2-3eb2-aeba-2792c34523e5/1_org_zoom.jpg"
-    },
-    {
-      "brand": "Gliss",
-      "name": "Gliss Scalp Balance Saç Derisi Spreyi 100 ml",
-      "originalPrice": 634.9,
-      "salePrice": 379.9,
-      "discountPercent": 40,
-      "productCode": "",
-      "productUrl": "https://www.watsons.com.tr/gliss-scalp-balance-sac-derisi-spreyi-100-ml/p/BP_1491014",
-      "site": "watsons",
-      "imageUrl": "https://media.watsons.com.tr/medias/sys_master/prd-images/had/hf8/14061931560990/prd-front-1491014_195x195/prd-front-1491014-195x195.jpg"
-    },
-    {
-      "brand": "KIKO",
-      "name": "Göz Kalemi - Colour Kajal 01 Black 71",
-      "originalPrice": 405.3,
-      "salePrice": 283.71,
-      "discountPercent": 51,
-      "productCode": "4358900",
-      "productUrl": "https://www.trendyol.com/kiko/goz-kalemi-colour-kajal-01-black-71-p-4358900?boutiqueId=61&merchantId=387700",
-      "site": "trendyol",
-      "imageUrl": "https://cdn.dsmcdn.com/mnresize/1200/-/ty1670/prod/QC/20250424/16/eeadd5d3-aed2-3735-8ae1-862591b382c0/1_org_zoom.jpg"
-    },
-    {
-      "brand": "KIKO",
-      "name": "Göz Farı Paleti - New Glamour Multi Finish Eyeshadow Palette - 02 Sunset Vibes -Yüksek Pigmentli",
-      "originalPrice": 1119.3,
-      "salePrice": 783.51,
-      "discountPercent": 51,
-      "productCode": "838175306",
-      "productUrl": "https://www.trendyol.com/kiko/goz-fari-paleti-new-glamour-multi-finish-eyeshadow-palette-02-sunset-vibes-yuksek-pigmentli-p-838175306?boutiqueId=61&merchantId=387700",
-      "site": "trendyol",
-      "imageUrl": "https://cdn.dsmcdn.com/mnresize/1200/-/ty1654/prod/QC/20250327/14/adbf50c7-695e-3a2a-b126-e6bebdd797fa/1_org_zoom.jpg"
-    },
-    {
-      "brand": "KIKO",
-      "name": "Saten Mat Ruj - Velvet Passion Matte Lipstick 327 Warm Nude 8025272629843",
-      "originalPrice": 629.3,
-      "salePrice": 440.51,
-      "discountPercent": 51,
-      "productCode": "4360117",
-      "productUrl": "https://www.trendyol.com/kiko/saten-mat-ruj-velvet-passion-matte-lipstick-327-warm-nude-8025272629843-p-4360117?boutiqueId=61&merchantId=387700",
-      "site": "trendyol",
-      "imageUrl": "https://cdn.dsmcdn.com/mnresize/1200/-/ty1641/prod/QC/20250225/13/f1243dea-d8c9-30b6-8a39-de4acc8f1284/1_org_zoom.jpg"
-    },
-    {
-      "brand": "KIKO",
-      "name": "Dudak Kalemi - New Creamy Colour Comfort Lip Liner 10 Rose Tea",
-      "originalPrice": 510.3,
-      "salePrice": 357.21,
-      "discountPercent": 51,
-      "productCode": "410742126",
-      "productUrl": "https://www.trendyol.com/kiko/dudak-kalemi-new-creamy-colour-comfort-lip-liner-10-rose-tea-p-410742126?boutiqueId=61&merchantId=387700",
-      "site": "trendyol",
-      "imageUrl": "https://cdn.dsmcdn.com/mnresize/1200/-/ty1668/prod/QC/20250424/16/c9bf38bd-543b-33f6-97d8-eb81d6c611e0/1_org_zoom.jpg"
-    },
-    {
-      "brand": "KIKO",
-      "name": "Allık - Smart Colour Blush - 11 Orchid",
-      "originalPrice": 489.3,
-      "salePrice": 342.51,
-      "discountPercent": 51,
-      "productCode": "932531527",
-      "productUrl": "https://www.trendyol.com/kiko/allik-smart-colour-blush-11-orchid-p-932531527?boutiqueId=61&merchantId=387700",
-      "site": "trendyol",
-      "imageUrl": "https://cdn.dsmcdn.com/mnresize/1200/-/ty1783/prod/QC_PREP/20251031/10/fac76311-c765-3e8c-9d1e-937caf359e74/1_org_zoom.jpg"
-    },
-    {
-      "brand": "KIKO",
-      "name": "RUJ - KIND SOFT MATTE LIPSTICK - 03 Mauve Harmony",
-      "originalPrice": 699.3,
-      "salePrice": 489.51,
-      "discountPercent": 51,
-      "productCode": "936643547",
-      "productUrl": "https://www.trendyol.com/kiko/ruj-kind-soft-matte-lipstick-03-mauve-harmony-p-936643547?boutiqueId=61&merchantId=387700",
-      "site": "trendyol",
-      "imageUrl": "https://cdn.dsmcdn.com/mnresize/1200/-/ty1677/prod/QC/20250515/16/a086fb75-b09d-3fa4-8f37-74e43a833489/1_org_zoom.jpg"
-    },
-    {
-      "brand": "KIKO",
-      "name": "RUJ - Jelly Stylo",
-      "originalPrice": 629.3,
-      "salePrice": 440.51,
-      "discountPercent": 51,
-      "productCode": "899933750",
-      "productUrl": "https://www.trendyol.com/kiko/ruj-jelly-stylo-p-899933750?boutiqueId=61&merchantId=387700",
-      "site": "trendyol",
-      "imageUrl": "https://cdn.dsmcdn.com/mnresize/1200/-/ty1635/prod/QC/20250212/16/136b9f7b-dcd7-3824-91f1-fd5740cff9a4/1_org_zoom.jpg"
-    },
-    {
-      "brand": "KIKO",
-      "name": "DUDAK KALEMİ - NEW CREAMY COLOUR COMFORT LIP LINER - 12 Cremisi",
-      "originalPrice": 510.3,
-      "salePrice": 357.21,
-      "discountPercent": 51,
-      "productCode": "756894252",
-      "productUrl": "https://www.trendyol.com/kiko/dudak-kalemi-new-creamy-colour-comfort-lip-liner-12-cremisi-p-756894252?boutiqueId=61&merchantId=387700",
-      "site": "trendyol",
-      "imageUrl": "https://cdn.dsmcdn.com/mnresize/1200/-/ty1353/product/media/images/prod/QC/20240605/16/7db27624-9039-37fb-9d72-8e855a0d96a7/1_org_zoom.jpg"
+      "imageUrl": "https://cdn.dsmcdn.com/mnresize/1200/-/ty1533/product/media/images/prod/QC/20240910/11/fa2ed815-e550-3897-9266-22d90131d630/1_org_zoom.jpg"
     }
   ],
   "fakeDeals": [
