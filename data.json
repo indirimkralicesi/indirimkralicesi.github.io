@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-19T10:38:07",
+  "lastUpdated": "2026-03-19T14:08:53",
   "deals": [
     {
       "brand": "NYX Professional",
@@ -11,6 +11,61 @@
       "productUrl": "https://www.trendyol.com/nyx-professional-makeup/jumbo-face-stick-cok-amacli-stick-aydinlatici-coconut-cake-p-765277654?boutiqueId=61&merchantId=107819",
       "site": "trendyol",
       "imageUrl": "https://cdn.dsmcdn.com/mnresize/1200/-/ty1533/product/media/images/prod/QC/20240910/11/fa2ed815-e550-3897-9266-22d90131d630/1_org_zoom.jpg"
+    },
+    {
+      "brand": "NYX Professional",
+      "name": "Fat Oil Lip Drip Parlatıcı Dudak Yağı - Follow Back",
+      "originalPrice": 502.81,
+      "salePrice": 427.39,
+      "discountPercent": 49,
+      "productCode": "672104875",
+      "productUrl": "https://www.trendyol.com/nyx-professional-makeup/fat-oil-lip-drip-parlatici-dudak-yagi-follow-back-p-672104875?boutiqueId=61&merchantId=107819",
+      "site": "trendyol",
+      "imageUrl": "https://cdn.dsmcdn.com/mnresize/1200/-/ty1606/prod/QC/20241127/18/20867f3e-6b41-3d21-a7a9-fcbcaccd38c3/1_org_zoom.jpg"
+    },
+    {
+      "brand": "NYX Professional",
+      "name": "Fat Oil Lip Drip Parlatıcı Dudak Yağı - Thats Chic",
+      "originalPrice": 443.33,
+      "salePrice": 376.83,
+      "discountPercent": 55,
+      "productCode": "673856100",
+      "productUrl": "https://www.trendyol.com/nyx-professional-makeup/fat-oil-lip-drip-parlatici-dudak-yagi-thats-chic-p-673856100?boutiqueId=61&merchantId=107819",
+      "site": "trendyol",
+      "imageUrl": "https://cdn.dsmcdn.com/mnresize/1200/-/ty1606/prod/QC/20241127/18/92efe728-58e2-3f63-8ecd-8ef41c6ee4b9/1_org_zoom.jpg"
+    },
+    {
+      "brand": "L'Oreal Paris",
+      "name": "L'Oreal Paris Panorama Hacim Veren Maskara Siyah",
+      "originalPrice": 1799.9,
+      "salePrice": 539.9,
+      "discountPercent": 40,
+      "productCode": "",
+      "productUrl": "https://www.watsons.com.tr/loreal-paris-panorama-hacim-veren-maskara-siyah/p/BP_1382367",
+      "site": "watsons",
+      "imageUrl": "https://media.watsons.com.tr/medias/sys_master/prd-images/h18/h95/9920028213278/prd-front-1382367_195x195/prd-front-1382367-195x195.jpg"
+    },
+    {
+      "brand": "Flormar",
+      "name": "Flormar Water Lip Stain Kalıcı Mat Dudak Renklendiricisi No: 002",
+      "originalPrice": 799.9,
+      "salePrice": 239.9,
+      "discountPercent": 40,
+      "productCode": "",
+      "productUrl": "https://www.watsons.com.tr/flormar-water-lip-stain-kalici-mat-dudak-renklendiricisi-no-002/p/BP_1352442",
+      "site": "watsons",
+      "imageUrl": "https://media.watsons.com.tr/medias/sys_master/prd-images/h26/hec/9375842992158/prd-front-1352442_195x195/prd-front-1352442-195x195.jpeg"
+    },
+    {
+      "brand": "Maybelline New York",
+      "name": "Maybelline New York Lifter Gloss Nemlendirici Dudak Parlatıcısı 009 Topaz",
+      "originalPrice": 1299.9,
+      "salePrice": 389.9,
+      "discountPercent": 40,
+      "productCode": "",
+      "productUrl": "https://www.watsons.com.tr/maybelline-new-york-lifter-gloss-nemlendirici-dudak-parlaticisi-009-topaz/p/BP_1316210",
+      "site": "watsons",
+      "imageUrl": "https://media.watsons.com.tr/medias/sys_master/prd-images/h6d/h6f/11352816353310/prd-front-1316210_195x195/prd-front-1316210-195x195.jpg"
     }
   ],
   "fakeDeals": [
