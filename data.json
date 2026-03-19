@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-19T17:37:22",
+  "lastUpdated": "2026-03-19T21:07:58",
   "deals": [
     {
       "brand": "NYX Professional",
@@ -77,6 +77,61 @@
       "productUrl": "https://www.watsons.com.tr/gliss-split-hair-miracle-kirik-uclari-muhurleyen-sivi-sac-bakim-kremi-iyonik-kompleks-ve-uzum-cekirdegi-yagi-ile-200-ml/p/BP_1310190",
       "site": "watsons",
       "imageUrl": "https://media.watsons.com.tr/medias/sys_master/prd-images/hd1/h07/10922555637790/prd-front-1310190_195x195/prd-front-1310190-195x195.jpg"
+    },
+    {
+      "brand": "Flormar",
+      "name": "Flormar Stay Perfect Kapatıcı No: 02 Light",
+      "originalPrice": 1049.9,
+      "salePrice": 314.9,
+      "discountPercent": 40,
+      "productCode": "",
+      "productUrl": "https://www.watsons.com.tr/flormar-stay-perfect-kapatici-no-02-light/p/BP_1391334",
+      "site": "watsons",
+      "imageUrl": "https://media.watsons.com.tr/medias/sys_master/prd-images/h89/h3f/13588438941726/prd-front-1391334_195x195/prd-front-1391334-195x195.jpg"
+    },
+    {
+      "brand": "Note",
+      "name": "Note Makyaj Sabitleyici Transparan Pudra",
+      "originalPrice": 899.9,
+      "salePrice": 269.9,
+      "discountPercent": 40,
+      "productCode": "",
+      "productUrl": "https://www.watsons.com.tr/note-makyaj-sabitleyici-transparan-pudra/p/BP_1250228",
+      "site": "watsons",
+      "imageUrl": "https://media.watsons.com.tr/medias/sys_master/prd-images/hc6/ha6/12505022332958/prd-front-1250228_195x195/prd-front-1250228-195x195.jpg"
+    },
+    {
+      "brand": "Maybelline New York",
+      "name": "Maybelline New York Lifter Gloss Nemlendirici Dudak Parlatıcısı 016 Rust",
+      "originalPrice": 1299.9,
+      "salePrice": 389.9,
+      "discountPercent": 40,
+      "productCode": "",
+      "productUrl": "https://www.watsons.com.tr/maybelline-new-york-lifter-gloss-nemlendirici-dudak-parlaticisi-016-rust/p/BP_1316217",
+      "site": "watsons",
+      "imageUrl": "https://media.watsons.com.tr/medias/sys_master/prd-images/hfd/ha1/11344094494750/prd-front-1316217_195x195/prd-front-1316217-195x195.jpg"
+    },
+    {
+      "brand": "Maybelline New York",
+      "name": "Maybelline New York Lifter Lip Gloss Moon No: 03",
+      "originalPrice": 1299.9,
+      "salePrice": 389.9,
+      "discountPercent": 40,
+      "productCode": "",
+      "productUrl": "https://www.watsons.com.tr/maybelline-new-york-lifter-lip-gloss-moon-no-03/p/BP_1255912",
+      "site": "watsons",
+      "imageUrl": "https://media.watsons.com.tr/medias/sys_master/prd-images/h7d/h9e/11344083288094/prd-front-1255912_195x195/prd-front-1255912-195x195.jpg"
+    },
+    {
+      "brand": "Garnier",
+      "name": "C Vitamini Parlaklık Veren Temizleyici 250 ML (C Vitamini + Salisilik Asit, Gliserin), Vegan",
+      "originalPrice": 239.0,
+      "salePrice": 189.87,
+      "discountPercent": 35,
+      "productCode": "802615398",
+      "productUrl": "https://www.trendyol.com/garnier/c-vitamini-parlaklik-veren-temizleyici-250-ml-c-vitamini-salisilik-asit-gliserin-vegan-p-802615398?boutiqueId=61&merchantId=107819",
+      "site": "trendyol",
+      "imageUrl": "https://cdn.dsmcdn.com/mnresize/1200/-/ty1534/product/media/images/prod/QC/20240910/11/e5fde7ee-6569-3552-8513-bc80399c58e7/1_org_zoom.jpg"
     }
   ],
   "fakeDeals": [
