@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-20T17:37:09",
+  "lastUpdated": "2026-03-20T21:08:45",
   "deals": [
     {
       "brand": "NYX Professional",
@@ -77,6 +77,61 @@
       "productUrl": "https://www.trendyol.com/kiko/velvet-passion-matte-lipstick-301-beige-kremsi-mat-ruj-p-814747771?boutiqueId=61&merchantId=387700",
       "site": "trendyol",
       "imageUrl": "https://cdn.dsmcdn.com/mnresize/1200/-/ty1641/prod/QC/20250225/13/1d4e89cb-8a88-3251-8c1b-8af17f79bb11/1_org_zoom.jpg"
+    },
+    {
+      "brand": "KIKO",
+      "name": "RUJ - Jelly Stylo",
+      "originalPrice": 629.3,
+      "salePrice": 440.51,
+      "discountPercent": 51,
+      "productCode": "899933750",
+      "productUrl": "https://www.trendyol.com/kiko/ruj-jelly-stylo-p-899933750?boutiqueId=61&merchantId=387700",
+      "site": "trendyol",
+      "imageUrl": "https://cdn.dsmcdn.com/mnresize/1200/-/ty1635/prod/QC/20250212/16/136b9f7b-dcd7-3824-91f1-fd5740cff9a4/1_org_zoom.jpg"
+    },
+    {
+      "brand": "KIKO",
+      "name": "GÖZ KALEMİ - Intense Colour Long Lasting Eyeliner - 06 Mat Ebony",
+      "originalPrice": 559.3,
+      "salePrice": 391.51,
+      "discountPercent": 51,
+      "productCode": "834418318",
+      "productUrl": "https://www.trendyol.com/kiko/goz-kalemi-intense-colour-long-lasting-eyeliner-06-mat-ebony-p-834418318?boutiqueId=61&merchantId=387700",
+      "site": "trendyol",
+      "imageUrl": "https://cdn.dsmcdn.com/mnresize/1200/-/ty1655/prod/QC/20250327/14/95897567-d1d7-3c1a-b0e1-4986c74f4d71/1_org_zoom.jpg"
+    },
+    {
+      "brand": "Note",
+      "name": "Note New Era Skin Protect Primer",
+      "originalPrice": 949.9,
+      "salePrice": 284.9,
+      "discountPercent": 40,
+      "productCode": "",
+      "productUrl": "https://www.watsons.com.tr/note-new-era-skin-protect-primer/p/BP_1398159",
+      "site": "watsons",
+      "imageUrl": "https://media.watsons.com.tr/medias/sys_master/prd-images/h8a/h2a/12505105694750/prd-front-1398159_195x195/prd-front-1398159-195x195.jpg"
+    },
+    {
+      "brand": "Flormar",
+      "name": "Flormar Puffy Liquid Aydınlık Bitişli Sünger Aplikatörlü Likit Kontür - 002 Hot Chocolate",
+      "originalPrice": 699.9,
+      "salePrice": 209.9,
+      "discountPercent": 40,
+      "productCode": "",
+      "productUrl": "https://www.watsons.com.tr/flormar-puffy-liquid-aydinlik-bitisli-sunger-aplikatorlu-likit-kontur-002-hot-chocolate/p/BP_1449546",
+      "site": "watsons",
+      "imageUrl": "https://media.watsons.com.tr/medias/sys_master/prd-images/h05/h03/13588501430302/prd-front-1449546_195x195/prd-front-1449546-195x195.jpg"
+    },
+    {
+      "brand": "Note",
+      "name": "Note Flawless Far Paleti Sunset Shine 01",
+      "originalPrice": 699.9,
+      "salePrice": 209.9,
+      "discountPercent": 40,
+      "productCode": "",
+      "productUrl": "https://www.watsons.com.tr/note-flawless-far-paleti-sunset-shine-01/p/BP_1323462",
+      "site": "watsons",
+      "imageUrl": "https://media.watsons.com.tr/medias/sys_master/prd-images/h52/h36/12505036161054/prd-front-1323462_195x195/prd-front-1323462-195x195.jpg"
     }
   ],
   "fakeDeals": [
