@@ -1,71 +1,16 @@
 {
-  "lastUpdated": "2026-03-22T18:09:45",
+  "lastUpdated": "2026-03-23T10:57:09",
   "deals": [
     {
       "brand": "NYX Professional",
-      "name": "Holiday Özel Koleksiyonu Gingerbaddie Eyeshadow Far Paleti",
-      "originalPrice": 791.9,
-      "salePrice": 673.11,
+      "name": "Fat Oil Lip Drip Parlatıcı Dudak Yağı - Thats Chic",
+      "originalPrice": 443.33,
+      "salePrice": 376.83,
       "discountPercent": 55,
-      "productCode": "1060351178",
-      "productUrl": "https://www.trendyol.com/nyx-professional-makeup/holiday-ozel-koleksiyonu-gingerbaddie-eyeshadow-far-paleti-p-1060351178?boutiqueId=61&merchantId=107819",
+      "productCode": "673856100",
+      "productUrl": "https://www.trendyol.com/nyx-professional-makeup/fat-oil-lip-drip-parlatici-dudak-yagi-thats-chic-p-673856100?boutiqueId=61&merchantId=107819",
       "site": "trendyol",
-      "imageUrl": "https://cdn.dsmcdn.com/mnresize/1200/-/ty1796/prod/QC_PREP/20251203/12/dbd14781-d134-3c97-b135-05e6e1c0502e/1_org_zoom.jpg"
-    },
-    {
-      "brand": "NYX Professional",
-      "name": "Fat Oil Slick Click Parlatıcı Dudak Balmı - 14 Group Chat",
-      "originalPrice": 477.29,
-      "salePrice": 405.7,
-      "discountPercent": 51,
-      "productCode": "936200051",
-      "productUrl": "https://www.trendyol.com/nyx-professional-makeup/fat-oil-slick-click-parlatici-dudak-balmi-14-group-chat-p-936200051?boutiqueId=61&merchantId=107819",
-      "site": "trendyol",
-      "imageUrl": "https://cdn.dsmcdn.com/mnresize/1200/-/ty1678/prod/QC/20250514/15/0bebc233-5163-382f-82ba-8b936187667a/1_org_zoom.jpg"
-    },
-    {
-      "brand": "NYX Professional",
-      "name": "Fat Oil Lip Drip Parlatıcı Dudak Yağı - Splash Of Cream",
-      "originalPrice": 547.85,
-      "salePrice": 465.67,
-      "discountPercent": 34,
-      "productCode": "854549603",
-      "productUrl": "https://www.trendyol.com/nyx-professional-makeup/fat-oil-lip-drip-parlatici-dudak-yagi-splash-of-cream-p-854549603?boutiqueId=61&merchantId=107819",
-      "site": "trendyol",
-      "imageUrl": "https://cdn.dsmcdn.com/mnresize/1200/-/ty1535/product/media/images/prod/QC/20240910/11/d4541c17-e18e-372c-ba25-ed96d5a30b1d/1_org_zoom.jpg"
-    },
-    {
-      "brand": "NYX Professional",
-      "name": "Fat Oil Slick Click Parlatıcı Dudak Balmı - 18 Profile Pic",
-      "originalPrice": 513.26,
-      "salePrice": 436.27,
-      "discountPercent": 38,
-      "productCode": "936200126",
-      "productUrl": "https://www.trendyol.com/nyx-professional-makeup/fat-oil-slick-click-parlatici-dudak-balmi-18-profile-pic-p-936200126?boutiqueId=61&merchantId=107819",
-      "site": "trendyol",
-      "imageUrl": "https://cdn.dsmcdn.com/mnresize/1200/-/ty1678/prod/QC/20250514/15/d5cbb094-e3c5-30d2-92f6-f1152dbb3194/1_org_zoom.jpg"
-    },
-    {
-      "brand": "NYX Professional",
-      "name": "Fat Oil Slick Click Parlatıcı Dudak Balmı - 20 In The Drafts",
-      "originalPrice": 562.32,
-      "salePrice": 477.97,
-      "discountPercent": 33,
-      "productCode": "936246243",
-      "productUrl": "https://www.trendyol.com/nyx-professional-makeup/fat-oil-slick-click-parlatici-dudak-balmi-20-in-the-drafts-p-936246243?boutiqueId=61&merchantId=107819",
-      "site": "trendyol",
-      "imageUrl": "https://cdn.dsmcdn.com/mnresize/1200/-/ty1677/prod/QC/20250514/15/206b95a6-9e3c-3566-9550-022a8693836d/1_org_zoom.jpg"
-    },
-    {
-      "brand": "NYX Professional",
-      "name": "Buttermelt Glaze Işıltılı Nemlendirici Tint - 04 Almond Butta",
-      "originalPrice": 403.41,
-      "salePrice": 342.9,
-      "discountPercent": 43,
-      "productCode": "892682543",
-      "productUrl": "https://www.trendyol.com/nyx-professional-makeup/buttermelt-glaze-isiltili-nemlendirici-tint-04-almond-butta-p-892682543?boutiqueId=61&merchantId=107819",
-      "site": "trendyol",
-      "imageUrl": "https://cdn.dsmcdn.com/mnresize/1200/-/ty1647/prod/QC/20250310/16/e86d8a88-e733-3c4a-b333-708490f45277/1_org_zoom.jpg"
+      "imageUrl": "https://cdn.dsmcdn.com/mnresize/1200/-/ty1606/prod/QC/20241127/18/92efe728-58e2-3f63-8ecd-8ef41c6ee4b9/1_org_zoom.jpg"
     }
   ],
   "fakeDeals": [
@@ -90,12 +35,12 @@
       "site": "trendyol"
     },
     {
-      "brand": "Golden Rose",
-      "name": "Golden Rose Total Cover 2in1 Fondöten ve Kapatıcı No: 03",
+      "brand": "Maybelline New York",
+      "name": "Maybelline New York Cloutopia Allık Divine Crimson Int 03",
       "claimedDiscount": 70,
-      "normalPrice": 356.9,
-      "inflatedPrice": 1189.9,
-      "currentPrice": 356.9,
+      "normalPrice": 359.9,
+      "inflatedPrice": 1199.9,
+      "currentPrice": 359.9,
       "realDiscount": 0,
       "site": "trendyol"
     }
