@@ -1,82 +1,16 @@
 {
-  "lastUpdated": "2026-03-23T17:45:59",
+  "lastUpdated": "2026-03-24T12:14:30",
   "deals": [
-    {
-      "brand": "NYX Professional",
-      "name": "Fat Oil Lip Drip Parlatıcı Dudak Yağı - Thats Chic",
-      "originalPrice": 443.33,
-      "salePrice": 376.83,
-      "discountPercent": 55,
-      "productCode": "673856100",
-      "productUrl": "https://www.trendyol.com/nyx-professional-makeup/fat-oil-lip-drip-parlatici-dudak-yagi-thats-chic-p-673856100?boutiqueId=61&merchantId=107819",
-      "site": "trendyol",
-      "imageUrl": "https://cdn.dsmcdn.com/mnresize/1200/-/ty1606/prod/QC/20241127/18/92efe728-58e2-3f63-8ecd-8ef41c6ee4b9/1_org_zoom.jpg"
-    },
-    {
-      "brand": "NYX Professional",
-      "name": "Fat Oil Slick Click Parlatıcı Dudak Balmı - 10 Double Tap",
-      "originalPrice": 556.86,
-      "salePrice": 473.33,
-      "discountPercent": 43,
-      "productCode": "800637207",
-      "productUrl": "https://www.trendyol.com/nyx-professional-makeup/fat-oil-slick-click-parlatici-dudak-balmi-10-double-tap-p-800637207?boutiqueId=61&merchantId=107819",
-      "site": "trendyol",
-      "imageUrl": "https://cdn.dsmcdn.com/mnresize/1200/-/ty1607/prod/QC/20241127/18/9c2acc7d-9783-38c4-ae1b-94b756ce963d/1_org_zoom.jpg"
-    },
-    {
-      "brand": "NYX Professional",
-      "name": "Fat Oil Lip Drip Parlatıcı Dudak Yağı - Follow Back",
-      "originalPrice": 502.81,
-      "salePrice": 427.39,
-      "discountPercent": 49,
-      "productCode": "672104875",
-      "productUrl": "https://www.trendyol.com/nyx-professional-makeup/fat-oil-lip-drip-parlatici-dudak-yagi-follow-back-p-672104875?boutiqueId=61&merchantId=107819",
-      "site": "trendyol",
-      "imageUrl": "https://cdn.dsmcdn.com/mnresize/1200/-/ty1606/prod/QC/20241127/18/20867f3e-6b41-3d21-a7a9-fcbcaccd38c3/1_org_zoom.jpg"
-    },
     {
       "brand": "Flormar",
       "name": "Suya Dayanıklı Dudak Kalemi (KAHVE) - Waterproof Lipliner - 244 Chocolate Fondue - 8690604567591",
       "originalPrice": 324.9,
       "salePrice": 198.9,
-      "discountPercent": 38,
+      "discountPercent": 50,
       "productCode": "4380989",
       "productUrl": "https://www.trendyol.com/flormar/suya-dayanikli-dudak-kalemi-kahve-waterproof-lipliner-244-chocolate-fondue-8690604567591-p-4380989?boutiqueId=61&merchantId=962502",
       "site": "trendyol",
       "imageUrl": "https://cdn.dsmcdn.com/mnresize/1200/-/ty1553/product/media/images/ty1553/prod/QC/20240917/09/483ba691-fc3a-3212-8c82-56aa8c2e75db/1_org_zoom.jpg"
-    },
-    {
-      "brand": "Garnier",
-      "name": "C Vitamini Parlaklık Veren Temizleyici 250 ML (C Vitamini + Salisilik Asit, Gliserin), Vegan",
-      "originalPrice": 239.0,
-      "salePrice": 189.87,
-      "discountPercent": 35,
-      "productCode": "802615398",
-      "productUrl": "https://www.trendyol.com/garnier/c-vitamini-parlaklik-veren-temizleyici-250-ml-c-vitamini-salisilik-asit-gliserin-vegan-p-802615398?boutiqueId=61&merchantId=107819",
-      "site": "trendyol",
-      "imageUrl": "https://cdn.dsmcdn.com/mnresize/1200/-/ty1534/product/media/images/prod/QC/20240910/11/e5fde7ee-6569-3552-8513-bc80399c58e7/1_org_zoom.jpg"
-    },
-    {
-      "brand": "L'Oreal Paris",
-      "name": "Revitalift Hyaluronik Asit İçeren Dolgunlaştırıcı Etkili SPF30 Korumalı Nemlendirici Yüz Kremi 40ml",
-      "originalPrice": 553.0,
-      "salePrice": 547.47,
-      "discountPercent": 37,
-      "productCode": "1093683191",
-      "productUrl": "https://www.trendyol.com/l-oreal-paris/revitalift-hyaluronik-asit-iceren-dolgunlastirici-etkili-spf30-korumali-nemlendirici-yuz-kremi-40ml-p-1093683191?boutiqueId=61&merchantId=107819",
-      "site": "trendyol",
-      "imageUrl": "https://cdn.dsmcdn.com/mnresize/1200/-/ty1820/prod/QC_PREP/20260129/16/d1c73ad8-e8c2-36be-a99a-a7fd47c74ee7/1_org_zoom.jpg"
-    },
-    {
-      "brand": "L'Oreal Paris",
-      "name": "L'Oreal Paris Panorama Hacim Veren Maskara Siyah",
-      "originalPrice": 1799.9,
-      "salePrice": 539.9,
-      "discountPercent": 40,
-      "productCode": "",
-      "productUrl": "https://www.watsons.com.tr/loreal-paris-panorama-hacim-veren-maskara-siyah/p/BP_1382367",
-      "site": "watsons",
-      "imageUrl": "https://media.watsons.com.tr/medias/sys_master/prd-images/h18/h95/9920028213278/prd-front-1382367_195x195/prd-front-1382367-195x195.jpg"
     }
   ],
   "fakeDeals": [
