@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-25T11:13:01",
+  "lastUpdated": "2026-03-25T14:43:01",
   "deals": [
     {
       "brand": "Note",
@@ -11,6 +11,61 @@
       "productUrl": "https://www.watsons.com.tr/note-detox-protect-fondoten-no-02-natural-beige/p/BP_144121",
       "site": "watsons",
       "imageUrl": "https://media.watsons.com.tr/medias/sys_master/prd-images/h7d/h1c/12505011257374/prd-front-144121_195x195/prd-front-144121-195x195.jpg"
+    },
+    {
+      "brand": "Note",
+      "name": "Note BB Krem Anti Blemish No: 03",
+      "originalPrice": 949.9,
+      "salePrice": 284.9,
+      "discountPercent": 40,
+      "productCode": "",
+      "productUrl": "https://www.watsons.com.tr/note-bb-krem-anti-blemish-no-03/p/BP_1326360",
+      "site": "watsons",
+      "imageUrl": "https://media.watsons.com.tr/medias/sys_master/prd-images/h7e/ha0/12505046384670/prd-front-1326360_195x195/prd-front-1326360-195x195.jpg"
+    },
+    {
+      "brand": "Note",
+      "name": "Note Detox Protect Fondöten No: 03 Medium Beige",
+      "originalPrice": 799.9,
+      "salePrice": 239.9,
+      "discountPercent": 40,
+      "productCode": "",
+      "productUrl": "https://www.watsons.com.tr/note-detox-protect-fondoten-no-03-medium-beige/p/BP_144122",
+      "site": "watsons",
+      "imageUrl": "https://media.watsons.com.tr/medias/sys_master/prd-images/h35/h3f/12505007063070/prd-front-144122_195x195/prd-front-144122-195x195.jpg"
+    },
+    {
+      "brand": "NYX Professional",
+      "name": "Jelly Job Dolgun ve Parlak Dudak Parlatıcısı 06 It's Jelly & Wonder Snatch Pudra 01 Sugar Serve",
+      "originalPrice": 1293.98,
+      "salePrice": 1099.88,
+      "discountPercent": 38,
+      "productCode": "1111108652",
+      "productUrl": "https://www.trendyol.com/nyx-professional-makeup/jelly-job-dolgun-ve-parlak-dudak-parlaticisi-06-it-s-jelly-wonder-snatch-pudra-01-sugar-serve-p-1111108652?boutiqueId=61&merchantId=107819",
+      "site": "trendyol",
+      "imageUrl": "https://cdn.dsmcdn.com/mnresize/1200/-/ty1830/prod/QC_PREP/20260227/10/929b9155-630c-3771-8418-74104c281379/1_org_zoom.jpg"
+    },
+    {
+      "brand": "Note",
+      "name": "Note Daily Skin Perfector Tint SPF50 100",
+      "originalPrice": 799.9,
+      "salePrice": 239.9,
+      "discountPercent": 40,
+      "productCode": "",
+      "productUrl": "https://www.watsons.com.tr/note-daily-skin-perfector-tint-spf50-100/p/BP_1455279",
+      "site": "watsons",
+      "imageUrl": "https://media.watsons.com.tr/medias/sys_master/prd-images/h6e/hdf/12839510835230/prd-front-1455279_195x195/prd-front-1455279-195x195.jpg"
+    },
+    {
+      "brand": "Note",
+      "name": "Note Detox Protect Fondöten No: 04 Sand",
+      "originalPrice": 799.9,
+      "salePrice": 239.9,
+      "discountPercent": 40,
+      "productCode": "",
+      "productUrl": "https://www.watsons.com.tr/note-detox-protect-fondoten-no-04-sand/p/BP_144123",
+      "site": "watsons",
+      "imageUrl": "https://media.watsons.com.tr/medias/sys_master/prd-images/h3e/h46/12505008898078/prd-front-144123_195x195/prd-front-144123-195x195.jpg"
     }
   ],
   "fakeDeals": [
