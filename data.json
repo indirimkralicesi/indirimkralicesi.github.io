@@ -1,46 +1,46 @@
 {
-  "lastUpdated": "2026-03-24T12:14:30",
+  "lastUpdated": "2026-03-25T11:13:01",
   "deals": [
     {
-      "brand": "Flormar",
-      "name": "Suya Dayanıklı Dudak Kalemi (KAHVE) - Waterproof Lipliner - 244 Chocolate Fondue - 8690604567591",
-      "originalPrice": 324.9,
-      "salePrice": 198.9,
-      "discountPercent": 50,
-      "productCode": "4380989",
-      "productUrl": "https://www.trendyol.com/flormar/suya-dayanikli-dudak-kalemi-kahve-waterproof-lipliner-244-chocolate-fondue-8690604567591-p-4380989?boutiqueId=61&merchantId=962502",
-      "site": "trendyol",
-      "imageUrl": "https://cdn.dsmcdn.com/mnresize/1200/-/ty1553/product/media/images/ty1553/prod/QC/20240917/09/483ba691-fc3a-3212-8c82-56aa8c2e75db/1_org_zoom.jpg"
+      "brand": "Note",
+      "name": "Note Detox Protect Fondöten No: 02 Natural Beige",
+      "originalPrice": 799.9,
+      "salePrice": 239.9,
+      "discountPercent": 40,
+      "productCode": "",
+      "productUrl": "https://www.watsons.com.tr/note-detox-protect-fondoten-no-02-natural-beige/p/BP_144121",
+      "site": "watsons",
+      "imageUrl": "https://media.watsons.com.tr/medias/sys_master/prd-images/h7d/h1c/12505011257374/prd-front-144121_195x195/prd-front-144121-195x195.jpg"
     }
   ],
   "fakeDeals": [
     {
-      "brand": "Pastel",
-      "name": "Pastel Summer Ease Oje 442",
-      "claimedDiscount": 78,
-      "normalPrice": 19.95,
-      "inflatedPrice": 94.95,
-      "currentPrice": 19.95,
-      "realDiscount": 0,
-      "site": "trendyol"
-    },
-    {
-      "brand": "Revolution",
-      "name": "Revolution Reloaded Far Paleti Spirited Love",
+      "brand": "Max Factor",
+      "name": "Max Factor Color Elixir Likit Ruj No: 035 Faded Red",
       "claimedDiscount": 71,
-      "normalPrice": 269.0,
-      "inflatedPrice": 934.9,
-      "currentPrice": 269.0,
+      "normalPrice": 179.0,
+      "inflatedPrice": 629.9,
+      "currentPrice": 179.0,
       "realDiscount": 0,
       "site": "trendyol"
     },
     {
-      "brand": "Maybelline New York",
-      "name": "Maybelline New York Cloutopia Allık Divine Crimson Int 03",
+      "brand": "Note",
+      "name": "Note Nemlendirici Yumuşak Stick Allık 10 Juicy",
       "claimedDiscount": 70,
-      "normalPrice": 359.9,
-      "inflatedPrice": 1199.9,
-      "currentPrice": 359.9,
+      "normalPrice": 239.9,
+      "inflatedPrice": 799.9,
+      "currentPrice": 239.9,
+      "realDiscount": 0,
+      "site": "trendyol"
+    },
+    {
+      "brand": "Note",
+      "name": "Note BB Krem Anti Blemish No: 03",
+      "claimedDiscount": 70,
+      "normalPrice": 284.9,
+      "inflatedPrice": 949.9,
+      "currentPrice": 284.9,
       "realDiscount": 0,
       "site": "trendyol"
     }
