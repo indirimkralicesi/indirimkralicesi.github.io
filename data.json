@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-25T14:43:01",
+  "lastUpdated": "2026-03-25T19:43:14",
   "deals": [
     {
       "brand": "Note",
@@ -66,6 +66,17 @@
       "productUrl": "https://www.watsons.com.tr/note-detox-protect-fondoten-no-04-sand/p/BP_144123",
       "site": "watsons",
       "imageUrl": "https://media.watsons.com.tr/medias/sys_master/prd-images/h3e/h46/12505008898078/prd-front-144123_195x195/prd-front-144123-195x195.jpg"
+    },
+    {
+      "brand": "Maybelline New York",
+      "name": "Cheek Heat Likit Allık - 10 Scorch - Pembe",
+      "originalPrice": 253.45,
+      "salePrice": 240.78,
+      "discountPercent": 47,
+      "productCode": "35108344",
+      "productUrl": "https://www.trendyol.com/maybelline-new-york/cheek-heat-likit-allik-10-scorch-pembe-p-35108344?boutiqueId=61&merchantId=182514",
+      "site": "trendyol",
+      "imageUrl": "https://cdn.dsmcdn.com/mnresize/1200/-/ty1535/product/media/images/prod/QC/20240910/11/797ebea5-8d41-36e3-a922-d74cf6886773/1_org_zoom.jpg"
     }
   ],
   "fakeDeals": [
