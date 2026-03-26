@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-26T15:12:35",
+  "lastUpdated": "2026-03-26T18:43:26",
   "deals": [
     {
       "brand": "Frudia",
@@ -66,6 +66,17 @@
       "productUrl": "https://www.watsons.com.tr/gliss-scalp-balance-nazik-bakim-sampuani-200-ml/p/BP_1491007",
       "site": "watsons",
       "imageUrl": "https://media.watsons.com.tr/medias/sys_master/prd-images/h2e/h37/14061920813086/prd-front-1491007_195x195/prd-front-1491007-195x195.jpg"
+    },
+    {
+      "brand": "Frudia",
+      "name": "Frudia Air Watery Maske 10'lu",
+      "originalPrice": 919.9,
+      "salePrice": 367.9,
+      "discountPercent": 59,
+      "productCode": "",
+      "productUrl": "https://www.watsons.com.tr/frudia-air-watery-maske-10lu/p/BP_1424871",
+      "site": "watsons",
+      "imageUrl": "https://media.watsons.com.tr/medias/sys_master/prd-images/h38/h1d/14104274239518/prd-front-1424871_195x195/prd-front-1424871-195x195.png"
     }
   ],
   "fakeDeals": [
