@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-26T11:43:11",
+  "lastUpdated": "2026-03-26T15:12:35",
   "deals": [
     {
       "brand": "Frudia",
@@ -11,6 +11,61 @@
       "productUrl": "https://www.watsons.com.tr/frudia-citrus-aydinlatici-yuz-maskesi-1-adet/p/BP_1252258",
       "site": "watsons",
       "imageUrl": "https://media.watsons.com.tr/medias/sys_master/prd-images/h4d/hfe/12270216937502/prd-front-1252258_195x195/prd-front-1252258-195x195.jpg"
+    },
+    {
+      "brand": "Frudia",
+      "name": "Frudia Pomegranate Besleyici Yüz Maskesi 1 Adet",
+      "originalPrice": 134.9,
+      "salePrice": 39.95,
+      "discountPercent": 63,
+      "productCode": "",
+      "productUrl": "https://www.watsons.com.tr/frudia-pomegranate-besleyici-yuz-maskesi-1-adet/p/BP_1252244",
+      "site": "watsons",
+      "imageUrl": "https://media.watsons.com.tr/medias/sys_master/prd-images/he4/hf7/12270216675358/prd-front-1252244_195x195/prd-front-1252244-195x195.jpg"
+    },
+    {
+      "brand": "Frudia",
+      "name": "Frudia Blueberry Nemlendirici Yüz Maskesi 1 Adet",
+      "originalPrice": 134.9,
+      "salePrice": 39.95,
+      "discountPercent": 63,
+      "productCode": "",
+      "productUrl": "https://www.watsons.com.tr/frudia-blueberry-nemlendirici-yuz-maskesi-1-adet/p/BP_1252265",
+      "site": "watsons",
+      "imageUrl": "https://media.watsons.com.tr/medias/sys_master/prd-images/h74/h9b/12270217723934/prd-front-1252265_195x195/prd-front-1252265-195x195.jpg"
+    },
+    {
+      "brand": "Pantene",
+      "name": "Pantene Saç Maskesi Grow Abundant 300 ml",
+      "originalPrice": 999.9,
+      "salePrice": 499.9,
+      "discountPercent": 50,
+      "productCode": "",
+      "productUrl": "https://www.watsons.com.tr/pantene-sac-maskesi-grow-abundant-300-ml/p/BP_1491091",
+      "site": "watsons",
+      "imageUrl": "https://media.watsons.com.tr/medias/sys_master/prd-images/hef/h5c/14078199267358/prd-front-1491091_195x195/prd-front-1491091-195x195.jpg"
+    },
+    {
+      "brand": "Pantene",
+      "name": "Pantene Serum Grow Abundant 60 ml",
+      "originalPrice": 999.9,
+      "salePrice": 499.9,
+      "discountPercent": 50,
+      "productCode": "",
+      "productUrl": "https://www.watsons.com.tr/pantene-serum-grow-abundant-60-ml/p/BP_1491098",
+      "site": "watsons",
+      "imageUrl": "https://media.watsons.com.tr/medias/sys_master/prd-images/hb0/h28/14078216634398/prd-front-1491098_195x195/prd-front-1491098-195x195.jpg"
+    },
+    {
+      "brand": "Gliss",
+      "name": "Gliss Scalp Balance Nazik Bakım Şampuanı 200 ml",
+      "originalPrice": 399.9,
+      "salePrice": 199.9,
+      "discountPercent": 50,
+      "productCode": "",
+      "productUrl": "https://www.watsons.com.tr/gliss-scalp-balance-nazik-bakim-sampuani-200-ml/p/BP_1491007",
+      "site": "watsons",
+      "imageUrl": "https://media.watsons.com.tr/medias/sys_master/prd-images/h2e/h37/14061920813086/prd-front-1491007_195x195/prd-front-1491007-195x195.jpg"
     }
   ],
   "fakeDeals": [
