@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-28T16:13:33",
+  "lastUpdated": "2026-03-28T20:12:11",
   "deals": [
     {
       "brand": "L'Oreal Paris",
@@ -33,6 +33,61 @@
       "productUrl": "https://www.trendyol.com/nyx-professional-makeup/fat-cheeks-islak-bitisli-likit-allik-4-dragon-fruit-drip-p-949600104?boutiqueId=61&merchantId=107819",
       "site": "trendyol",
       "imageUrl": "https://cdn.dsmcdn.com/mnresize/1200/-/ty1712/prod/QC_PREP/20250717/15/b614db01-db7e-32da-b44b-f09920309f33/1_org_zoom.jpg"
+    },
+    {
+      "brand": "L'Oreal Paris",
+      "name": "L'Oreal Paris Revitalift Filler Göz Serumu 20 ml",
+      "originalPrice": 1249.9,
+      "salePrice": 374.9,
+      "discountPercent": 40,
+      "productCode": "",
+      "productUrl": "https://www.watsons.com.tr/loreal-paris-revitalift-filler-goz-serumu-20-ml/p/BP_1341214",
+      "site": "watsons",
+      "imageUrl": "https://media.watsons.com.tr/medias/sys_master/prd-images/he4/hc5/9238580199454/prd-front-1341214_195x195/prd-front-1341214-195x195.png"
+    },
+    {
+      "brand": "Flormar",
+      "name": "Flormar Longer Than Ever Uzun Görünüm Veren Maskara No: 001",
+      "originalPrice": 1249.9,
+      "salePrice": 374.9,
+      "discountPercent": 40,
+      "productCode": "",
+      "productUrl": "https://www.watsons.com.tr/flormar-longer-than-ever-uzun-gorunum-veren-maskara-no-001/p/BP_1380638",
+      "site": "watsons",
+      "imageUrl": "https://media.watsons.com.tr/medias/sys_master/prd-images/h51/hf1/13588435468318/prd-front-1380638_195x195/prd-front-1380638-195x195.jpg"
+    },
+    {
+      "brand": "Garnier",
+      "name": "Garnier C Vitamini Aydınlatıcı Serum 30 ml",
+      "originalPrice": 839.9,
+      "salePrice": 251.9,
+      "discountPercent": 40,
+      "productCode": "",
+      "productUrl": "https://www.watsons.com.tr/garnier-c-vitamini-aydinlatici-serum-30-ml/p/BP_1305213",
+      "site": "watsons",
+      "imageUrl": "https://media.watsons.com.tr/medias/sys_master/prd-images/he4/h15/12813478625310/prd-front-1305213_195x195/prd-front-1305213-195x195.jpg"
+    },
+    {
+      "brand": "Garnier",
+      "name": "Garnier Besleyici Çift Fazlı Micellar Temizleme Suyu 400 ml",
+      "originalPrice": 599.9,
+      "salePrice": 179.9,
+      "discountPercent": 50,
+      "productCode": "",
+      "productUrl": "https://www.watsons.com.tr/garnier-besleyici-cift-fazli-micellar-temizleme-suyu-400-ml/p/BP_169920",
+      "site": "watsons",
+      "imageUrl": "https://media.watsons.com.tr/medias/sys_master/prd-images/h9c/he1/9372981428254/prd-front-169920_195x195/prd-front-169920-195x195.jpg"
+    },
+    {
+      "brand": "Urban Care",
+      "name": "Urban Care Curl Shea ve Hibiscus Sıvı Saç Kremi 200 ml",
+      "originalPrice": 519.9,
+      "salePrice": 154.9,
+      "discountPercent": 40,
+      "productCode": "",
+      "productUrl": "https://www.watsons.com.tr/urban-care-curl-shea-ve-hibiscus-sivi-sac-kremi-200-ml/p/BP_174359",
+      "site": "watsons",
+      "imageUrl": "https://media.watsons.com.tr/medias/sys_master/prd-images/he9/hb6/10639731130398/prd-front-174359_195x195/prd-front-174359-195x195.jpg"
     }
   ],
   "fakeDeals": [
