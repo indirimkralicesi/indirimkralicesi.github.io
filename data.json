@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-29T15:42:42",
+  "lastUpdated": "2026-03-29T19:12:42",
   "deals": [
     {
       "brand": "NYX Professional",
@@ -110,6 +110,61 @@
       "productUrl": "https://www.trendyol.com/nyx-professional-makeup/fat-oil-slick-click-parlatici-dudak-balmi-20-in-the-drafts-p-936246243?boutiqueId=61&merchantId=107819",
       "site": "trendyol",
       "imageUrl": "https://cdn.dsmcdn.com/mnresize/1200/-/ty1677/prod/QC/20250514/15/206b95a6-9e3c-3566-9550-022a8693836d/1_org_zoom.jpg"
+    },
+    {
+      "brand": "L'Oreal Paris",
+      "name": "Infaillible Laque Resistance Likit Parlak Ruj - 635 Worth It Medium",
+      "originalPrice": 934.94,
+      "salePrice": 610.56,
+      "discountPercent": 34,
+      "productCode": "925267206",
+      "productUrl": "https://www.trendyol.com/l-oreal-paris/infaillible-laque-resistance-likit-parlak-ruj-635-worth-it-medium-p-925267206?boutiqueId=61&merchantId=107819",
+      "site": "trendyol",
+      "imageUrl": "https://cdn.dsmcdn.com/mnresize/1200/-/ty1658/prod/QC/20250404/17/3801bb47-e74e-3844-8167-bc4ff39ca7fa/1_org_zoom.jpg"
+    },
+    {
+      "brand": "NYX Professional",
+      "name": "Holiday Özel Koleksiyonu Candy Swirl Eyeliner – Milk Chocolate",
+      "originalPrice": 522.25,
+      "salePrice": 443.91,
+      "discountPercent": 40,
+      "productCode": "1060349978",
+      "productUrl": "https://www.trendyol.com/nyx-professional-makeup/holiday-ozel-koleksiyonu-candy-swirl-eyeliner-milk-chocolate-p-1060349978?boutiqueId=61&merchantId=107819",
+      "site": "trendyol",
+      "imageUrl": "https://cdn.dsmcdn.com/mnresize/1200/-/ty1795/prod/QC_PREP/20251203/12/7eb29f5a-4f09-3d73-b852-ac16f722d346/1_org_zoom.jpg"
+    },
+    {
+      "brand": "L'Oreal Paris",
+      "name": "Mugler Spectrum Eyeshadow Far Paleti Nude",
+      "originalPrice": null,
+      "salePrice": 558.89,
+      "discountPercent": 35,
+      "productCode": "978674928",
+      "productUrl": "https://www.trendyol.com/l-oreal-paris/mugler-spectrum-eyeshadow-far-paleti-nude-p-978674928?boutiqueId=61&merchantId=107819",
+      "site": "trendyol",
+      "imageUrl": "https://cdn.dsmcdn.com/mnresize/1200/-/ty1737/prod/QC_PREP/20250825/18/fc34b544-db13-3d65-b07e-3fd54fcc3833/1_org_zoom.jpg"
+    },
+    {
+      "brand": "Garnier",
+      "name": "Body Superfood Besleyici Vücut Kremi",
+      "originalPrice": null,
+      "salePrice": 159.6,
+      "discountPercent": 20,
+      "productCode": "765292004",
+      "productUrl": "https://www.trendyol.com/garnier/body-superfood-besleyici-vucut-kremi-p-765292004?boutiqueId=61&merchantId=107819",
+      "site": "trendyol",
+      "imageUrl": "https://cdn.dsmcdn.com/mnresize/1200/-/ty1534/product/media/images/prod/QC/20240910/11/856c225f-7720-3b7c-a0ac-1ec7187c2b29/1_org_zoom.jpg"
+    },
+    {
+      "brand": "NYX Professional",
+      "name": "Jelly Job Dolgun ve Parlak Dudak Parlatıcısı 06 Jelly Filled & Wonder Snatch Pudra 02 Cheeky Cherry",
+      "originalPrice": 1493.98,
+      "salePrice": 1269.88,
+      "discountPercent": 29,
+      "productCode": "1111108414",
+      "productUrl": "https://www.trendyol.com/nyx-professional-makeup/jelly-job-dolgun-ve-parlak-dudak-parlaticisi-06-jelly-filled-wonder-snatch-pudra-02-cheeky-cherry-p-1111108414?boutiqueId=61&merchantId=107819",
+      "site": "trendyol",
+      "imageUrl": "https://cdn.dsmcdn.com/mnresize/1200/-/ty1832/prod/QC_PREP/20260227/10/d9d7c080-e7dc-32f7-861f-eb05acd5d2ea/1_org_zoom.jpg"
     }
   ],
   "fakeDeals": [
@@ -124,22 +179,22 @@
       "site": "trendyol"
     },
     {
+      "brand": "Note",
+      "name": "Note BB Lip Corrector Dudak Parlatıcısı No: 05",
+      "claimedDiscount": 70,
+      "normalPrice": 179.9,
+      "inflatedPrice": 599.9,
+      "currentPrice": 179.9,
+      "realDiscount": 0,
+      "site": "trendyol"
+    },
+    {
       "brand": "Max Factor",
       "name": "Max Factor Facefinity 3in1 Fondöten No: 44  Warm Ivory",
       "claimedDiscount": 69,
       "normalPrice": 319.9,
       "inflatedPrice": 1059.9,
       "currentPrice": 319.9,
-      "realDiscount": 0,
-      "site": "trendyol"
-    },
-    {
-      "brand": "Maybelline New York",
-      "name": "Maybelline New York Tattoo Brow Gel Tint Dark Brown",
-      "claimedDiscount": 64,
-      "normalPrice": 299.9,
-      "inflatedPrice": 849.9,
-      "currentPrice": 299.9,
       "realDiscount": 0,
       "site": "trendyol"
     }
