@@ -1,93 +1,60 @@
 {
-  "lastUpdated": "2026-03-28T20:12:11",
+  "lastUpdated": "2026-03-29T12:13:50",
   "deals": [
     {
-      "brand": "L'Oreal Paris",
-      "name": "Mugler Spectrum Eyeshadow Far Paleti Nude",
-      "originalPrice": 718.21,
-      "salePrice": 403.54,
-      "discountPercent": 53,
-      "productCode": "978674928",
-      "productUrl": "https://www.trendyol.com/l-oreal-paris/mugler-spectrum-eyeshadow-far-paleti-nude-p-978674928?boutiqueId=61&merchantId=107819",
-      "site": "trendyol",
-      "imageUrl": "https://cdn.dsmcdn.com/mnresize/1200/-/ty1737/prod/QC_PREP/20250825/18/fc34b544-db13-3d65-b07e-3fd54fcc3833/1_org_zoom.jpg"
-    },
-    {
       "brand": "NYX Professional",
-      "name": "Fat Cheeks Islak Bitişli Likit Allık - 3 Guava Gush",
-      "originalPrice": 322.25,
-      "salePrice": 273.91,
-      "discountPercent": 45,
-      "productCode": "949600028",
-      "productUrl": "https://www.trendyol.com/nyx-professional-makeup/fat-cheeks-islak-bitisli-likit-allik-3-guava-gush-p-949600028?boutiqueId=61&merchantId=107819",
-      "site": "trendyol",
-      "imageUrl": "https://cdn.dsmcdn.com/mnresize/1200/-/ty1711/prod/QC_PREP/20250717/15/a9f02c86-5c0f-35b4-8902-ba20271f76a3/1_org_zoom.jpg"
-    },
-    {
-      "brand": "NYX Professional",
-      "name": "Fat Cheeks Islak Bitişli Likit Allık - 4 Dragon Fruit Drip",
-      "originalPrice": 325.0,
-      "salePrice": 276.25,
-      "discountPercent": 45,
-      "productCode": "949600104",
-      "productUrl": "https://www.trendyol.com/nyx-professional-makeup/fat-cheeks-islak-bitisli-likit-allik-4-dragon-fruit-drip-p-949600104?boutiqueId=61&merchantId=107819",
-      "site": "trendyol",
-      "imageUrl": "https://cdn.dsmcdn.com/mnresize/1200/-/ty1712/prod/QC_PREP/20250717/15/b614db01-db7e-32da-b44b-f09920309f33/1_org_zoom.jpg"
-    },
-    {
-      "brand": "L'Oreal Paris",
-      "name": "L'Oreal Paris Revitalift Filler Göz Serumu 20 ml",
-      "originalPrice": 1249.9,
-      "salePrice": 374.9,
-      "discountPercent": 40,
-      "productCode": "",
-      "productUrl": "https://www.watsons.com.tr/loreal-paris-revitalift-filler-goz-serumu-20-ml/p/BP_1341214",
-      "site": "watsons",
-      "imageUrl": "https://media.watsons.com.tr/medias/sys_master/prd-images/he4/hc5/9238580199454/prd-front-1341214_195x195/prd-front-1341214-195x195.png"
-    },
-    {
-      "brand": "Flormar",
-      "name": "Flormar Longer Than Ever Uzun Görünüm Veren Maskara No: 001",
-      "originalPrice": 1249.9,
-      "salePrice": 374.9,
-      "discountPercent": 40,
-      "productCode": "",
-      "productUrl": "https://www.watsons.com.tr/flormar-longer-than-ever-uzun-gorunum-veren-maskara-no-001/p/BP_1380638",
-      "site": "watsons",
-      "imageUrl": "https://media.watsons.com.tr/medias/sys_master/prd-images/h51/hf1/13588435468318/prd-front-1380638_195x195/prd-front-1380638-195x195.jpg"
-    },
-    {
-      "brand": "Garnier",
-      "name": "Garnier C Vitamini Aydınlatıcı Serum 30 ml",
-      "originalPrice": 839.9,
-      "salePrice": 251.9,
-      "discountPercent": 40,
-      "productCode": "",
-      "productUrl": "https://www.watsons.com.tr/garnier-c-vitamini-aydinlatici-serum-30-ml/p/BP_1305213",
-      "site": "watsons",
-      "imageUrl": "https://media.watsons.com.tr/medias/sys_master/prd-images/he4/h15/12813478625310/prd-front-1305213_195x195/prd-front-1305213-195x195.jpg"
-    },
-    {
-      "brand": "Garnier",
-      "name": "Garnier Besleyici Çift Fazlı Micellar Temizleme Suyu 400 ml",
-      "originalPrice": 599.9,
-      "salePrice": 179.9,
+      "name": "Buttermelt Glaze Işıltılı Nemlendirici Tint - 03 Cashew Butta",
+      "originalPrice": 376.46,
+      "salePrice": 319.99,
       "discountPercent": 50,
-      "productCode": "",
-      "productUrl": "https://www.watsons.com.tr/garnier-besleyici-cift-fazli-micellar-temizleme-suyu-400-ml/p/BP_169920",
-      "site": "watsons",
-      "imageUrl": "https://media.watsons.com.tr/medias/sys_master/prd-images/h9c/he1/9372981428254/prd-front-169920_195x195/prd-front-169920-195x195.jpg"
+      "productCode": "892682486",
+      "productUrl": "https://www.trendyol.com/nyx-professional-makeup/buttermelt-glaze-isiltili-nemlendirici-tint-03-cashew-butta-p-892682486?boutiqueId=61&merchantId=107819",
+      "site": "trendyol",
+      "imageUrl": "https://cdn.dsmcdn.com/mnresize/1200/-/ty1648/prod/QC/20250310/16/18e57480-51b4-3ce1-a751-ab3ad810fe86/1_org_zoom.jpg"
     },
     {
-      "brand": "Urban Care",
-      "name": "Urban Care Curl Shea ve Hibiscus Sıvı Saç Kremi 200 ml",
-      "originalPrice": 519.9,
-      "salePrice": 154.9,
-      "discountPercent": 40,
-      "productCode": "",
-      "productUrl": "https://www.watsons.com.tr/urban-care-curl-shea-ve-hibiscus-sivi-sac-kremi-200-ml/p/BP_174359",
-      "site": "watsons",
-      "imageUrl": "https://media.watsons.com.tr/medias/sys_master/prd-images/he9/hb6/10639731130398/prd-front-174359_195x195/prd-front-174359-195x195.jpg"
+      "brand": "NYX Professional",
+      "name": "Fat Cheeks Islak Bitişli Likit Allık - 6 Bouncin' Berry",
+      "originalPrice": 324.4,
+      "salePrice": 275.74,
+      "discountPercent": 45,
+      "productCode": "949600140",
+      "productUrl": "https://www.trendyol.com/nyx-professional-makeup/fat-cheeks-islak-bitisli-likit-allik-6-bouncin-berry-p-949600140?boutiqueId=61&merchantId=107819",
+      "site": "trendyol",
+      "imageUrl": "https://cdn.dsmcdn.com/mnresize/1200/-/ty1710/prod/QC_PREP/20250717/15/fb31775e-0ec9-3d00-b17a-f6a505134ce5/1_org_zoom.jpg"
+    },
+    {
+      "brand": "NYX Professional",
+      "name": "Smushy Yumuşacık Mat Dudak Balmı - 03 Sweet Smack",
+      "originalPrice": 311.76,
+      "salePrice": 265.0,
+      "discountPercent": 47,
+      "productCode": "958331271",
+      "productUrl": "https://www.trendyol.com/nyx-professional-makeup/smushy-yumusacik-mat-dudak-balmi-03-sweet-smack-p-958331271?boutiqueId=61&merchantId=107819",
+      "site": "trendyol",
+      "imageUrl": "https://cdn.dsmcdn.com/mnresize/1200/-/ty1711/prod/QC_PREP/20250718/21/db1555bb-de58-360d-9e13-679feaa1b96b/1_org_zoom.jpg"
+    },
+    {
+      "brand": "Maybelline New York",
+      "name": "Color Tattoo 24H Eye Stix Göz Farı - Authentic",
+      "originalPrice": 549.94,
+      "salePrice": 400.42,
+      "discountPercent": 27,
+      "productCode": "925965770",
+      "productUrl": "https://www.trendyol.com/maybelline-new-york/color-tattoo-24h-eye-stix-goz-fari-authentic-p-925965770?boutiqueId=61&merchantId=107819",
+      "site": "trendyol",
+      "imageUrl": "https://cdn.dsmcdn.com/mnresize/1200/-/ty1659/prod/QC/20250408/17/c815bdff-0079-3f39-8833-ad5f4370a77f/1_org_zoom.jpg"
+    },
+    {
+      "brand": "NYX Professional",
+      "name": "Buttermelt Glaze Işıltılı Nemlendirici Tint - 04 Almond Butta",
+      "originalPrice": 403.41,
+      "salePrice": 342.9,
+      "discountPercent": 47,
+      "productCode": "892682543",
+      "productUrl": "https://www.trendyol.com/nyx-professional-makeup/buttermelt-glaze-isiltili-nemlendirici-tint-04-almond-butta-p-892682543?boutiqueId=61&merchantId=107819",
+      "site": "trendyol",
+      "imageUrl": "https://cdn.dsmcdn.com/mnresize/1200/-/ty1647/prod/QC/20250310/16/e86d8a88-e733-3c4a-b333-708490f45277/1_org_zoom.jpg"
     }
   ],
   "fakeDeals": [
