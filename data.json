@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-30T17:13:06",
+  "lastUpdated": "2026-03-30T20:44:45",
   "deals": [
     {
       "brand": "L'Oreal Paris",
@@ -66,6 +66,50 @@
       "productUrl": "https://www.trendyol.com/garnier/mineral-ultra-kuru-kadin-roll-on-deodorant-50ml-p-1263228?boutiqueId=61&merchantId=107819",
       "site": "trendyol",
       "imageUrl": "https://cdn.dsmcdn.com/mnresize/1200/-/ty1533/product/media/images/prod/QC/20240910/11/4537f59f-b54c-364a-a61c-c23473342387/1_org_zoom.jpg"
+    },
+    {
+      "brand": "L'Oreal Paris",
+      "name": "Mugler Spectrum Eyeshadow Far Paleti Nude",
+      "originalPrice": null,
+      "salePrice": 403.54,
+      "discountPercent": 55,
+      "productCode": "978674928",
+      "productUrl": "https://www.trendyol.com/l-oreal-paris/mugler-spectrum-eyeshadow-far-paleti-nude-p-978674928?boutiqueId=61&merchantId=107819",
+      "site": "trendyol",
+      "imageUrl": "https://cdn.dsmcdn.com/mnresize/1200/-/ty1737/prod/QC_PREP/20250825/18/fc34b544-db13-3d65-b07e-3fd54fcc3833/1_org_zoom.jpg"
+    },
+    {
+      "brand": "Flormar",
+      "name": "Mat Likit Kalem Eyeliner (SİYAH) - Midnight Matte Eyeliner - 001 Black - 8690604532292",
+      "originalPrice": 569.9,
+      "salePrice": 398.9,
+      "discountPercent": 30,
+      "productCode": "2629567",
+      "productUrl": "https://www.trendyol.com/flormar/mat-likit-kalem-eyeliner-siyah-midnight-matte-eyeliner-001-black-8690604532292-p-2629567?boutiqueId=61&merchantId=962502",
+      "site": "trendyol",
+      "imageUrl": "https://cdn.dsmcdn.com/mnresize/1200/-/ty1629/prod/QC/20250128/12/8869b275-4bcc-3acb-ae0a-d9e8ecda2ddd/1_org_zoom.jpg"
+    },
+    {
+      "brand": "Flormar",
+      "name": "Uzun Süre Kalıcı Mat Ruj - Kiss Me More-001 BABE-8682536040624",
+      "originalPrice": 558.9,
+      "salePrice": 416.9,
+      "discountPercent": 25,
+      "productCode": "650116668",
+      "productUrl": "https://www.trendyol.com/flormar/uzun-sure-kalici-mat-ruj-kiss-me-more-001-babe-8682536040624-p-650116668?boutiqueId=61&merchantId=962502",
+      "site": "trendyol",
+      "imageUrl": "https://cdn.dsmcdn.com/mnresize/1200/-/ty1553/product/media/images/ty1551/prod/QC/20240917/09/88437754-04a8-3f7f-aea0-d9df16103864/1_org_zoom.jpg"
+    },
+    {
+      "brand": "Garnier",
+      "name": "Body Superfood Besleyici Vücut Kremi",
+      "originalPrice": null,
+      "salePrice": 159.6,
+      "discountPercent": 20,
+      "productCode": "765292004",
+      "productUrl": "https://www.trendyol.com/garnier/body-superfood-besleyici-vucut-kremi-p-765292004?boutiqueId=61&merchantId=107819",
+      "site": "trendyol",
+      "imageUrl": "https://cdn.dsmcdn.com/mnresize/1200/-/ty1534/product/media/images/prod/QC/20240910/11/856c225f-7720-3b7c-a0ac-1ec7187c2b29/1_org_zoom.jpg"
     }
   ],
   "fakeDeals": [
