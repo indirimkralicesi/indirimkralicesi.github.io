@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-30T13:42:31",
+  "lastUpdated": "2026-03-30T17:13:06",
   "deals": [
     {
       "brand": "L'Oreal Paris",
@@ -11,6 +11,61 @@
       "productUrl": "https://www.trendyol.com/l-oreal-paris/paris-false-lash-telescopic-fiber-siyah-maskara-p-4436297?boutiqueId=61&merchantId=107819",
       "site": "trendyol",
       "imageUrl": "https://cdn.dsmcdn.com/mnresize/1200/-/ty1533/product/media/images/prod/QC/20240910/11/141b4f2f-ff42-3573-9954-7ee925ac533c/1_org_zoom.jpg"
+    },
+    {
+      "brand": "NYX Professional",
+      "name": "Fat Cheeks Islak Bitişli Likit Allık - 3 Guava Gush",
+      "originalPrice": 322.25,
+      "salePrice": 273.91,
+      "discountPercent": 45,
+      "productCode": "949600028",
+      "productUrl": "https://www.trendyol.com/nyx-professional-makeup/fat-cheeks-islak-bitisli-likit-allik-3-guava-gush-p-949600028?boutiqueId=61&merchantId=107819",
+      "site": "trendyol",
+      "imageUrl": "https://cdn.dsmcdn.com/mnresize/1200/-/ty1711/prod/QC_PREP/20250717/15/a9f02c86-5c0f-35b4-8902-ba20271f76a3/1_org_zoom.jpg"
+    },
+    {
+      "brand": "NYX Professional",
+      "name": "Face Glue Primer Nemlendirici Makyaj Bazı & Setting Spray Makyaj Sabitleme Spreyi",
+      "originalPrice": 1049.0,
+      "salePrice": 891.65,
+      "discountPercent": 47,
+      "productCode": "926032762",
+      "productUrl": "https://www.trendyol.com/nyx-professional-makeup/face-glue-primer-nemlendirici-makyaj-bazi-setting-spray-makyaj-sabitleme-spreyi-p-926032762?boutiqueId=61&merchantId=107819",
+      "site": "trendyol",
+      "imageUrl": "https://cdn.dsmcdn.com/mnresize/1200/-/ty1660/prod/QC/20250409/17/600ca14a-a9ae-31d3-99a1-8558c9d0efef/1_org_zoom.jpg"
+    },
+    {
+      "brand": "Garnier",
+      "name": "Mineral Saf Ve Temiz Kadın Sprey Deodorant 150 ml",
+      "originalPrice": 199.43,
+      "salePrice": 120.68,
+      "discountPercent": 39,
+      "productCode": "1263221",
+      "productUrl": "https://www.trendyol.com/garnier/mineral-saf-ve-temiz-kadin-sprey-deodorant-150-ml-p-1263221?boutiqueId=61&merchantId=107819",
+      "site": "trendyol",
+      "imageUrl": "https://cdn.dsmcdn.com/mnresize/1200/-/ty1533/product/media/images/prod/QC/20240910/11/f589fecb-c15a-3fa9-9829-2e3ed56ac660/1_org_zoom.jpg"
+    },
+    {
+      "brand": "Maybelline New York",
+      "name": "Lifter Glaze Shea Yağı ve Hyalüronik Asit içeren Renkli Dudak Balmı - 04 Cherry Swirl",
+      "originalPrice": 417.94,
+      "salePrice": 272.97,
+      "discountPercent": 34,
+      "productCode": "929582191",
+      "productUrl": "https://www.trendyol.com/maybelline-new-york/lifter-glaze-shea-yagi-ve-hyaluronik-asit-iceren-renkli-dudak-balmi-04-cherry-swirl-p-929582191?boutiqueId=61&merchantId=107819",
+      "site": "trendyol",
+      "imageUrl": "https://cdn.dsmcdn.com/mnresize/1200/-/ty1668/prod/QC/20250424/10/8763c8a6-3ae0-39b8-8d84-42845cf30c83/1_org_zoom.jpg"
+    },
+    {
+      "brand": "Garnier",
+      "name": "Mineral Ultra Kuru Kadın Roll-On Deodorant 50ml",
+      "originalPrice": 199.43,
+      "salePrice": 136.04,
+      "discountPercent": 31,
+      "productCode": "1263228",
+      "productUrl": "https://www.trendyol.com/garnier/mineral-ultra-kuru-kadin-roll-on-deodorant-50ml-p-1263228?boutiqueId=61&merchantId=107819",
+      "site": "trendyol",
+      "imageUrl": "https://cdn.dsmcdn.com/mnresize/1200/-/ty1533/product/media/images/prod/QC/20240910/11/4537f59f-b54c-364a-a61c-c23473342387/1_org_zoom.jpg"
     }
   ],
   "fakeDeals": [
