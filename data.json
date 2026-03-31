@@ -1,115 +1,16 @@
 {
-  "lastUpdated": "2026-03-30T20:44:45",
+  "lastUpdated": "2026-03-31T15:09:31",
   "deals": [
     {
-      "brand": "L'Oreal Paris",
-      "name": "Paris False Lash Telescopic Fiber Siyah Maskara",
-      "originalPrice": 491.96,
-      "salePrice": 263.8,
-      "discountPercent": 46,
-      "productCode": "4436297",
-      "productUrl": "https://www.trendyol.com/l-oreal-paris/paris-false-lash-telescopic-fiber-siyah-maskara-p-4436297?boutiqueId=61&merchantId=107819",
-      "site": "trendyol",
-      "imageUrl": "https://cdn.dsmcdn.com/mnresize/1200/-/ty1533/product/media/images/prod/QC/20240910/11/141b4f2f-ff42-3573-9954-7ee925ac533c/1_org_zoom.jpg"
-    },
-    {
-      "brand": "NYX Professional",
-      "name": "Fat Cheeks Islak Bitişli Likit Allık - 3 Guava Gush",
-      "originalPrice": 322.25,
-      "salePrice": 273.91,
-      "discountPercent": 45,
-      "productCode": "949600028",
-      "productUrl": "https://www.trendyol.com/nyx-professional-makeup/fat-cheeks-islak-bitisli-likit-allik-3-guava-gush-p-949600028?boutiqueId=61&merchantId=107819",
-      "site": "trendyol",
-      "imageUrl": "https://cdn.dsmcdn.com/mnresize/1200/-/ty1711/prod/QC_PREP/20250717/15/a9f02c86-5c0f-35b4-8902-ba20271f76a3/1_org_zoom.jpg"
-    },
-    {
-      "brand": "NYX Professional",
-      "name": "Face Glue Primer Nemlendirici Makyaj Bazı & Setting Spray Makyaj Sabitleme Spreyi",
-      "originalPrice": 1049.0,
-      "salePrice": 891.65,
-      "discountPercent": 47,
-      "productCode": "926032762",
-      "productUrl": "https://www.trendyol.com/nyx-professional-makeup/face-glue-primer-nemlendirici-makyaj-bazi-setting-spray-makyaj-sabitleme-spreyi-p-926032762?boutiqueId=61&merchantId=107819",
-      "site": "trendyol",
-      "imageUrl": "https://cdn.dsmcdn.com/mnresize/1200/-/ty1660/prod/QC/20250409/17/600ca14a-a9ae-31d3-99a1-8558c9d0efef/1_org_zoom.jpg"
-    },
-    {
-      "brand": "Garnier",
-      "name": "Mineral Saf Ve Temiz Kadın Sprey Deodorant 150 ml",
-      "originalPrice": 199.43,
-      "salePrice": 120.68,
-      "discountPercent": 39,
-      "productCode": "1263221",
-      "productUrl": "https://www.trendyol.com/garnier/mineral-saf-ve-temiz-kadin-sprey-deodorant-150-ml-p-1263221?boutiqueId=61&merchantId=107819",
-      "site": "trendyol",
-      "imageUrl": "https://cdn.dsmcdn.com/mnresize/1200/-/ty1533/product/media/images/prod/QC/20240910/11/f589fecb-c15a-3fa9-9829-2e3ed56ac660/1_org_zoom.jpg"
-    },
-    {
       "brand": "Maybelline New York",
-      "name": "Lifter Glaze Shea Yağı ve Hyalüronik Asit içeren Renkli Dudak Balmı - 04 Cherry Swirl",
-      "originalPrice": 417.94,
-      "salePrice": 272.97,
-      "discountPercent": 34,
-      "productCode": "929582191",
-      "productUrl": "https://www.trendyol.com/maybelline-new-york/lifter-glaze-shea-yagi-ve-hyaluronik-asit-iceren-renkli-dudak-balmi-04-cherry-swirl-p-929582191?boutiqueId=61&merchantId=107819",
+      "name": "Super Stay Lumi Matte Uzun Süre Kalıcı Işıltılı Fondöten – 140",
+      "originalPrice": 907.45,
+      "salePrice": 329.03,
+      "discountPercent": 63,
+      "productCode": "890911240",
+      "productUrl": "https://www.trendyol.com/maybelline-new-york/super-stay-lumi-matte-uzun-sure-kalici-isiltili-fondoten-140-p-890911240?boutiqueId=61&merchantId=107819",
       "site": "trendyol",
-      "imageUrl": "https://cdn.dsmcdn.com/mnresize/1200/-/ty1668/prod/QC/20250424/10/8763c8a6-3ae0-39b8-8d84-42845cf30c83/1_org_zoom.jpg"
-    },
-    {
-      "brand": "Garnier",
-      "name": "Mineral Ultra Kuru Kadın Roll-On Deodorant 50ml",
-      "originalPrice": 199.43,
-      "salePrice": 136.04,
-      "discountPercent": 31,
-      "productCode": "1263228",
-      "productUrl": "https://www.trendyol.com/garnier/mineral-ultra-kuru-kadin-roll-on-deodorant-50ml-p-1263228?boutiqueId=61&merchantId=107819",
-      "site": "trendyol",
-      "imageUrl": "https://cdn.dsmcdn.com/mnresize/1200/-/ty1533/product/media/images/prod/QC/20240910/11/4537f59f-b54c-364a-a61c-c23473342387/1_org_zoom.jpg"
-    },
-    {
-      "brand": "L'Oreal Paris",
-      "name": "Mugler Spectrum Eyeshadow Far Paleti Nude",
-      "originalPrice": null,
-      "salePrice": 403.54,
-      "discountPercent": 55,
-      "productCode": "978674928",
-      "productUrl": "https://www.trendyol.com/l-oreal-paris/mugler-spectrum-eyeshadow-far-paleti-nude-p-978674928?boutiqueId=61&merchantId=107819",
-      "site": "trendyol",
-      "imageUrl": "https://cdn.dsmcdn.com/mnresize/1200/-/ty1737/prod/QC_PREP/20250825/18/fc34b544-db13-3d65-b07e-3fd54fcc3833/1_org_zoom.jpg"
-    },
-    {
-      "brand": "Flormar",
-      "name": "Mat Likit Kalem Eyeliner (SİYAH) - Midnight Matte Eyeliner - 001 Black - 8690604532292",
-      "originalPrice": 569.9,
-      "salePrice": 398.9,
-      "discountPercent": 30,
-      "productCode": "2629567",
-      "productUrl": "https://www.trendyol.com/flormar/mat-likit-kalem-eyeliner-siyah-midnight-matte-eyeliner-001-black-8690604532292-p-2629567?boutiqueId=61&merchantId=962502",
-      "site": "trendyol",
-      "imageUrl": "https://cdn.dsmcdn.com/mnresize/1200/-/ty1629/prod/QC/20250128/12/8869b275-4bcc-3acb-ae0a-d9e8ecda2ddd/1_org_zoom.jpg"
-    },
-    {
-      "brand": "Flormar",
-      "name": "Uzun Süre Kalıcı Mat Ruj - Kiss Me More-001 BABE-8682536040624",
-      "originalPrice": 558.9,
-      "salePrice": 416.9,
-      "discountPercent": 25,
-      "productCode": "650116668",
-      "productUrl": "https://www.trendyol.com/flormar/uzun-sure-kalici-mat-ruj-kiss-me-more-001-babe-8682536040624-p-650116668?boutiqueId=61&merchantId=962502",
-      "site": "trendyol",
-      "imageUrl": "https://cdn.dsmcdn.com/mnresize/1200/-/ty1553/product/media/images/ty1551/prod/QC/20240917/09/88437754-04a8-3f7f-aea0-d9df16103864/1_org_zoom.jpg"
-    },
-    {
-      "brand": "Garnier",
-      "name": "Body Superfood Besleyici Vücut Kremi",
-      "originalPrice": null,
-      "salePrice": 159.6,
-      "discountPercent": 20,
-      "productCode": "765292004",
-      "productUrl": "https://www.trendyol.com/garnier/body-superfood-besleyici-vucut-kremi-p-765292004?boutiqueId=61&merchantId=107819",
-      "site": "trendyol",
-      "imageUrl": "https://cdn.dsmcdn.com/mnresize/1200/-/ty1534/product/media/images/prod/QC/20240910/11/856c225f-7720-3b7c-a0ac-1ec7187c2b29/1_org_zoom.jpg"
+      "imageUrl": "https://cdn.dsmcdn.com/mnresize/1200/-/ty1000061/product/media/images/prod/PIM/20260126/07/75b92293-f029-4df7-b2ad-96022509b932/1_org_zoom.jpg"
     }
   ],
   "fakeDeals": [
