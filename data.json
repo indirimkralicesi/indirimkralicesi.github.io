@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-31T15:09:31",
+  "lastUpdated": "2026-03-31T18:39:02",
   "deals": [
     {
       "brand": "Maybelline New York",
@@ -11,6 +11,17 @@
       "productUrl": "https://www.trendyol.com/maybelline-new-york/super-stay-lumi-matte-uzun-sure-kalici-isiltili-fondoten-140-p-890911240?boutiqueId=61&merchantId=107819",
       "site": "trendyol",
       "imageUrl": "https://cdn.dsmcdn.com/mnresize/1200/-/ty1000061/product/media/images/prod/PIM/20260126/07/75b92293-f029-4df7-b2ad-96022509b932/1_org_zoom.jpg"
+    },
+    {
+      "brand": "L'Oreal Paris",
+      "name": "Color Riche Colors Of Worth Intense Volume Matte Ruj - 100 Pink Worth It",
+      "originalPrice": 857.95,
+      "salePrice": 378.97,
+      "discountPercent": 55,
+      "productCode": "648969265",
+      "productUrl": "https://www.trendyol.com/l-oreal-paris/color-riche-colors-of-worth-intense-volume-matte-ruj-100-pink-worth-it-p-648969265?boutiqueId=61&merchantId=107819",
+      "site": "trendyol",
+      "imageUrl": "https://cdn.dsmcdn.com/mnresize/1200/-/ty1535/product/media/images/prod/QC/20240910/11/3c3490ed-0729-367c-915c-c485b1c90481/1_org_zoom.jpg"
     }
   ],
   "fakeDeals": [
