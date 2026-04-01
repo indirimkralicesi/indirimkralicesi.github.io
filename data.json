@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-01T15:07:47",
+  "lastUpdated": "2026-04-01T18:39:21",
   "deals": [
     {
       "brand": "L'Oreal Paris",
@@ -22,6 +22,61 @@
       "productUrl": "https://www.trendyol.com/l-oreal-paris/l-oreal-paris-le-shadow-stick-goz-fari-100-ice-sparkle-p-891811034?boutiqueId=61&merchantId=107819",
       "site": "trendyol",
       "imageUrl": "https://cdn.dsmcdn.com/mnresize/1200/-/ty1623/prod/QC/20250111/12/ff4013ff-d643-3ea9-9bb9-2b664a3c817c/1_org_zoom.jpg"
+    },
+    {
+      "brand": "Maybelline New York",
+      "name": "Instant Anti Age Eraser Kapatıcı - 04 Honey Concealer",
+      "originalPrice": 769.94,
+      "salePrice": 447.8,
+      "discountPercent": 41,
+      "productCode": "40935229",
+      "productUrl": "https://www.trendyol.com/maybelline-new-york/instant-anti-age-eraser-kapatici-04-honey-concealer-p-40935229?boutiqueId=61&merchantId=107819",
+      "site": "trendyol",
+      "imageUrl": "https://cdn.dsmcdn.com/mnresize/1200/-/ty1696/product/media/images/prod/PIM/20250618/07/107c3c39-a2b7-4d39-a953-fc0b9528e472/1_org_zoom.jpg"
+    },
+    {
+      "brand": "Flormar",
+      "name": "Latte Yüksek Pigmentli & Parlak Bitişli Kahve Tonlu Oje",
+      "originalPrice": 119.0,
+      "salePrice": 88.33,
+      "discountPercent": 40,
+      "productCode": "1027753015",
+      "productUrl": "https://www.trendyol.com/flormar/latte-yuksek-pigmentli-parlak-bitisli-kahve-tonlu-oje-p-1027753015?boutiqueId=61&merchantId=1047535",
+      "site": "trendyol",
+      "imageUrl": "https://cdn.dsmcdn.com/mnresize/1200/-/ty1776/prod/QC_ENRICHMENT/20251021/14/1cc8dd17-f550-3c1d-843f-c0ded8e9d0f2/1_org_zoom.jpg"
+    },
+    {
+      "brand": "NYX Professional",
+      "name": "Yüz & Vücut Simi - Face & Body Glitter Bronze 15 g",
+      "originalPrice": 719.99,
+      "salePrice": 493.65,
+      "discountPercent": 24,
+      "productCode": "1018643",
+      "productUrl": "https://www.trendyol.com/nyx-professional-makeup/yuz-vucut-simi-face-body-glitter-bronze-15-g-p-1018643?boutiqueId=61&merchantId=107819",
+      "site": "trendyol",
+      "imageUrl": "https://cdn.dsmcdn.com/mnresize/1200/-/ty1535/product/media/images/prod/QC/20240910/11/d096c3d4-0752-399b-8da3-608670a04e63/1_org_zoom.jpg"
+    },
+    {
+      "brand": "Flormar",
+      "name": "Yoğun Pigmentli Parlak Oje- Full Color Nail Enamel- Fc04 Rose I Hold -8690604310401",
+      "originalPrice": 115.0,
+      "salePrice": 74.0,
+      "discountPercent": 35,
+      "productCode": "2426164",
+      "productUrl": "https://www.trendyol.com/flormar/yogun-pigmentli-parlak-oje-full-color-nail-enamel-fc04-rose-i-hold-8690604310401-p-2426164?boutiqueId=61&merchantId=1047535",
+      "site": "trendyol",
+      "imageUrl": "https://cdn.dsmcdn.com/mnresize/1200/-/ty1551/product/media/images/ty1552/prod/QC/20240917/09/fb162f3f-e381-344e-a97b-2716227c8853/1_org_zoom.jpg"
+    },
+    {
+      "brand": "NYX Professional",
+      "name": "Duck Plump Dolgun Görünüm Veren Dudak Kalemi - 12 Double Dose",
+      "originalPrice": 599.99,
+      "salePrice": 407.96,
+      "discountPercent": 32,
+      "productCode": "901889244",
+      "productUrl": "https://www.trendyol.com/nyx-professional-makeup/duck-plump-dolgun-gorunum-veren-dudak-kalemi-12-double-dose-p-901889244?boutiqueId=61&merchantId=107819",
+      "site": "trendyol",
+      "imageUrl": "https://cdn.dsmcdn.com/mnresize/1200/-/ty1640/prod/QC/20250219/14/ba3ca788-c5e2-3b8a-abe8-60f54d88583f/1_org_zoom.jpg"
     }
   ],
   "fakeDeals": [
