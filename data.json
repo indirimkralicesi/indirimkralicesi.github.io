@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-01T18:39:21",
+  "lastUpdated": "2026-04-01T22:08:39",
   "deals": [
     {
       "brand": "L'Oreal Paris",
@@ -77,6 +77,17 @@
       "productUrl": "https://www.trendyol.com/nyx-professional-makeup/duck-plump-dolgun-gorunum-veren-dudak-kalemi-12-double-dose-p-901889244?boutiqueId=61&merchantId=107819",
       "site": "trendyol",
       "imageUrl": "https://cdn.dsmcdn.com/mnresize/1200/-/ty1640/prod/QC/20250219/14/ba3ca788-c5e2-3b8a-abe8-60f54d88583f/1_org_zoom.jpg"
+    },
+    {
+      "brand": "Garnier",
+      "name": "Body Superfood Besleyici Vücut Kremi",
+      "originalPrice": 130.57,
+      "salePrice": 92.62,
+      "discountPercent": 53,
+      "productCode": "765292004",
+      "productUrl": "https://www.trendyol.com/garnier/body-superfood-besleyici-vucut-kremi-p-765292004?boutiqueId=61&merchantId=107819",
+      "site": "trendyol",
+      "imageUrl": "https://cdn.dsmcdn.com/mnresize/1200/-/ty1534/product/media/images/prod/QC/20240910/11/856c225f-7720-3b7c-a0ac-1ec7187c2b29/1_org_zoom.jpg"
     }
   ],
   "fakeDeals": [
