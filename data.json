@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-01T11:38:10",
+  "lastUpdated": "2026-04-01T15:07:47",
   "deals": [
     {
       "brand": "L'Oreal Paris",
@@ -11,6 +11,17 @@
       "productUrl": "https://www.trendyol.com/l-oreal-paris/infaillible-matte-resistance-likit-mat-ruj-645-crush-alert-p-820189529?boutiqueId=61&merchantId=107819",
       "site": "trendyol",
       "imageUrl": "https://cdn.dsmcdn.com/mnresize/1200/-/ty1590/product/media/images/prod/PIM/20241021/13/c0b8a9c1-0b97-4f67-b7c6-4c5a1c392d19/1_org_zoom.jpg"
+    },
+    {
+      "brand": "L'Oreal Paris",
+      "name": "L'Oréal Paris Le Shadow Stick Göz Farı - 100 Ice Sparkle",
+      "originalPrice": 588.44,
+      "salePrice": 337.52,
+      "discountPercent": 42,
+      "productCode": "891811034",
+      "productUrl": "https://www.trendyol.com/l-oreal-paris/l-oreal-paris-le-shadow-stick-goz-fari-100-ice-sparkle-p-891811034?boutiqueId=61&merchantId=107819",
+      "site": "trendyol",
+      "imageUrl": "https://cdn.dsmcdn.com/mnresize/1200/-/ty1623/prod/QC/20250111/12/ff4013ff-d643-3ea9-9bb9-2b664a3c817c/1_org_zoom.jpg"
     }
   ],
   "fakeDeals": [
