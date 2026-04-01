@@ -1,40 +1,19 @@
 {
-  "lastUpdated": "2026-03-31T18:39:02",
+  "lastUpdated": "2026-04-01T11:38:10",
   "deals": [
     {
-      "brand": "Maybelline New York",
-      "name": "Super Stay Lumi Matte Uzun Süre Kalıcı Işıltılı Fondöten – 140",
-      "originalPrice": 907.45,
-      "salePrice": 329.03,
-      "discountPercent": 63,
-      "productCode": "890911240",
-      "productUrl": "https://www.trendyol.com/maybelline-new-york/super-stay-lumi-matte-uzun-sure-kalici-isiltili-fondoten-140-p-890911240?boutiqueId=61&merchantId=107819",
-      "site": "trendyol",
-      "imageUrl": "https://cdn.dsmcdn.com/mnresize/1200/-/ty1000061/product/media/images/prod/PIM/20260126/07/75b92293-f029-4df7-b2ad-96022509b932/1_org_zoom.jpg"
-    },
-    {
       "brand": "L'Oreal Paris",
-      "name": "Color Riche Colors Of Worth Intense Volume Matte Ruj - 100 Pink Worth It",
-      "originalPrice": 857.95,
-      "salePrice": 378.97,
-      "discountPercent": 55,
-      "productCode": "648969265",
-      "productUrl": "https://www.trendyol.com/l-oreal-paris/color-riche-colors-of-worth-intense-volume-matte-ruj-100-pink-worth-it-p-648969265?boutiqueId=61&merchantId=107819",
+      "name": "Infaillible Matte Resistance Likit Mat Ruj - 645 Crush Alert",
+      "originalPrice": 934.94,
+      "salePrice": 442.12,
+      "discountPercent": 52,
+      "productCode": "820189529",
+      "productUrl": "https://www.trendyol.com/l-oreal-paris/infaillible-matte-resistance-likit-mat-ruj-645-crush-alert-p-820189529?boutiqueId=61&merchantId=107819",
       "site": "trendyol",
-      "imageUrl": "https://cdn.dsmcdn.com/mnresize/1200/-/ty1535/product/media/images/prod/QC/20240910/11/3c3490ed-0729-367c-915c-c485b1c90481/1_org_zoom.jpg"
+      "imageUrl": "https://cdn.dsmcdn.com/mnresize/1200/-/ty1590/product/media/images/prod/PIM/20241021/13/c0b8a9c1-0b97-4f67-b7c6-4c5a1c392d19/1_org_zoom.jpg"
     }
   ],
   "fakeDeals": [
-    {
-      "brand": "Max Factor",
-      "name": "Max Factor Color Elixir Likit Ruj No: 035 Faded Red",
-      "claimedDiscount": 71,
-      "normalPrice": 179.0,
-      "inflatedPrice": 629.9,
-      "currentPrice": 179.0,
-      "realDiscount": 0,
-      "site": "trendyol"
-    },
     {
       "brand": "Note",
       "name": "Note BB Lip Corrector Dudak Parlatıcısı No: 05",
@@ -52,6 +31,16 @@
       "normalPrice": 319.9,
       "inflatedPrice": 1059.9,
       "currentPrice": 319.9,
+      "realDiscount": 0,
+      "site": "trendyol"
+    },
+    {
+      "brand": "Revolution",
+      "name": "Revolution IRL Filter Fondöten F4",
+      "claimedDiscount": 60,
+      "normalPrice": 599.9,
+      "inflatedPrice": 1499.9,
+      "currentPrice": 599.9,
       "realDiscount": 0,
       "site": "trendyol"
     }
