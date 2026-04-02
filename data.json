@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-02T13:08:34",
+  "lastUpdated": "2026-04-02T16:39:08",
   "deals": [
     {
       "brand": "Maybelline New York",
@@ -11,6 +11,17 @@
       "productUrl": "https://www.trendyol.com/maybelline-new-york/sunkisser-likit-aydinlatici-highlighter-20-kiss-of-shimmer-p-928262244?boutiqueId=61&merchantId=107819",
       "site": "trendyol",
       "imageUrl": "https://cdn.dsmcdn.com/mnresize/1200/-/ty1667/prod/QC/20250417/15/a19a4ad7-393f-3657-abaf-2a2f1d115078/1_org_zoom.jpg"
+    },
+    {
+      "brand": "Max Factor",
+      "name": "Max Factor Color Elixir Likit Ruj No: 035 Faded Red",
+      "originalPrice": 629.9,
+      "salePrice": 149.0,
+      "discountPercent": 40,
+      "productCode": "",
+      "productUrl": "https://www.watsons.com.tr/max-factor-color-elixir-likit-ruj-no-035-faded-red/p/BP_1307768",
+      "site": "watsons",
+      "imageUrl": "https://media.watsons.com.tr/medias/sys_master/prd-images/hc1/h27/11475736461342/prd-front-1307768_195x195/prd-front-1307768-195x195.jpg"
     }
   ],
   "fakeDeals": [
