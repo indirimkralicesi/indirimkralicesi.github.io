@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-04T17:39:53",
+  "lastUpdated": "2026-04-04T21:09:24",
   "deals": [
     {
       "brand": "Flormar",
@@ -11,6 +11,17 @@
       "productUrl": "https://www.watsons.com.tr/flormar-brow-micro-filler-dogal-etkili-tarak-uclu-likit-kas-kalemi-no-003-brown/p/BP_1458912",
       "site": "watsons",
       "imageUrl": "https://media.watsons.com.tr/medias/sys_master/prd-images/h77/h59/12968856387614/prd-front-1458912_195x195/prd-front-1458912-195x195.jpg"
+    },
+    {
+      "brand": "Urban Care",
+      "name": "Urban Care Renk Açıcı Sprey Monoi ve Ylang Ylang 150 ml",
+      "originalPrice": 599.9,
+      "salePrice": 179.9,
+      "discountPercent": 70,
+      "productCode": "",
+      "productUrl": "https://www.watsons.com.tr/urban-care-renk-acici-sprey-monoi-ve-ylang-ylang-150-ml/p/BP_1286180",
+      "site": "watsons",
+      "imageUrl": "https://media.watsons.com.tr/medias/sys_master/prd-images/h62/h5d/10047723700254/prd-front-1286180_195x195/prd-front-1286180-195x195.jpg"
     }
   ],
   "fakeDeals": [
