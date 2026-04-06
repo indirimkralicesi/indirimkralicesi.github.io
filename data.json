@@ -1,46 +1,46 @@
 {
-  "lastUpdated": "2026-04-05T20:39:45",
+  "lastUpdated": "2026-04-06T10:39:49",
   "deals": [
     {
-      "brand": "Flormar",
-      "name": "Flormar Suya Dayanıklı Mat Dudak Kalemi No: 202 Soft Pink Brown",
-      "originalPrice": 399.9,
-      "salePrice": 159.9,
-      "discountPercent": 60,
-      "productCode": "",
-      "productUrl": "https://www.watsons.com.tr/flormar-suya-dayanikli-mat-dudak-kalemi-no-202-soft-pink-brown/p/BP_1317134",
-      "site": "watsons",
-      "imageUrl": "https://media.watsons.com.tr/medias/sys_master/prd-images/h7c/h1c/13588360134686/prd-front-1317134_195x195/prd-front-1317134-195x195.jpg"
+      "brand": "L'Oreal Paris",
+      "name": "L'Oréal Paris Le Shadow Stick Göz Farı - 100 Ice Sparkle",
+      "originalPrice": 588.44,
+      "salePrice": 337.52,
+      "discountPercent": 42,
+      "productCode": "891811034",
+      "productUrl": "https://www.trendyol.com/l-oreal-paris/l-oreal-paris-le-shadow-stick-goz-fari-100-ice-sparkle-p-891811034?boutiqueId=61&merchantId=107819",
+      "site": "trendyol",
+      "imageUrl": "https://cdn.dsmcdn.com/mnresize/1200/-/ty1623/prod/QC/20250111/12/ff4013ff-d643-3ea9-9bb9-2b664a3c817c/1_org_zoom.jpg"
     }
   ],
   "fakeDeals": [
     {
-      "brand": "Note",
-      "name": "Note BB Lip Corrector Dudak Parlatıcısı No: 05",
-      "claimedDiscount": 70,
-      "normalPrice": 179.9,
-      "inflatedPrice": 599.9,
-      "currentPrice": 179.9,
+      "brand": "Flormar",
+      "name": "Flormar Baked Blush-On No: 59 Dusty Rose",
+      "claimedDiscount": 60,
+      "normalPrice": 419.9,
+      "inflatedPrice": 1049.9,
+      "currentPrice": 419.9,
       "realDiscount": 0,
       "site": "trendyol"
     },
     {
       "brand": "Revolution",
-      "name": "Revolution Juicy Peptide Lip Balm Pink Strawberry",
+      "name": "Revolution pH Bomb Lip & Cheek Yağ Universal",
       "claimedDiscount": 60,
-      "normalPrice": 449.9,
-      "inflatedPrice": 1124.9,
-      "currentPrice": 449.9,
+      "normalPrice": 274.9,
+      "inflatedPrice": 687.9,
+      "currentPrice": 274.9,
       "realDiscount": 0,
       "site": "trendyol"
     },
     {
       "brand": "Max Factor",
-      "name": "Max Factor Miracle Pure Lip Gloss Vital Rose",
+      "name": "Max Factor Lipfinity Velvet Mat Ruj 5 Merlot",
       "claimedDiscount": 60,
-      "normalPrice": 499.9,
-      "inflatedPrice": 1249.9,
-      "currentPrice": 499.9,
+      "normalPrice": 229.9,
+      "inflatedPrice": 579.9,
+      "currentPrice": 229.9,
       "realDiscount": 0,
       "site": "trendyol"
     }
