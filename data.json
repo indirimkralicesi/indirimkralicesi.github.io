@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-06T14:08:28",
+  "lastUpdated": "2026-04-06T17:40:24",
   "deals": [
     {
       "brand": "L'Oreal Paris",
@@ -22,6 +22,61 @@
       "productUrl": "https://www.trendyol.com/flormar/lift-up-lip-plumper-lipliner-dolgunlastirici-etkili-uzun-sure-kalici-dudak-kalemi-p-940855831?boutiqueId=61&merchantId=1047535",
       "site": "trendyol",
       "imageUrl": "https://cdn.dsmcdn.com/mnresize/1200/-/ty1688/prod/QC_ENRICHMENT/20250529/16/6f317fa5-b79b-3dbf-9e44-4d83f878150d/1_org_zoom.jpg"
+    },
+    {
+      "brand": "Garnier",
+      "name": "Saf&temiz Cilt Kusurları Karşıtı Kağıt Yüz Maskesi",
+      "originalPrice": 194.9,
+      "salePrice": 114.25,
+      "discountPercent": 41,
+      "productCode": "220961176",
+      "productUrl": "https://www.trendyol.com/garnier/saf-temiz-cilt-kusurlari-karsiti-kagit-yuz-maskesi-p-220961176?boutiqueId=61&merchantId=107819",
+      "site": "trendyol",
+      "imageUrl": "https://cdn.dsmcdn.com/mnresize/1200/-/ty1744/product/media/images/prod/PIM/20250912/09/f713fa4e-d3ef-49e3-b828-041c528a3641/1_org_zoom.jpg"
+    },
+    {
+      "brand": "Estee Lauder",
+      "name": "Cilt Bakım Seti - Advanced Night Repair Serum 30ml Revitalizing Supreme Soft Nemlendirici 30ml",
+      "originalPrice": 10075.0,
+      "salePrice": 7052.5,
+      "discountPercent": 30,
+      "productCode": "319439449",
+      "productUrl": "https://www.trendyol.com/estee-lauder/cilt-bakim-seti-advanced-night-repair-serum-30ml-revitalizing-supreme-soft-nemlendirici-30ml-p-319439449?boutiqueId=61&merchantId=109236",
+      "site": "trendyol",
+      "imageUrl": "https://cdn.dsmcdn.com/mnresize/1200/-/ty1000329/product/media/images/prod/PIM/20260202/14/18ce146e-cbc5-4235-b6f2-31654300abb0/1_org_zoom.jpg"
+    },
+    {
+      "brand": "Estee Lauder",
+      "name": "Nemlendirici Krem - Nutritious Soft Creme Gözenek Sıkılaştırıcı, Yağ Kontrolü, Doğal İçerikler, 50ml",
+      "originalPrice": 3080.0,
+      "salePrice": 2310.0,
+      "discountPercent": 25,
+      "productCode": "731519409",
+      "productUrl": "https://www.trendyol.com/estee-lauder/nemlendirici-krem-nutritious-soft-creme-gozenek-sikilastirici-yag-kontrolu-dogal-icerikler-50ml-p-731519409?boutiqueId=61&merchantId=109236",
+      "site": "trendyol",
+      "imageUrl": "https://cdn.dsmcdn.com/mnresize/1200/-/ty1000320/product/media/images/prod/PIM/20260212/06/6ced1ea8-d983-4083-8491-fb61c5cc53e1/1_org_zoom.jpg"
+    },
+    {
+      "brand": "Urban Care",
+      "name": "Urban Care Glikolik Retinol Parlaklık Etkili Onarıcı Saç Bakım Şampuanı 350 ml",
+      "originalPrice": 669.9,
+      "salePrice": 266.9,
+      "discountPercent": 60,
+      "productCode": "",
+      "productUrl": "https://www.watsons.com.tr/urban-care-glikolik-retinol-parlaklik-etkili-onarici-sac-bakim-sampuani-350-ml/p/BP_1489964",
+      "site": "watsons",
+      "imageUrl": "https://media.watsons.com.tr/medias/sys_master/prd-images/h5a/hbe/14032480665630/prd-front-1489964_195x195/prd-front-1489964-195x195.jpg"
+    },
+    {
+      "brand": "Urban Care",
+      "name": "Urban Care Glikolik Retinol Parlaklık Etkili Onarıcı Saç Bakım Serumu 100 ml",
+      "originalPrice": 799.9,
+      "salePrice": 318.9,
+      "discountPercent": 60,
+      "productCode": "",
+      "productUrl": "https://www.watsons.com.tr/urban-care-glikolik-retinol-parlaklik-etkili-onarici-sac-bakim-serumu-100-ml/p/BP_1489985",
+      "site": "watsons",
+      "imageUrl": "https://media.watsons.com.tr/medias/sys_master/prd-images/h80/h5b/14032481452062/prd-front-1489985_195x195/prd-front-1489985-195x195.jpg"
     }
   ],
   "fakeDeals": [
