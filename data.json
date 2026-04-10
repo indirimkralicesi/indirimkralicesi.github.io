@@ -1,30 +1,29 @@
 {
-  "lastUpdated": "2026-04-07T20:38:38",
+  "lastUpdated": "2026-04-10T12:39:32",
   "deals": [
     {
-      "brand": "Flormar",
-      "name": "Sedefli Parlak Oje (Beyaz) - Pearly Nail Enamel - PL201 Luxury White - 8682536035422",
-      "originalPrice": 149.0,
-      "salePrice": 121.0,
-      "discountPercent": 47,
-      "productCode": "256378288",
-      "productUrl": "https://www.trendyol.com/flormar/sedefli-parlak-oje-beyaz-pearly-nail-enamel-pl201-luxury-white-8682536035422-p-256378288?boutiqueId=61&merchantId=1047535",
+      "brand": "L'Oreal Paris",
+      "name": "Infaillible 24H Micro Precision Kaş Kalemi - Light Brunette",
+      "originalPrice": null,
+      "salePrice": 274.46,
+      "discountPercent": 40,
+      "productCode": "35113070",
+      "productUrl": "https://www.trendyol.com/l-oreal-paris/infaillible-24h-micro-precision-kas-kalemi-light-brunette-p-35113070?boutiqueId=61&merchantId=107819",
       "site": "trendyol",
-      "imageUrl": "https://cdn.dsmcdn.com/mnresize/1200/-/ty1552/product/media/images/ty1551/prod/QC/20240917/09/2312e479-1d95-3280-b6ec-23ca62300535/1_org_zoom.jpg"
-    },
-    {
-      "brand": "Clinique",
-      "name": "Take The Day Off - Temizleyici Balm 200 ml",
-      "originalPrice": 2920.0,
-      "salePrice": 2190.0,
-      "discountPercent": 25,
-      "productCode": "221633842",
-      "productUrl": "https://www.trendyol.com/clinique/take-the-day-off-temizleyici-balm-200-ml-p-221633842?boutiqueId=61&merchantId=108362",
-      "site": "trendyol",
-      "imageUrl": "https://cdn.dsmcdn.com/mnresize/1200/-/ty1781/prod/QC_ENRICHMENT/20251024/13/b9743116-6719-3d8e-b274-1d118ef7a84b/1_org_zoom.jpg"
+      "imageUrl": "https://cdn.dsmcdn.com/mnresize/1200/-/ty1835/prod/QC_ENRICHMENT/20260307/14/5b4d98d2-c027-3795-a327-c9c0a6b5d86a/1_org_zoom.jpg"
     }
   ],
   "fakeDeals": [
+    {
+      "brand": "Max Factor",
+      "name": "Max Factor Facefinity Compact Fdt Refill 05 Sand",
+      "claimedDiscount": 77,
+      "normalPrice": 149.0,
+      "inflatedPrice": 649.9,
+      "currentPrice": 149.0,
+      "realDiscount": 0,
+      "site": "trendyol"
+    },
     {
       "brand": "Pastel",
       "name": "Pastel Plump Up Extra Hydrating Plumping Gloss Dolgunlaştıran Dudak Parlatıcısı 205 Just Natural",
@@ -42,16 +41,6 @@
       "normalPrice": 214.9,
       "inflatedPrice": 539.9,
       "currentPrice": 214.9,
-      "realDiscount": 0,
-      "site": "trendyol"
-    },
-    {
-      "brand": "Revolution",
-      "name": "Revolution Ultra Bronzer Medium",
-      "claimedDiscount": 60,
-      "normalPrice": 324.9,
-      "inflatedPrice": 814.9,
-      "currentPrice": 324.9,
       "realDiscount": 0,
       "site": "trendyol"
     }
