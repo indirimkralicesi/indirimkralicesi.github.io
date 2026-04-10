@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-10T16:08:38",
+  "lastUpdated": "2026-04-10T19:39:51",
   "deals": [
     {
       "brand": "L'Oreal Paris",
@@ -22,6 +22,61 @@
       "productUrl": "https://www.trendyol.com/garnier/nem-bombasi-canlandirici-kagit-maske-p-1263016?boutiqueId=61&merchantId=107819",
       "site": "trendyol",
       "imageUrl": "https://cdn.dsmcdn.com/mnresize/1200/-/ty1850/prod/QC_ENRICHMENT/20260401/12/710b0226-4dd3-38ec-ae69-bbd799a5b4f8/1_org_zoom.jpg"
+    },
+    {
+      "brand": "Urban Care",
+      "name": "Urban Care Expert Saç Toniği Biotin&Caffeine 200 ml",
+      "originalPrice": 549.9,
+      "salePrice": 164.9,
+      "discountPercent": 40,
+      "productCode": "",
+      "productUrl": "https://www.watsons.com.tr/urban-care-expert-sac-tonigi-biotin-caffeine-200-ml/p/BP_140822",
+      "site": "watsons",
+      "imageUrl": "https://media.watsons.com.tr/medias/sys_master/prd-images/h9e/h07/10445828882462/prd-front-140822_195x195/prd-front-140822-195x195.jpg"
+    },
+    {
+      "brand": "Pastel",
+      "name": "Pastel Cream Blush Krem Allık 41 Dazzling",
+      "originalPrice": 399.9,
+      "salePrice": 119.9,
+      "discountPercent": 40,
+      "productCode": "",
+      "productUrl": "https://www.watsons.com.tr/pastel-cream-blush-krem-allik-41-dazzling/p/BP_1250837",
+      "site": "watsons",
+      "imageUrl": "https://media.watsons.com.tr/medias/sys_master/prd-images/hb1/h70/10003276562462/prd-front-1250837_195x195/prd-front-1250837-195x195.png"
+    },
+    {
+      "brand": "Pastel",
+      "name": "Pastel Cream Blush Krem Allık 42 Rosery",
+      "originalPrice": 399.9,
+      "salePrice": 119.9,
+      "discountPercent": 40,
+      "productCode": "",
+      "productUrl": "https://www.watsons.com.tr/pastel-cream-blush-krem-allik-42-rosery/p/BP_1250844",
+      "site": "watsons",
+      "imageUrl": "https://media.watsons.com.tr/medias/sys_master/prd-images/h8b/hd3/10003275776030/prd-front-1250844_195x195/prd-front-1250844-195x195.png"
+    },
+    {
+      "brand": "Clinique",
+      "name": "Take The Day Off - Temizleyici Balm 200 ml",
+      "originalPrice": 2920.0,
+      "salePrice": 2190.0,
+      "discountPercent": 25,
+      "productCode": "221633842",
+      "productUrl": "https://www.trendyol.com/clinique/take-the-day-off-temizleyici-balm-200-ml-p-221633842?boutiqueId=61&merchantId=108362",
+      "site": "trendyol",
+      "imageUrl": "https://cdn.dsmcdn.com/mnresize/1200/-/ty1781/prod/QC_ENRICHMENT/20251024/13/b9743116-6719-3d8e-b274-1d118ef7a84b/1_org_zoom.jpg"
+    },
+    {
+      "brand": "Clinique",
+      "name": "Seyahat Boy Dramatically Different™ Çok Kuru/Kuru Cilt Tipi İçin Nemlendirici Losyon 15ml",
+      "originalPrice": 419.0,
+      "salePrice": 314.25,
+      "discountPercent": 25,
+      "productCode": "260088581",
+      "productUrl": "https://www.trendyol.com/clinique/seyahat-boy-dramatically-different-cok-kuru-kuru-cilt-tipi-icin-nemlendirici-losyon-15ml-p-260088581?boutiqueId=61&merchantId=108362",
+      "site": "trendyol",
+      "imageUrl": "https://cdn.dsmcdn.com/mnresize/1200/-/ty1607/product/media/images/prod/PIM/20241125/03/d751cdcc-20c2-4905-bcaf-2091a246fdb6/1_org_zoom.jpg"
     }
   ],
   "fakeDeals": [
