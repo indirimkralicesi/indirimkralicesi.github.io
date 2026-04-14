@@ -1,16 +1,16 @@
 {
-  "lastUpdated": "2026-04-12T20:09:30",
+  "lastUpdated": "2026-04-14T22:10:19",
   "deals": [
     {
-      "brand": "L'Oreal Paris",
-      "name": "L'Oréal Paris Le Shadow Stick Göz Farı - 100 Ice Sparkle",
-      "originalPrice": null,
-      "salePrice": 345.51,
-      "discountPercent": 41,
-      "productCode": "891811034",
-      "productUrl": "https://www.trendyol.com/l-oreal-paris/l-oreal-paris-le-shadow-stick-goz-fari-100-ice-sparkle-p-891811034?boutiqueId=61&merchantId=107819",
+      "brand": "Maybelline New York",
+      "name": "Super Stay Lumi Matte Fondöten - 132",
+      "originalPrice": 593.84,
+      "salePrice": 349.9,
+      "discountPercent": 61,
+      "productCode": "893341884",
+      "productUrl": "https://www.trendyol.com/maybelline-new-york/super-stay-lumi-matte-fondoten-132-p-893341884?boutiqueId=61&merchantId=107819",
       "site": "trendyol",
-      "imageUrl": "https://cdn.dsmcdn.com/mnresize/1200/-/ty1623/prod/QC/20250111/12/ff4013ff-d643-3ea9-9bb9-2b664a3c817c/1_org_zoom.jpg"
+      "imageUrl": "https://cdn.dsmcdn.com/mnresize/1200/-/ty1000060/product/media/images/prod/PIM/20260126/07/16729354-0752-4e2e-8528-45631762a69c/1_org_zoom.jpg"
     }
   ],
   "fakeDeals": [
@@ -26,21 +26,21 @@
     },
     {
       "brand": "Pastel",
-      "name": "Pastel Plump Up Extra Hydrating Plumping Gloss Dolgunlaştıran Dudak Parlatıcısı 205 Just Natural",
+      "name": "Pastel Nude Lipstick Nude Ruj 544",
       "claimedDiscount": 60,
-      "normalPrice": 214.9,
-      "inflatedPrice": 539.9,
-      "currentPrice": 214.9,
+      "normalPrice": 174.9,
+      "inflatedPrice": 439.9,
+      "currentPrice": 174.9,
       "realDiscount": 0,
       "site": "trendyol"
     },
     {
-      "brand": "Pastel",
-      "name": "Pastel Plump Up Extra Hydrating Plumping Gloss Dolgunlaştıran Dudak Parlatıcısı 206 Chic",
+      "brand": "Note",
+      "name": "Note Velvet Blur Tint Kadife Bitişli Nemlendirici Mat Ruj 02 Rose Dusk",
       "claimedDiscount": 60,
-      "normalPrice": 214.9,
-      "inflatedPrice": 539.9,
-      "currentPrice": 214.9,
+      "normalPrice": 239.9,
+      "inflatedPrice": 599.9,
+      "currentPrice": 239.9,
       "realDiscount": 0,
       "site": "trendyol"
     }
