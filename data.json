@@ -1,39 +1,19 @@
 {
-  "lastUpdated": "2026-04-14T22:10:19",
+  "lastUpdated": "2026-04-15T22:11:11",
   "deals": [
     {
-      "brand": "Maybelline New York",
-      "name": "Super Stay Lumi Matte Fondöten - 132",
-      "originalPrice": 593.84,
-      "salePrice": 349.9,
-      "discountPercent": 61,
-      "productCode": "893341884",
-      "productUrl": "https://www.trendyol.com/maybelline-new-york/super-stay-lumi-matte-fondoten-132-p-893341884?boutiqueId=61&merchantId=107819",
+      "brand": "Garnier",
+      "name": "Ambre Solaire Makyaj Üstü Güneş Koruyucu Yüz Misti",
+      "originalPrice": null,
+      "salePrice": 199.9,
+      "discountPercent": 58,
+      "productCode": "311988466",
+      "productUrl": "https://www.trendyol.com/garnier/ambre-solaire-makyaj-ustu-gunes-koruyucu-yuz-misti-p-311988466?boutiqueId=61&merchantId=107819",
       "site": "trendyol",
-      "imageUrl": "https://cdn.dsmcdn.com/mnresize/1200/-/ty1000060/product/media/images/prod/PIM/20260126/07/16729354-0752-4e2e-8528-45631762a69c/1_org_zoom.jpg"
+      "imageUrl": "https://cdn.dsmcdn.com/mnresize/1200/-/ty1535/product/media/images/prod/QC/20240910/11/4f581c72-727d-3129-9e20-586fa5c8c75a/1_org_zoom.jpg"
     }
   ],
   "fakeDeals": [
-    {
-      "brand": "Max Factor",
-      "name": "Max Factor Facefinity Compact Fdt Refill 05 Sand",
-      "claimedDiscount": 77,
-      "normalPrice": 149.0,
-      "inflatedPrice": 649.9,
-      "currentPrice": 149.0,
-      "realDiscount": 0,
-      "site": "trendyol"
-    },
-    {
-      "brand": "Pastel",
-      "name": "Pastel Nude Lipstick Nude Ruj 544",
-      "claimedDiscount": 60,
-      "normalPrice": 174.9,
-      "inflatedPrice": 439.9,
-      "currentPrice": 174.9,
-      "realDiscount": 0,
-      "site": "trendyol"
-    },
     {
       "brand": "Note",
       "name": "Note Velvet Blur Tint Kadife Bitişli Nemlendirici Mat Ruj 02 Rose Dusk",
@@ -41,6 +21,26 @@
       "normalPrice": 239.9,
       "inflatedPrice": 599.9,
       "currentPrice": 239.9,
+      "realDiscount": 0,
+      "site": "trendyol"
+    },
+    {
+      "brand": "Pastel",
+      "name": "Pastel Eyeshadow Palette So In Love Far Paleti 202 Nude Dress",
+      "claimedDiscount": 50,
+      "normalPrice": 219.9,
+      "inflatedPrice": 444.9,
+      "currentPrice": 219.9,
+      "realDiscount": 0,
+      "site": "trendyol"
+    },
+    {
+      "brand": "Pastel",
+      "name": "Pastel Bronzer&Highlighter Set Sun Kissed Bronzlaştırıcı Ve Aydınlatıcı 01 Natural Bronze & Soft Glow",
+      "claimedDiscount": 50,
+      "normalPrice": 259.9,
+      "inflatedPrice": 519.9,
+      "currentPrice": 259.9,
       "realDiscount": 0,
       "site": "trendyol"
     }
